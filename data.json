@@ -72,24 +72,31 @@
     },
     {
       "id": "p_mpn8sn5lw4o1",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "En diciembre 2025 se realizó propuesta paramétrica de costo de los racks. \nNo se recibió respuesta por parte de Hermosillo ni siguientes pasos.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Nave Mercado Libre",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "estatus": "09 - Perdido",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "HERMOSILLO/MERCADO LIBRE",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
       "fecha_update": "2026-05-26",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "En diciembre 2025 se realizó propuesta paramétrica de costo de los racks. \nNo se recibió respuesta por parte de Hermosillo ni siguientes pasos."
     },
     {
       "id": "p_mpn8sevdzuib",
@@ -4842,8 +4849,8 @@
     ]
   },
   "_metadata": {
-    "version": 54,
-    "last_updated": "2026-05-26T23:08:45.226Z",
+    "version": 55,
+    "last_updated": "2026-05-26T23:11:14.332Z",
     "last_updated_by": "YATG"
   }
 }
