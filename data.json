@@ -7,6 +7,11 @@
           "ts": "2026-05-26",
           "text": "Se entro propuesta economica LLM Soluciones Centro Sur a MEM el pasado 18 de mayo del 2026.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-05-26",
+          "text": "Ricardo Gomes de MEM, solicita cambio de proyecto y reducir la rodera de 1.1 m propuesto por MEM a 0. 6 m de ancho. Se trabajará en la revisión de la sección para validar.  Adicionalmente, se solicita Carolina Brindis (Asesor de SI), ajuste de presupeusto por reducción de volumen.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -26,7 +31,7 @@
       "fecha_update": "2026-05-26",
       "programa": "DRT Campeche",
       "fecha_arranque": "2026-06-15",
-      "comentario": "Se entro propuesta economica LLM Soluciones Centro Sur a MEM el pasado 18 de mayo del 2026."
+      "comentario": "Ricardo Gomes de MEM, solicita cambio de proyecto y reducir la rodera de 1.1 m propuesto por MEM a 0. 6 m de ancho. Se trabajará en la revisión de la sección para validar.  Adicionalmente, se solicita Carolina Brindis (Asesor de SI), ajuste de presupeusto por reducción de volumen."
     },
     {
       "id": "p_mplyf9434n5t",
@@ -4304,8 +4309,8 @@
     ]
   },
   "_metadata": {
-    "version": 14,
-    "last_updated": "2026-05-26T16:53:06.987Z",
+    "version": 15,
+    "last_updated": "2026-05-26T16:55:55.189Z",
     "last_updated_by": "JDDO"
   }
 }
