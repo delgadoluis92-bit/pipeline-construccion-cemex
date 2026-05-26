@@ -30,7 +30,7 @@
       "fecha_update": "2026-05-26",
       "programa": "Pa probar",
       "fecha_arranque": "2026-08-01",
-      "highlight": true,
+      "highlight": false,
       "comentario": "Puebra"
     },
     {
@@ -4276,8 +4276,8 @@
     ]
   },
   "_metadata": {
-    "version": 12,
-    "last_updated": "2026-05-26T16:18:00.772Z",
+    "version": 13,
+    "last_updated": "2026-05-26T16:32:12.634Z",
     "last_updated_by": "LCDC"
   }
 }
