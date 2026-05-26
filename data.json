@@ -156,24 +156,31 @@
     },
     {
       "id": "p_mpn8s0012d1s",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "Mayo 2026- Se envió precio paramétrico y propuesta conceptual de prefabricado para licitación de construcción de estructura",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Hospital ISSSTE Tlatelolco",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "estatus": "03 - Licitación",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Salud",
+      "cliente": "HH&A/ ISSSTE",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
       "fecha_update": "2026-05-26",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Mayo 2026- Se envió precio paramétrico y propuesta conceptual de prefabricado para licitación de construcción de estructura"
     },
     {
       "id": "p_mpn8rq0pq9ei",
@@ -4863,8 +4870,8 @@
     ]
   },
   "_metadata": {
-    "version": 57,
-    "last_updated": "2026-05-26T23:16:25.108Z",
+    "version": 58,
+    "last_updated": "2026-05-26T23:28:00.944Z",
     "last_updated_by": "YATG"
   }
 }
