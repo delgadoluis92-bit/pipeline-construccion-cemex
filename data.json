@@ -44,24 +44,31 @@
     },
     {
       "id": "p_mpn8t12pe38e",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "Se está trabajando en el RFP para compartirle al cliente el costo de proyecto ejecutivo y paramétrico de construcción",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Barda y Parque Santo Domingo",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "PLANTA MTY",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 2,
       "fecha_update": "2026-05-26",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": "2026-06-15",
+      "comentario": "Se está trabajando en el RFP para compartirle al cliente el costo de proyecto ejecutivo y paramétrico de construcción"
     },
     {
       "id": "p_mpn8sn5lw4o1",
@@ -4835,8 +4842,8 @@
     ]
   },
   "_metadata": {
-    "version": 53,
-    "last_updated": "2026-05-26T23:06:06.285Z",
+    "version": 54,
+    "last_updated": "2026-05-26T23:08:45.226Z",
     "last_updated_by": "YATG"
   }
 }
