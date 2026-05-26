@@ -1,27 +1,6 @@
 {
   "projects": [
     {
-      "id": "p_mpmtglmskzwe",
-      "history": [],
-      "importante_vale": "No",
-      "conversion_tecnica": false,
-      "highlight": false,
-      "responsable": "SAAH",
-      "proyecto": "Prueba 3",
-      "estatus": "01 - Prospección",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Plataformas",
-      "cliente": "GAP",
-      "region": "Norte - Bajío",
-      "estado": "Jalisco",
-      "concreto_total": 3,
-      "anio": 2026,
-      "prioridad": 2,
-      "fecha_update": "2026-05-26",
-      "programa": null,
-      "fecha_arranque": null
-    },
-    {
       "id": "p_mplyf9434n5t",
       "history": [
         {
@@ -4297,8 +4276,8 @@
     ]
   },
   "_metadata": {
-    "version": 11,
-    "last_updated": "2026-05-26T15:57:07.956Z",
+    "version": 12,
+    "last_updated": "2026-05-26T16:18:00.772Z",
     "last_updated_by": "LCDC"
   }
 }
