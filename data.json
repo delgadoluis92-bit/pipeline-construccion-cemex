@@ -40,6 +40,11 @@
           "ts": "2026-05-26",
           "text": "Barda colada en sitio con herrería arquitectonica para delimitar Deportivo SEMAR y CENCIS. Se realizo visita con soluciones, se entregará presupuesto de obra en semana final de mayo 26",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-05-26",
+          "text": "Proveedor LEDCON manda cotización con un monto de 4.85mdp",
+          "author": "MLR"
         }
       ],
       "importante_vale": "No",
@@ -59,7 +64,7 @@
       "fecha_update": "2026-05-26",
       "programa": "Contrato adicional a CENCIS",
       "fecha_arranque": "2026-06-26",
-      "comentario": "Barda colada en sitio con herrería arquitectonica para delimitar Deportivo SEMAR y CENCIS. Se realizo visita con soluciones, se entregará presupuesto de obra en semana final de mayo 26"
+      "comentario": "Proveedor LEDCON manda cotización con un monto de 4.85mdp"
     },
     {
       "id": "p_mpmvj67fd5zo",
@@ -4378,8 +4383,8 @@
     ]
   },
   "_metadata": {
-    "version": 28,
-    "last_updated": "2026-05-26T19:37:13.580Z",
+    "version": 29,
+    "last_updated": "2026-05-26T21:03:02.531Z",
     "last_updated_by": "MLR"
   }
 }
