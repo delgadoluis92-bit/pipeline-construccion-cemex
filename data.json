@@ -3215,14 +3215,14 @@
       "importante_vale": "No",
       "responsable": "YATG",
       "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "100+ Parque Conchello",
+      "proyecto": "100+ Bosque Conchello",
       "subsegmento": "Edificación Pública",
       "tipo": null,
       "cliente": "CEMEX SAB",
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-05-26",
       "anio": 2025,
       "comentario": "Parque público para la comunidad",
       "programa": null,
@@ -3238,7 +3238,9 @@
           "author": "YATG",
           "text": "Parque público para la comunidad"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4383,8 +4385,8 @@
     ]
   },
   "_metadata": {
-    "version": 29,
-    "last_updated": "2026-05-26T21:03:02.531Z",
-    "last_updated_by": "MLR"
+    "version": 30,
+    "last_updated": "2026-05-26T22:56:59.178Z",
+    "last_updated_by": "YATG"
   }
 }
