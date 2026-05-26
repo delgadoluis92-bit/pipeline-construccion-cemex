@@ -6,7 +6,7 @@
       "importante_vale": "Sí",
       "conversion_tecnica": true,
       "responsable": "JMSS",
-      "proyecto": "Prueba 2 - manuel",
+      "proyecto": "Prueba 2 - Manuel",
       "estatus": "01 - Prospección",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "BRT",
@@ -4264,8 +4264,8 @@
     ]
   },
   "_metadata": {
-    "version": 7,
-    "last_updated": "2026-05-26T01:34:23.969Z",
-    "last_updated_by": "JMSS"
+    "version": 8,
+    "last_updated": "2026-05-26T01:37:10.770Z",
+    "last_updated_by": "LCDC"
   }
 }
