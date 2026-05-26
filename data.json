@@ -928,7 +928,9 @@
           "author": "LCDC",
           "text": "Visita a sitio 21mayo - se valida estrategia con CONSA + TRITECNO + SINDICATO\nMapeo de agregados, banco de tiro, maquearía, fletes, distancias y regalias"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4313,8 +4315,8 @@
     ]
   },
   "_metadata": {
-    "version": 18,
-    "last_updated": "2026-05-26T18:19:21.785Z",
-    "last_updated_by": "MLR"
+    "version": 19,
+    "last_updated": "2026-05-26T18:20:02.956Z",
+    "last_updated_by": "SAAH"
   }
 }
