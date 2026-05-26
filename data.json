@@ -128,24 +128,31 @@
     },
     {
       "id": "p_mpn8s6nljvta",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "Mayo 2026- Reunión con COMPRE para presentarle propuestas realizadas en el 2024. Ver con COMPRE siguientes pasos.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Escuelas Nuevo León COMPRE",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Educación",
+      "cliente": "COMPRE/ EDUCACIÓN NL",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
       "fecha_update": "2026-05-26",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Mayo 2026- Reunión con COMPRE para presentarle propuestas realizadas en el 2024. Ver con COMPRE siguientes pasos."
     },
     {
       "id": "p_mpn8s0012d1s",
@@ -4856,8 +4863,8 @@
     ]
   },
   "_metadata": {
-    "version": 56,
-    "last_updated": "2026-05-26T23:13:24.916Z",
+    "version": 57,
+    "last_updated": "2026-05-26T23:16:25.108Z",
     "last_updated_by": "YATG"
   }
 }
