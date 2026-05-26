@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mpn8rgftfys8",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Fifty Doctors",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-05-26",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mpn8ra3td6qm",
       "history": [],
       "importante_vale": "No",
@@ -4646,8 +4667,8 @@
     ]
   },
   "_metadata": {
-    "version": 44,
-    "last_updated": "2026-05-26T23:03:20.297Z",
+    "version": 45,
+    "last_updated": "2026-05-26T23:03:28.505Z",
     "last_updated_by": "YATG"
   }
 }
