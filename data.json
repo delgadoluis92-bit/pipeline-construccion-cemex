@@ -3,8 +3,8 @@
     {
       "id": "p_mplyf9434n5t",
       "history": [],
-      "importante_vale": "No",
-      "conversion_tecnica": false,
+      "importante_vale": "Sí",
+      "conversion_tecnica": true,
       "responsable": "JMSS",
       "proyecto": "Prueba 2 - manuel",
       "estatus": "01 - Prospección",
@@ -18,7 +18,8 @@
       "prioridad": 1,
       "fecha_update": "2026-05-26",
       "programa": "Pa probar",
-      "fecha_arranque": "2026-08-01"
+      "fecha_arranque": "2026-08-01",
+      "highlight": true
     },
     {
       "importante_vale": "No",
@@ -4263,8 +4264,8 @@
     ]
   },
   "_metadata": {
-    "version": 6,
-    "last_updated": "2026-05-26T01:28:04.241Z",
-    "last_updated_by": "LCDC"
+    "version": 7,
+    "last_updated": "2026-05-26T01:34:23.969Z",
+    "last_updated_by": "JMSS"
   }
 }
