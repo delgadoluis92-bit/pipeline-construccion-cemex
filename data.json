@@ -100,24 +100,31 @@
     },
     {
       "id": "p_mpn8sevdzuib",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "Abril 2026- Visita a sitio \n\nMayo 2026- Se contrató Cal y Mayor para estudio de movilidad de las operaciones de la planta y bodegas.\nNos encontramos realizando conceptual y estudio de movilidad para presentar v01 en Junio 2026",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Distrito CEMEX",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "OPERACIONES CEMEX",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
       "fecha_update": "2026-05-26",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Abril 2026- Visita a sitio \n\nMayo 2026- Se contrató Cal y Mayor para estudio de movilidad de las operaciones de la planta y bodegas.\nNos encontramos realizando conceptual y estudio de movilidad para presentar v01 en Junio 2026"
     },
     {
       "id": "p_mpn8s6nljvta",
@@ -4849,8 +4856,8 @@
     ]
   },
   "_metadata": {
-    "version": 55,
-    "last_updated": "2026-05-26T23:11:14.332Z",
+    "version": 56,
+    "last_updated": "2026-05-26T23:13:24.916Z",
     "last_updated_by": "YATG"
   }
 }
