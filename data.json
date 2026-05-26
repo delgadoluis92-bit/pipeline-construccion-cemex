@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mpn8uhf4ug8p",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Naves Cal y Mayor: 52 ha",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-05-26",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mpn8t12pe38e",
       "history": [],
       "importante_vale": "No",
@@ -4793,8 +4814,8 @@
     ]
   },
   "_metadata": {
-    "version": 51,
-    "last_updated": "2026-05-26T23:04:41.905Z",
+    "version": 52,
+    "last_updated": "2026-05-26T23:05:49.744Z",
     "last_updated_by": "YATG"
   }
 }
