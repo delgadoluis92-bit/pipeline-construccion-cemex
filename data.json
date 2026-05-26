@@ -7,6 +7,11 @@
           "ts": "2026-05-26",
           "text": "Se emitio cotización paramétrica por 279.83 mm a venta.\nincluye solo elementos prefabricados y proyecto ejecutivo estructural a convertir de acero a concreto",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-05-26",
+          "text": "Cotización de proveedor LEDCON en 4.85 más IVA",
+          "author": "MLR"
         }
       ],
       "importante_vale": "No",
@@ -26,7 +31,7 @@
       "fecha_update": "2026-05-26",
       "programa": "Racks Escolin PEMEX",
       "fecha_arranque": "2026-08-15",
-      "comentario": "Se emitio cotización paramétrica por 279.83 mm a venta.\nincluye solo elementos prefabricados y proyecto ejecutivo estructural a convertir de acero a concreto"
+      "comentario": "Cotización de proveedor LEDCON en 4.85 más IVA"
     },
     {
       "id": "p_mpmysqco3nm1",
@@ -4373,8 +4378,8 @@
     ]
   },
   "_metadata": {
-    "version": 27,
-    "last_updated": "2026-05-26T19:28:24.287Z",
+    "version": 28,
+    "last_updated": "2026-05-26T19:37:13.580Z",
     "last_updated_by": "MLR"
   }
 }
