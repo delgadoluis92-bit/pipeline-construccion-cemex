@@ -21,26 +21,6 @@
       "fecha_arranque": "2026-08-01"
     },
     {
-      "id": "p_mplxlgaqalfr",
-      "history": [],
-      "importante_vale": "Sí",
-      "conversion_tecnica": false,
-      "responsable": "LCDC",
-      "proyecto": "Prueba 1",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
-      "concreto_total": null,
-      "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-05-26",
-      "programa": null,
-      "fecha_arranque": null
-    },
-    {
       "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -4283,8 +4263,8 @@
     ]
   },
   "_metadata": {
-    "version": 4,
-    "last_updated": "2026-05-26T01:26:16.803Z",
+    "version": 5,
+    "last_updated": "2026-05-26T01:27:31.424Z",
     "last_updated_by": "JMSS"
   }
 }
