@@ -1,0 +1,4251 @@
+{
+  "projects": [
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "TGZ - Nuevo Recinto fiscal (puerto seco)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "Grupo Aeroportuario de Chiapas (GAC)",
+      "region": "Centro - Sureste",
+      "estado": "Chiapas",
+      "concreto_total": 54.0,
+      "fecha_update": "2026-05-23",
+      "anio": 2026,
+      "comentario": null,
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_0",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "Libramiento Sur Colima",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "PINFRA / RECSA",
+      "region": "Pacífico",
+      "estado": "Colima",
+      "concreto_total": 67.0,
+      "fecha_update": "2026-05-23",
+      "anio": 2026,
+      "comentario": "Carretera de asfalto, volumen de concretos convencionales",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_1",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-23",
+          "author": "LCDC",
+          "text": "Carretera de asfalto, volumen de concretos convencionales"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "UNICO Hotel - Short slabs MoBay",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "UNICO",
+      "region": null,
+      "estado": null,
+      "concreto_total": 25.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Negociación con UNICO\nImposibilidad de localizar barras pasajuntas\nPropuesta en concjunto con PREMIX de concreto y colocación CEMEX",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_2",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Negociación con UNICO\nImposibilidad de localizar barras pasajuntas\nPropuesta en concjunto con PREMIX de concreto y colocación CEMEX"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Marina Costa Baja",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "Marina Costa Baja",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": 12.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2027,
+      "comentario": "Construcción de muelle y protección de concreto",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_3",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Construcción de muelle y protección de concreto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "01 - Prospección",
+      "proyecto": "MEX - Renivelación AICM Terminal 1",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "MARINA",
+      "region": "Centro - Sureste",
+      "estado": "Ciudad de Mexico",
+      "concreto_total": 35.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2027,
+      "comentario": null,
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_4",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "COZ - Calle de rodaje y aparcadero de pernocta",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 3.8,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Descartada por logística en Cozumel, adicional del riesgo por bajo monto $88M",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_5",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Descartada por logística en Cozumel, adicional del riesgo por bajo monto $88M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "01 - Prospección",
+      "proyecto": "MID - Reconstrucción Plataforma Comercial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR",
+      "region": "Centro - Sureste",
+      "estado": "Yucatán",
+      "concreto_total": 10.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Se estima $250m",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_6",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Se estima $250m"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "CUN - Construcción triple rodaje E (Norte+Sur)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR / OMEGA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 2.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Conversión de asfalto por concreto fallida o echada para atras por temas financieros\nSe convierte y finalmente se regresa a asfalto\nMonto de contrato $1,100M",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_7",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Conversión de asfalto por concreto fallida o echada para atras por temas financieros\nSe convierte y finalmente se regresa a asfalto\nMonto de contrato $1,100M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "CUN - Rehabilitación Rodaje C",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR / GGA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 1.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Conversión fallida de asfalto por concreto",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_8",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Conversión fallida de asfalto por concreto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "CUN - Plataforma Remota Norte T4",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR / OMEGA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 18.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Contrato Llave en mano",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_9",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Contrato Llave en mano"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "CUN - Salida Rápida C6",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 6.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "RAL gana la licitación\nEntramos con un esquema de cesión de derechos por el concreto\nTomamos la obra por $66M\nCedemos la obra por variaciones en programa, lo toma Asfaltos Gdl",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_10",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "RAL gana la licitación\nEntramos con un esquema de cesión de derechos por el concreto\nTomamos la obra por $66M\nCedemos la obra por variaciones en programa, lo toma Asfaltos Gdl"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "CUN - Plataforma Remota Sur T4",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 36.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2026,
+      "comentario": "Proyecto cerrado con $308M",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_11",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Proyecto cerrado con $308M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "CJS - Ampliación terminal de control de equipae",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "OMA",
+      "region": null,
+      "estado": null,
+      "concreto_total": 3.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Bajo volumen para un esquema de Design&Build y menos en CUU",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_12",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Bajo volumen para un esquema de Design&Build y menos en CUU"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "03 - Licitación",
+      "proyecto": "CUL - Ampliación plataforma comercial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "OMA",
+      "region": "Pacífico",
+      "estado": "Sinaloa",
+      "concreto_total": 20.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Licitación salió únicamente para empresas que hacen servicios de auscultación, eliminado del brochure comercial por alcance del proyecto general",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_13",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Auscultación + Estudios + Diseño + Construcción"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Licitación salió únicamente para empresas que hacen servicios de auscultación, eliminado del brochure comercial por alcance del proyecto general"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "09 - Perdido",
+      "proyecto": "GDL - Edificio Terminal 2",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 33.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Nuestra oferta final conjunta fue de $770M",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_14",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Perdido, gana ANTEUS con una oferta -$80M"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Nuestra oferta final conjunta fue de $770M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "GDL - Nuevo estacionamiento",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 45.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Estacionamiento circular anterior con prespuesto de $1,100M mdp",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_15",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Estacionamiento circular anterior con prespuesto de $1,100M mdp"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "MOR - Rehab pista y plataforma de viraje",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Michoacan",
+      "concreto_total": 9.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Presupuesto base $120M\nDirección de Mantenimiento del aeropuerto (No Florencio)",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_16",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Presupuesto base $120M\nDirección de Mantenimiento del aeropuerto (No Florencio)"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "PVR - Nuevos Rodajes T2",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 6.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Presupuesto base $130M",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_17",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Presupuesto base $130M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "PVR - Plataforma de Handling",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 15.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "Presupuesto base $350M",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_18",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Presupuesto base $350M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "03 - Licitación",
+      "proyecto": "PVR - Viaducto Elevado Terminal 2",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 15.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Presupuesto base $700M",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_19",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Presupuesto base $700M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "09 - Perdido",
+      "proyecto": "BJX - Ampliación plataforma comercial y rodajes",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Norte - Bajío",
+      "estado": "Guanajuato",
+      "concreto_total": 25.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Perdida / Cedida a VISE por monto de $250M",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_20",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Perdida / Cedida a VISE por monto de $250M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "09 - Perdido",
+      "proyecto": "SJD - Ampliación de Plataforma Comercial y Handling",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": 25.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "GAMI cotiza con planta propia dentro del aeropuerto, y con precios margen 0%,\nSe hace validación de costos con Orlando.\nCercania latente",
+      "programa": null,
+      "prioridad": 41,
+      "ccr": null,
+      "base_estab": 13.0,
+      "pavimento": null,
+      "id": "proj_21",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Licitación perdida con GAMI $450M"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "GAMI cotiza con planta propia dentro del aeropuerto, y con precios margen 0%,\nSe hace validación de costos con Orlando.\nCercania latente"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": null,
+      "estatus": "01 - Prospección",
+      "proyecto": "GDL - Rehab. de pavimentos T1",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 3.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Cerrado con $3M contrato de mantenimiento",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_22",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "sin asignar",
+          "text": "Cerrado con $3M contrato de mantenimiento"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "GDL - Nuevo distribuidor vial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 26.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Cerrado con $395MDP",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_23",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Cerrado con $395MDP"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Agricultural Roads - Plain Slab solution",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "RADA / Minst. Agriculture",
+      "region": "Internacional",
+      "estado": "Kingston",
+      "concreto_total": 12.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Contrato: $4.3M usd\nSlipe - 1km\nWood Hall - 0.6km\nResources - 1km\nLandless - 0.4km",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_24",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Contrato: $4.3M usd\nSlipe - 1km\nWood Hall - 0.6km\nResources - 1km\nLandless - 0.4km"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "Agricultural Roads - Unilayer solution",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "RADA / Minst. Agriculture",
+      "region": "Internacional",
+      "estado": "Kingston",
+      "concreto_total": 7.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "RADA Rural roads negociation, budget $2MUSD\nOption to move WR1000 from Puerto Rico\nGarnet Edmondson CEO",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_25",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "RADA Rural roads negociation, budget $2MUSD\nOption to move WR1000 from Puerto Rico\nGarnet Edmondson CEO"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "01 - Prospección",
+      "proyecto": "Acueducto Sustituto Chapala–Guadalajara (Acueducto II)",
+      "subsegmento": "Hidráulica",
+      "tipo": "Acueductos",
+      "cliente": "Comisión Estatal del Agua (CEA) / Secretaría de Gestión Integral del Agua (SGIA)",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 20.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "Proyectos y Construcciones de Ingeniería Hidráulica y Civil, S.A. de C.V. \nAP Fras Proyectos y Edificaciones, S.A. de C.V.",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_26",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-16",
+          "author": "LCDC",
+          "text": "AYESA y Gob Estatal empujan el proyecto"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Recorrido previsto similar al actual: 42 km en total, 26 km de bombeo y 16 km a gravedad, con la misma trayectoria que el acueducto existente.\nCapacidad de diseño: 7.5 m³/s (240 millones de m³ anuales)\n10mil mdp"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Proyectos y Construcciones de Ingeniería Hidráulica y Civil, S.A. de C.V. \nAP Fras Proyectos y Edificaciones, S.A. de C.V."
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "GDL - Plataforma Volaris",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "Volaris / GMI",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 21.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2026,
+      "comentario": "En espera de firma de contrato entre Volaris y GMI",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_27",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-16",
+          "author": "LCDC",
+          "text": "En espera de firma de contrato entre Volaris y GMI"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "01 - Prospección",
+      "proyecto": "MXL - Ampliación de Plataforma Comercial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": 10.0,
+      "fecha_update": "2026-05-23",
+      "anio": 2026,
+      "comentario": "Visita a sitio 21mayo - se valida estrategia con CONSA + TRITECNO + SINDICATO\nMapeo de agregados, banco de tiro, maquearía, fletes, distancias y regalias",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": 10.0,
+      "id": "proj_28",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Prospección avanzada del proyecto a fin de estar listos previo a la licitación, estimada en julio"
+        },
+        {
+          "ts": "2026-05-16",
+          "author": "LCDC",
+          "text": "Visita de Scouting de proveedores y socios estratégicos planeada para 21 y 22 de mayo"
+        },
+        {
+          "ts": "2026-05-23",
+          "author": "LCDC",
+          "text": "Visita a sitio 21mayo - se valida estrategia con CONSA + TRITECNO + SINDICATO\nMapeo de agregados, banco de tiro, maquearía, fletes, distancias y regalias"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "09 - Perdido",
+      "proyecto": "Tren Maya Tramo 7",
+      "subsegmento": "Trenes",
+      "tipo": "Ferrocarriles",
+      "cliente": "SEDENA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 77.0,
+      "fecha_update": "2024-01-19",
+      "anio": 2023,
+      "comentario": "Oferta de agregados desde tabasco; Foco de conflicto Xpujil",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 0.0,
+      "base_estab": 0.0,
+      "pavimento": 0.0,
+      "id": "proj_29",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-01-19",
+          "author": "LCDC",
+          "text": "Oferta de agregados desde tabasco; Foco de conflicto Xpujil"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Terminal Usos Múltiples II Puerto de Altamira Etapa I, Fase 2 y Fase 3",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "PINFRA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 64.0,
+      "fecha_update": "2024-02-15",
+      "anio": 2024,
+      "comentario": "Visita al sitio",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 56.0,
+      "base_estab": 0.0,
+      "pavimento": 0.0,
+      "id": "proj_30",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-02-15",
+          "author": "LCDC",
+          "text": "Visita al sitio"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Planta de Urea Privada",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "BCYSA",
+      "region": "Pacífico",
+      "estado": "Colima",
+      "concreto_total": 30.0,
+      "fecha_update": "2024-02-15",
+      "anio": 2024,
+      "comentario": "Visita al sitio",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_31",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-02-15",
+          "author": "LCDC",
+          "text": "Visita al sitio"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Terminal TransMex Guaymas",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Secos",
+      "cliente": "Transmex",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 12.9,
+      "fecha_update": "2024-02-15",
+      "anio": 2023,
+      "comentario": "Standby pues estan analizando nuevas alternativas de proyectos del 2024",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 11.9,
+      "base_estab": 0.0,
+      "pavimento": 1.0,
+      "id": "proj_32",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-02-15",
+          "author": "LCDC",
+          "text": "Standby pues estan analizando nuevas alternativas de proyectos del 2024"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Conversión Camino Vida & Esperanza",
+      "subsegmento": "Trenes",
+      "tipo": "Ferrocarriles",
+      "cliente": "SEDENA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 5.7,
+      "fecha_update": "2024-02-15",
+      "anio": 2023,
+      "comentario": "Descartado, SDN colocará y suministrarán 3 concreteras por tema de anticipos.",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_33",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-02-15",
+          "author": "LCDC",
+          "text": "Descartado, SDN colocará y suministrarán 3 concreteras por tema de anticipos."
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Zona de captación de agua potable para el abastecimiento a la ciudad de Tulum",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "Gob Estatal  / Comisión de Agua Potable y Alcantarillado",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 3.0,
+      "fecha_update": "2025-01-09",
+      "anio": 2025,
+      "comentario": "Inversión estimada $543M",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_34",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-01-09",
+          "author": "LCDC",
+          "text": "Inversión estimada $543M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "03 - Licitación",
+      "proyecto": "Presa Mujer Solteca (Margarita Maza)",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Centro - Sureste",
+      "estado": "Oaxaca",
+      "concreto_total": 276.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2025,
+      "comentario": "27 fallo",
+      "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
+      "prioridad": 1,
+      "ccr": 150.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_35",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-10-15",
+          "author": "LCDC",
+          "text": "Reubicación de Cortina, inversión $7000MDP, recepción de propuestas 24OCT"
+        },
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "27 fallo"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Arroyo TopoChico",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "Gon san Nicolas",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": 56.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2024,
+      "comentario": "Diseño en alianza con Freyssinet + Geoquest",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_36",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-16",
+          "author": "LCDC",
+          "text": "Proyecto desarrollado como propuesta no solicitada en 2025. Continua en el tintero"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Diseño en alianza con Freyssinet + Geoquest"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Proyecto de Rehabilitación Lago Tlahuac - Xico",
+      "subsegmento": "Hidráulica",
+      "tipo": "Tratamiento de Agua",
+      "cliente": "SAEM",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
+      "concreto_total": 40.0,
+      "fecha_update": "2025-04-14",
+      "anio": 2025,
+      "comentario": "Reuniones SAEM, L.Herbiet, Video, Inversionistas",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": 40.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_37",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "Reuniones SAEM, L.Herbiet, Video, Inversionistas"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Distritos de Riego 011 Alto Rio Lerma (Coria)",
+      "subsegmento": "Hidráulica",
+      "tipo": "Distritos de riego",
+      "cliente": "SEDENA",
+      "region": "Norte - Bajío",
+      "estado": "Guanajuato",
+      "concreto_total": 8.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Se presenta a CONAGUA, en colaboración con ROA, cambio en ingenierías a paneles prefabricados",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_38",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "38.5 km"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "construcción de 2km por época de estiaje, poca probabilidad para el equipo de construcción"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Se presenta a CONAGUA, en colaboración con ROA, cambio en ingenierías a paneles prefabricados"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Protección Hidráulica en Tabasco (PROHTAB)",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Centro - Sureste",
+      "estado": "Tabasco",
+      "concreto_total": 8.0,
+      "fecha_update": "2025-04-14",
+      "anio": 2025,
+      "comentario": "Inversión estimada $2700 MDP - Prioridad, convocatoria ABR 2025",
+      "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
+      "prioridad": null,
+      "ccr": 8.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_39",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "Inversión estimada $2700 MDP - Prioridad, convocatoria ABR 2025"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Distrito de Riego 075 Rio Fuerte",
+      "subsegmento": "Hidráulica",
+      "tipo": "Distritos de riego",
+      "cliente": "SEDENA",
+      "region": "Pacífico",
+      "estado": "Sinaloa",
+      "concreto_total": 4.0,
+      "fecha_update": "2025-04-14",
+      "anio": 2025,
+      "comentario": "15.72 km",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_40",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "15.72 km"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "CUN - Ampliación Terminal 4 finger y plataformas",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "ASUR",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 80.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Solo plataformas se mantendrán en concreto, disminuye de 160 a 80\nPor licitarse en 3Q",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_41",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Solo plataformas se mantendrán en concreto, disminuye de 160 a 80\nPor licitarse en 3Q"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Polos de Desarrollo",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Secos",
+      "cliente": "Corredor Itsmo de Tehuantepec (CIIT)",
+      "region": "Centro - Sureste",
+      "estado": "Veracruz",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2024,
+      "comentario": "Imposible diferenciar entre mentiras publicas vs realidad en construcción",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_42",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Fallo a MEM, URCEDIC y PROFHARMAX"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Imposible diferenciar entre mentiras publicas vs realidad en construcción"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "MZT Aerospace Park",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "Top Brain Group",
+      "region": "Pacífico",
+      "estado": "Sinaloa",
+      "concreto_total": 120.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2024,
+      "comentario": "https://losnoticieristas.com/sinaloa/2024/03/colabora-mzt-aerospace-park-con-cemex-y-dotara-de-concreto-especial-para-la-pista-de-aterrizaje-559510/",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_43",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Envio de información certificación LED y recalculo de Pista"
+        },
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "https://losnoticieristas.com/sinaloa/2024/03/colabora-mzt-aerospace-park-con-cemex-y-dotara-de-concreto-especial-para-la-pista-de-aterrizaje-559510/"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "Saguaro Energia  - Soilmixing",
+      "subsegmento": "Energía",
+      "tipo": "Gas natural",
+      "cliente": "Advanced Geosolutions",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 860.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "Etapa 1 de estabilización de suelos: CEO Juan Baez",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": 700.0,
+      "base_estab": 750.0,
+      "pavimento": null,
+      "id": "proj_44",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Reactivación de propuestas AdvGeo. Solo Americanos"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Validado 18 mayo"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Etapa 1 de estabilización de suelos: CEO Juan Baez"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "Saguaro Energia  - Planta Gas LNG",
+      "subsegmento": "Energía",
+      "tipo": "Gas natural",
+      "cliente": "Techint / Bechtel",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 320.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Etapa 1 - condicionado por el Limited Notice to Proceed (LNTP), firmado, se estima el arranque de las actividades entre 15 ~ 17 meses después.\nEtapa 2 - Dependerá de la definición del FID (Final Investment Decision) y que los trabajos previos tengan un avance considerable.",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_45",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Reactivación de propuestas AdvGeo. Solo Americanos"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Pre-FID (esperando decisión final de inversión)\nInversión 15 mil MUSD\nContacto Dale Leiva (USA)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "etapas:\nPreparación - Campamentos pioneros, remediación de suelo y muelle (contratación a cargo de MPL)\nPlanta LNG - Bechtel+Techint 280k m3"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Etapa 1 - condicionado por el Limited Notice to Proceed (LNTP), firmado, se estima el arranque de las actividades entre 15 ~ 17 meses después.\nEtapa 2 - Dependerá de la definición del FID (Final Investment Decision) y que los trabajos previos tengan un avance considerable."
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "04 - Negociación",
+      "proyecto": "Pacific Mexinol - Planta Metanol Topolobampo",
+      "subsegmento": "Energía",
+      "tipo": "Gas natural",
+      "cliente": "Samsung / Techint",
+      "region": "Pacífico",
+      "estado": "Sinaloa",
+      "concreto_total": 270.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Evento de primera piedra 24 abril, inicio a finales de 2026",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_46",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Presenta licitación hacia Samsung y Techint"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Techint - Servicios Aux Waste Water Plant, air Separation Plant (Oxigeno y Nitrogeno) 130k\nSamsung - Petroquimica grande 80k\nCIMESA -  17mil pilas y 60 fosas"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Evento de primera piedra 24 abril, inicio a finales de 2026"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "06 - TBD (Corto Plazo)",
+      "proyecto": "American Mexican Integrated Gas Operations (AMIGO LNG)",
+      "subsegmento": "Energía",
+      "tipo": "Gas natural",
+      "cliente": "Mota Engil México",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 63.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "se fabrica en astilleros de Dubai (Drydocks World) y se remolca a Guaymas.\nLa obra civil mexicana se limita a: muelle, atracaderos, infraestructura portuaria, tanques de almacenamiento en tierra, oficinas, vialidades y servicios auxiliares.",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_47",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Pre-FID / FID inminente (esperado Q1 2026; retrasado)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Este proyecto cambió drásticamente de concepto en 2024-2025. Era originalmente una terminal LNG terrestre tradicional, pero se reconceptualizó como FLNG (Floating LNG) baja de 270k m3 a 63k m3"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "se fabrica en astilleros de Dubai (Drydocks World) y se remolca a Guaymas.\nLa obra civil mexicana se limita a: muelle, atracaderos, infraestructura portuaria, tanques de almacenamiento en tierra, oficinas, vialidades y servicios auxiliares."
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "Parque Eólico Cimarron",
+      "subsegmento": "Energía",
+      "tipo": "Sustentables",
+      "cliente": "ELECNOR",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": 23.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_48",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Energía Los Cabos (ELC I)",
+      "subsegmento": "Energía",
+      "tipo": "Sustentables",
+      "cliente": "HDF Energy",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": 25.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "El proyecto está estancado y HDF Energy no ha hecho FID",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_49",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "2.5k MDD 2da inversión (Puerto Libertad). BCS dos proyectos, Yucuatan y CIIT. Hidrogeno verde… Renewstable (Eolico y solar->Electrolisis->Baterias->Almacenamiento hidrogeno"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "El proyecto está estancado y HDF Energy no ha hecho FID"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Helax Istmo de tehuantepec",
+      "subsegmento": "Energía",
+      "tipo": "Gas natural",
+      "cliente": "Helax Istmo / Copenhagen Infrastructure Partners",
+      "region": "Centro - Sureste",
+      "estado": "Oaxaca",
+      "concreto_total": 34.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Consulta indígena en curso (sin MIA, sin permisos)\nComplejo verde: parque solar fotovoltaico, 3 parques eolicos, duct de agua desalinizadora y planta ppal de hidrogeno verde y amoniaco",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_50",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Consulta indígena en curso (sin MIA, sin permisos)\nComplejo verde: parque solar fotovoltaico, 3 parques eolicos, duct de agua desalinizadora y planta ppal de hidrogeno verde y amoniaco"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "CCC Doroteo Arango 1900",
+      "subsegmento": "Energía",
+      "tipo": "Centros de ciclo combinado",
+      "cliente": "CSI Biosphera Green Energy",
+      "region": "Norte - Bajío",
+      "estado": "Durango",
+      "concreto_total": 0.0,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_51",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "Presa Chicoasén II",
+      "subsegmento": "Energía",
+      "tipo": "Sustentables",
+      "cliente": "Presforza",
+      "region": "Centro - Sureste",
+      "estado": "Chiapas",
+      "concreto_total": 160.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_52",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "New Fortress Energy Altamira",
+      "subsegmento": "Energía",
+      "tipo": "Gas natural",
+      "cliente": "Arendal / Cimesa",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 40.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_53",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "GDL - Nueva Plataforma Comercial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 88.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Proyecto en ejecución 1,086MDP",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": 33.0,
+      "pavimento": 55.0,
+      "id": "proj_54",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "En elaboración de propuesta técnica. Entrega 14 mayo"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Proyecto en ejecución 1,086MDP"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "05 - Cerrado",
+      "proyecto": "NMIA Apron Reconstruction",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "PACKAL / GAP",
+      "region": "Internacional",
+      "estado": "Kingston",
+      "concreto_total": 67.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "En espera de la no objeción de la JCAA para inicio de los trabajos",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_55",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Contrato FIDIC, Proyecto ejecutivo & desarrollo de fianzas"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "En espera de la no objeción de la JCAA para inicio de los trabajos"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "GDL - Nuevo ingreso vial (Etapa 2)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 62.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2025,
+      "comentario": "Agosto",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_56",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Agosto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "COJ - Apto Costa Alegre (Careyes / Chalacatepec)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "TYSSA",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 30.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2025,
+      "comentario": "se está licitando una concesión federal para operación internacional + ampliación que probablemente requerirá nueva inversión importante a traves de la SICT en julio 2026\nConcesionario privado operará como aeropuerto internacional\nProbablemente requerirá: ampliación de pista a 3,000 m, nueva terminal mayor, plataforma ampliada, hangares, control aéreo, vialidades de acceso\nInversión estimada para ampliación: $1,500-3,000 mdp",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_57",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "se está licitando una concesión federal para operación internacional + ampliación que probablemente requerirá nueva inversión importante a traves de la SICT en julio 2026\nConcesionario privado operará como aeropuerto internacional\nProbablemente requerirá: ampliación de pista a 3,000 m, nueva terminal mayor, plataforma ampliada, hangares, control aéreo, vialidades de acceso\nInversión estimada para ampliación: $1,500-3,000 mdp"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "09 - Perdido",
+      "proyecto": "TIJ - Plataforma M, G y Rodaje (27-9)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": 60.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2025,
+      "comentario": "Ganó GAMI con $420M",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_58",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Mayo ($500MM)"
+        },
+        {
+          "ts": "2026-05-16",
+          "author": "LCDC",
+          "text": "Ganó GAMI con $420M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "TGZ - Construcción plataformas y Jetbridge para nuevas posiciones en C & D",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "Grupo Aeroportuario de Chiapas (GAC)",
+      "region": "Centro - Sureste",
+      "estado": "Chiapas",
+      "concreto_total": 26.0,
+      "fecha_update": "2023-08-07",
+      "anio": 2025,
+      "comentario": "Septiembre",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_59",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-08-07",
+          "author": "LCDC",
+          "text": "Septiembre"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "MZT - Rehabilitación de doble calle de Rodaje paralela",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "OMA",
+      "region": "Pacífico",
+      "estado": "Sinaloa",
+      "concreto_total": 17.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "$293M",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_60",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Rehabilitación 3 calles de rodaje"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "$293M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "ACA - Ampliación de Pista",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "OMA/SEMAR",
+      "region": "Centro - Sureste",
+      "estado": "Guerrero",
+      "concreto_total": 15.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Ampliación de Pista con ECOTransforma",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_61",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Ampliación de Pista con ECOTransforma"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "MTY - Nueva Plataforma Comercial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "OMA / ALVES RIBEIRO",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": 12.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Nva plataformas comerciales remotas, Parece ser que se pueden adelantar a Octubre",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_62",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Nva plataformas comerciales remotas, Parece ser que se pueden adelantar a Octubre"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "GDL - Nuevo ingreso vial (Etapa 1)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 8.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2025,
+      "comentario": "En elaboración de propuesta técnica. Entrega 16 mayo",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_63",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "En elaboración de propuesta técnica. Entrega 16 mayo"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Presupuesto \"Reconstrucción Riviera\"",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Secos",
+      "cliente": "SEDENA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 100.0,
+      "fecha_update": "2024-09-04",
+      "anio": 2024,
+      "comentario": "Envio de carta de permanencia al Gral y Jefes de frente",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_64",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Envio de carta de permanencia al Gral y Jefes de frente"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Plan de justicia Yaqui - Prefabricados en Canal principal",
+      "subsegmento": "Hidráulica",
+      "tipo": "Distritos de riego",
+      "cliente": "CONAGUA",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 30.0,
+      "fecha_update": "2023-10-10",
+      "anio": 2023,
+      "comentario": "En propuesta de elementos prefabricados, Inicio Makro",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_65",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-10-10",
+          "author": "LCDC",
+          "text": "En propuesta de elementos prefabricados, Inicio Makro"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Puerto Altamira - Reconstrucción Bloques 3&4",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "PINFRA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 38.0,
+      "fecha_update": "2024-09-04",
+      "anio": 2024,
+      "comentario": "Visita al sitio",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 0.0,
+      "base_estab": 0.0,
+      "pavimento": 0.0,
+      "id": "proj_66",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Visita al sitio"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "01 - Prospección",
+      "proyecto": "Nuevo Puerto de Manzanillo (Cuyutlan)",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "CONTECON",
+      "region": "Pacífico",
+      "estado": "Colima",
+      "concreto_total": 550.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "sept 24 - publican reglas de operación del puerto \nsep25 a mayo26 - Prepación de terrenos \nago 25 Inicio de dragado (Issues ambientales denunciado sin permiso SEMARNAT) En curso\njulio 26 Licitación primera terminal privada",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_67",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Inversión pública $4,146 M"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Extensión total: 1,880 hectáreas; ubicado en el Vaso II de la Laguna de Cuyutlán, a ~30 km del actual puerto de Manzanillo (Polígono envolvente 4 veces más grande que la actual)\nNueva Inversión total (CSP): $63,000 mdp (proyecto insignia)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "sept 24 - publican reglas de operación del puerto \nsep25 a mayo26 - Prepación de terrenos \nago 25 Inicio de dragado (Issues ambientales denunciado sin permiso SEMARNAT) En curso\njulio 26 Licitación primera terminal privada"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Puerto Altamira - Construcción Bloques 7&8",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "PINFRA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 58.0,
+      "fecha_update": "2024-09-04",
+      "anio": 2025,
+      "comentario": "Etapas subsecuentes",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_68",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Etapas subsecuentes"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Puerto Altamira - Construcción Bloques 5&6",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "PINFRA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 56.0,
+      "fecha_update": "2024-09-04",
+      "anio": 2024,
+      "comentario": "Etapas subsecuentes",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 0.0,
+      "base_estab": 0.0,
+      "pavimento": 0.0,
+      "id": "proj_69",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Etapas subsecuentes"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "01 - Prospección",
+      "proyecto": "API Matamoros - Puerto del Norte",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "API / MEM",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 387.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2025,
+      "comentario": "8,500MDP",
+      "programa": "Esquema CMRO Gob Tam + CEMEX + API",
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_70",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "MEM será inversionista y desarrollador"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Vialidades: Principal (8.7km), secundaria (5.35km) y Recinto portuario (4.41km)\nEdificio de Aduana\nBerma de servicios\nMuelle Público\nEscolleras \"cubo concreto antifer\""
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "ANTAR definirá drenaje\nRecepción de proyecto ejecutivo de vialidades Ing. Juan Carlos Miranda"
+        },
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "8,500MDP"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "Puerto Veracruz - Muelles y plataformas",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "CICE / CIMESA",
+      "region": "Centro - Sureste",
+      "estado": "Veracruz",
+      "concreto_total": 30.0,
+      "fecha_update": "2024-09-04",
+      "anio": 2024,
+      "comentario": "Inversión pública $1t,800 M",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_71",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Inversión pública $1t,800 M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "06 - TBD (Corto Plazo)",
+      "proyecto": "Puerto Progreso - Plataforma",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "SEMAR",
+      "region": "Centro - Sureste",
+      "estado": "Yucatán",
+      "concreto_total": 20.0,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Proyecto en desarrollo, C/Cesionario definirá su estructura y vocacion ($5,290 M)",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_72",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Proyecto en desarrollo, C/Cesionario definirá su estructura y vocacion ($5,290 M)"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Puerto Progreso - Construcción de Plataforma",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "ASIPONAS",
+      "region": "Centro - Sureste",
+      "estado": "Yucatán",
+      "concreto_total": 12.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Reunión con el Almirante a cargo, desean un esquema de financiamiento a pagarse con tarifa de uso de suelo del puerto. Dirección de Cadena de suministro ve inviable la expansión \"ya tenemos lo que necesitamos en progreso\"",
+      "programa": "Proyectos de Infraestructura 2024-2030",
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_73",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Inversión $5200MDP"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Reunión con el Almirante a cargo, desean un esquema de financiamiento a pagarse con tarifa de uso de suelo del puerto. Dirección de Cadena de suministro ve inviable la expansión \"ya tenemos lo que necesitamos en progreso\""
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Puerto Ensenada - Ampliación",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "SEMAR",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Inversión pública $5,754 M",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_74",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Inversión pública $5,754 M"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "06 - TBD (Corto Plazo)",
+      "proyecto": "Puerto Acapulco -  Modern Terminal Cruceros",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "SEMAR",
+      "region": "Centro - Sureste",
+      "estado": "Guerrero",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Se presenta diseño parametrico premilinar de CCR, 39cm",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_75",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "LCDC",
+          "text": "Inversión pública $386 M"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Se presenta diseño parametrico premilinar de CCR, 39cm"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "LTO - Ampliación Plataforma Comercial",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GACM",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": 13.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Propuesta no solicitada se desarrolla por parte de CEMEX\nEstablece ptto base en $160MDP\nPresentamos $140MDP\nBuscaban cerrar en $80MDP, se descarta",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_76",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Propuesta no solicitada se desarrolla por parte de CEMEX\nEstablece ptto base en $160MDP\nPresentamos $140MDP\nBuscaban cerrar en $80MDP, se descarta"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Distrito de Riego 026 Bajo San Juan - Rhode",
+      "subsegmento": "Hidráulica",
+      "tipo": "Distritos de riego",
+      "cliente": "SEDENA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": 3.5,
+      "fecha_update": "2025-04-14",
+      "anio": 2025,
+      "comentario": "15 km",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_77",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "15 km"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Gasoducto Xalapa - Coatepec - Zapata",
+      "subsegmento": "Otros",
+      "tipo": "Otros",
+      "cliente": "Gas Natural del Noroeste / GDI",
+      "region": "Centro - Sureste",
+      "estado": "Veracruz",
+      "concreto_total": null,
+      "fecha_update": "2024-01-28",
+      "anio": 2024,
+      "comentario": "Obtiene permisos de construcción",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_78",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-01-28",
+          "author": "LCDC",
+          "text": "Obtiene permisos de construcción"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "05 - Cerrado",
+      "proyecto": "Tren Maya Tramo 6, Frente 7",
+      "subsegmento": "Trenes",
+      "tipo": "Ferrocarriles",
+      "cliente": "SEDENA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 95.0,
+      "fecha_update": "2023-12-12",
+      "anio": 2023,
+      "comentario": "Intalación en curso",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_79",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-12-12",
+          "author": "LCDC",
+          "text": "Intalación en curso"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Tren Maya Tramo 6, Prefabricados",
+      "subsegmento": "Trenes",
+      "tipo": "Ferrocarriles",
+      "cliente": "SEDENA",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 70.0,
+      "fecha_update": "2023-11-09",
+      "anio": 2024,
+      "comentario": "Indefinición de prefabricadores",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_80",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-11-09",
+          "author": "LCDC",
+          "text": "Indefinición de prefabricadores"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "04 - Negociación",
+      "proyecto": "Lbto.  Cd. Mante",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "CALZADA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "\"Hycsa se encargará del mismo... La empresa será la encargada de efectuarlo\"\nConcesionaria: Autopista Mante-Tula, S.A. de C.V. \nModelo: Extensión de 22 años a la concesión original Mante-Ocampo-Tula\nDirector de Concesiones HYCSA: José Manuel Fortes",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_81",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "Conversión"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "IVH / JDDO",
+          "text": "\"Hycsa se encargará del mismo... La empresa será la encargada de efectuarlo\"\nConcesionaria: Autopista Mante-Tula, S.A. de C.V. \nModelo: Extensión de 22 años a la concesión original Mante-Ocampo-Tula\nDirector de Concesiones HYCSA: José Manuel Fortes"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Aut. Peyote – Matehuala",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "VALORAN",
+      "region": "Norte - Bajío",
+      "estado": "San Luis Potosi",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_82",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Libramiento Noreste de Monterrey",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "CONSTRUOBRAS",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_83",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Lbto. Navojoa",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "DCC",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_84",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Viaducto Tampico",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "CALZADA",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_85",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "By Pass Ensenada (CMRO)",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "BANOBRAS",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_86",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Cd. Mendoza – Córdoba (CMRO)",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "BANOBRAS",
+      "region": "Centro - Sureste",
+      "estado": "Veracruz",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_87",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Monclova – Saltillo (CMRO)",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "SICT / BANOBRAS",
+      "region": "Norte - Bajío",
+      "estado": "Coahuila",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_88",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Lbto. Monclova-Castaños",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Coahuila",
+      "region": "Norte - Bajío",
+      "estado": "Coahuila",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_89",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Lbto.Morelos-Zaragoza",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Coahuila",
+      "region": "Norte - Bajío",
+      "estado": "Coahuila",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_90",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Ampliación Puente Piedras Negras",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Coahuila",
+      "region": "Norte - Bajío",
+      "estado": "Coahuila",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_91",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "BRT Tampico",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Tamaulipas",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_92",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Lbto.  Poniente de Hermosillo",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "TBD",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_93",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Lbto.  Sur de la Paz",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Baja California Sur",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_94",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "01 - Prospección",
+      "proyecto": "Lbto.  Sur de Oaxaca",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Oaxaca",
+      "region": "Centro - Sureste",
+      "estado": "Oaxaca",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_95",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Libramiento Metropolitano de Querétaro",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "OMEGA",
+      "region": "Norte - Bajío",
+      "estado": "Queretaro",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Se tuvo un primer acercamiento con el director de proyecto, en septiembre se tiene uno nuevo para compartir información hacia CEMEX",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_96",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "Se tuvo un primer acercamiento con el director de proyecto, en septiembre se tiene uno nuevo para compartir información hacia CEMEX"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Lbto. de Querétaro – La Pitahaya",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "VALORAN",
+      "region": "Norte - Bajío",
+      "estado": "Queretaro",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "PNS en espera de licitación por parte de la SICT",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_97",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "PNS en espera de licitación por parte de la SICT"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Aut. México – Querétaro Cpo. B (Palmillas – Querétaro)",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "SICT / BANOBRAS",
+      "region": "Norte - Bajío",
+      "estado": "Queretaro",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_98",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Aut. Córdoba - Veracruz",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "SICT / BANOBRAS",
+      "region": "Centro - Sureste",
+      "estado": "Veracruz",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_99",
+      "conversion_tecnica": false,
+      "history": []
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "09 - Perdido",
+      "proyecto": "Corredor 2000",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "CALZADA",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Elaboración de presupueto",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_100",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "Elaboración de presupueto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "04 - Negociación",
+      "proyecto": "Lbto.Norponiente de Saltillo",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "ROADIS",
+      "region": "Norte - Bajío",
+      "estado": "Coahuila",
+      "concreto_total": 110.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "Concesionario: Concesionaria Autopista Monterrey-Saltillo, S.A. de C.V. (CAMS)\nLongitud del segundo cuerpo: 23.56 km \nTramo: desde el entronque con la Carretera a Torreón hasta la intersección en Ojo Caliente con la Autopista Saltillo-Monterrey\nConversión: de carretera tipo A2 (2 carriles) a tipo A4S/A4 (4 carriles en 2 cuerpos)",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_101",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "Revisión de proyecto ejecutivo y actualización de propuesta económica"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "IVH / JDDO",
+          "text": "Pre-construcción / Esperando arranque del concesionario (proyecto autorizado, MIA publicada; obra licitada pero sin iniciar"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "IVH / JDDO",
+          "text": "Concesionario: Concesionaria Autopista Monterrey-Saltillo, S.A. de C.V. (CAMS)\nLongitud del segundo cuerpo: 23.56 km \nTramo: desde el entronque con la Carretera a Torreón hasta la intersección en Ojo Caliente con la Autopista Saltillo-Monterrey\nConversión: de carretera tipo A2 (2 carriles) a tipo A4S/A4 (4 carriles en 2 cuerpos)"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "JDDO",
+      "estatus": "09 - Perdido",
+      "proyecto": "Aut. Atlacomulco - Polotitlán",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "ICA",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Asesoría de personal técnico de ICA",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_102",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "IVH / JDDO",
+          "text": "Asesoría de personal técnico de ICA"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "100+ Acceso",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "CEMEX SAB",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Acceso de Parque. Conchello. Incluye una caseta de acceso y estacionamiento de 45 cajones",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_103",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Acceso de Parque. Conchello. Incluye una caseta de acceso y estacionamiento de 45 cajones"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "100+ Parque Conchello",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "CEMEX SAB",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Parque público para la comunidad",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_104",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Parque público para la comunidad"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Polideportivo Ciudad Victoria",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "PRODET",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Urbanización de estacionamiento y canchas deportivas",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_105",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Urbanización de estacionamiento y canchas deportivas"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Estacionamiento Estructurado UANL",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "NET CX",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Edificio de estacionamiento de 6 niveles con 1,650 cajones",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_106",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Edificio de estacionamiento de 6 niveles con 1,650 cajones"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "01 - Prospección",
+      "proyecto": "CECI - UMF",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "IMSS",
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Meta del IMSS es construir 1,000 CECI en 2 años. Se esta evaluando proyecto ejecutivo y construcción de estructura mediante prefabricados.",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_107",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Meta del IMSS es construir 1,000 CECI en 2 años. Se esta evaluando proyecto ejecutivo y construcción de estructura mediante prefabricados."
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "CET II",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "SINERGIA",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Proyecto ejecutivo de CET II. El arranque de la onstrucción esta por definirse",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_108",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Proyecto ejecutivo de CET II. El arranque de la onstrucción esta por definirse"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "01 - Prospección",
+      "proyecto": "PECTA (Fase I y 2)",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "SEMARNAT",
+      "region": "Pacífico",
+      "estado": "Hidalgo",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Master plan de 250 ha y Proyecto ejecutivo de Parque de Economía Circular (aprox 30 ha- entre Fase 1y Fase 2). Participación en la urbanización esta por definirse",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_109",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Master plan de 250 ha y Proyecto ejecutivo de Parque de Economía Circular (aprox 30 ha- entre Fase 1y Fase 2). Participación en la urbanización esta por definirse"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "YATG",
+      "estatus": "01 - Prospección",
+      "proyecto": "Parque Ecologico",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "SEMARNAT",
+      "region": "Pacífico",
+      "estado": "Hidalgo",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Proyecto ejecutivo de Parque Ecológico de 40 ha junto proyecto de PECTA. Incluye espacios como vivero, humedales, senderos, etc",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_110",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "YATG",
+          "text": "Proyecto ejecutivo de Parque Ecológico de 40 ha junto proyecto de PECTA. Incluye espacios como vivero, humedales, senderos, etc"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "MLR",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "FAVE 4",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "SEMAR",
+      "region": "Centro - Sureste",
+      "estado": "Ciudad de Mexico",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Alcances: Instalaciones, acabados y exteriores",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_111",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "MLR",
+          "text": "Alcances: Instalaciones, acabados y exteriores"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "MLR",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Complejo Deportivo 4",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": "SEMAR",
+      "region": "Centro - Sureste",
+      "estado": "Ciudad de Mexico",
+      "concreto_total": null,
+      "fecha_update": null,
+      "anio": 2025,
+      "comentario": "Alcances: Exteriores y Acabados",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_112",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "MLR",
+          "text": "Alcances: Exteriores y Acabados"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "09 - Perdido",
+      "proyecto": "Presa El Tunal II",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Norte - Bajío",
+      "estado": "Durango",
+      "concreto_total": 600.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2025,
+      "comentario": "Cortina de CCR de 98 m de alto",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_113",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Cortina de CCR de 98 m de alto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": null,
+      "estatus": "04 - Negociación",
+      "proyecto": "Presa El Novillo",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": 202.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_114",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Cortina de CCR de 36 m de alto"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "sin asignar",
+          "text": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Presa Milpillas",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA / Secretaría del Agua y Medio Ambiente (SAMA)",
+      "region": "Norte - Bajío",
+      "estado": "Zacatecas",
+      "concreto_total": 850.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "8.9 mil mdp\ninversion inicial 350mdp\nOriginalmente la licitación estaba para julio de 2025, NO se cumplieron plazos debido al conflicto social y a la nueva MIA presentada en marzo de 2026.",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": 850.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_115",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Cortina de CCR de 90 m de alto"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Capacidad: 64 millones de metros cúbicos.\nCortina de concreto compactado.\nAltura: 90 metros.\nLongitud: 295.25 metros.\nVertedor: Cimacio tipo Creager.\nCanal de descarga de: 100 metros, para proporcionar 1.3 m3/s."
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "8.9 mil mdp\ninversion inicial 350mdp\nOriginalmente la licitación estaba para julio de 2025, NO se cumplieron plazos debido al conflicto social y a la nueva MIA presentada en marzo de 2026."
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Presa Puerta del Sol",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA / Comisión Estatal del Agua (CEA Sonora)",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 400.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "STAND BY (MIA rechazada marzo 2026)",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_116",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Cortina de CCR"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Cortina: 60 m de altura × 270 m de longitud"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Presas en: Sinoquipe (río Sonora), Puerta del Sol y Las Chivas (río San Miguel de Horcasitas). Inversión total: 7,000 mdp en tres años"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Escenario A: Cortina de gravedad CCR 60 m × 270 m ~330,000 m³ de CCR\n\nEscenario B: Cortina de enrocamiento con cara de concreto (CFRD) o materiales graduados con núcleo arcilloso Concreto solo en losa de cara (plinto) -25,000 m³\n\nEn ambos casos el concreto convencional  -60,000 m³ \nObra de toma: 5,000-8,000 m³\nVertedor: 20,000-30,000 m³\nObra de desvío: 8,000-12,000 m³\nDesagüe de fondo, galerías, instrumentación: 6,000-10,000 m³"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Recursos federales etiquetados ($1,500 mdp en PEF 2026 SEMARNAT, listos para usar) Cortina CCR confirmada 5 empresas ya licitaron movimientos de tierra Compromiso político alto (Sheinbaum + Durazo, ambos Morena)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "STAND BY (MIA rechazada marzo 2026)"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Reforzamiento Presa La Amistad",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "Comisión Internacional de Límites y Aguas (CILA) / CONAGUA / US Army Corps of Engineers",
+      "region": "Norte - Bajío",
+      "estado": "Coahuila",
+      "concreto_total": 118.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2027,
+      "comentario": "Actualmente en etapa de diseño (Technoproject), se espera licitación para construcción del Muro Diafragma Compuesto en Marzo",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_117",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Muro diafragma de 51 m de profundidad y 2.6 km de longitud"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Coahuila (Ciudad Acuña) — lado mexicano de la cortina\nCILA en Cd Juarez\nSe han detectado más sumideros y filtraciones en el lado mexicano de la presa. A la fecha se han identificado 55 sumideros"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Inversión: MEX USD ~125 mdd / ~$1,180 mdp, USAUSD ~161 mdd\nObra 30 meses\nLicitacion inminente"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Bauer Maschinen / Bauer Spezialtiefbau\nTreviicos / Trevi Group\nSoletanche Bachy\nKeller Group\nICA\nPINFRA"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "concreto plástico (plastic concrete) con bentonita (Chicoasén)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Actualmente en etapa de diseño (Technoproject), se espera licitación para construcción del Muro Diafragma Compuesto en Marzo"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "10 - Ejecución",
+      "proyecto": "Presa Derivadora Armería",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Pacífico",
+      "estado": "Colima",
+      "concreto_total": 144.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2025,
+      "comentario": "Cortina de CCV, 6 m de altura y 150 m de longitud",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_118",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Cortina de CCV, 6 m de altura y 150 m de longitud"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Presa Los Naranjos",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Norte - Bajío",
+      "estado": "Durango",
+      "concreto_total": 140.0,
+      "fecha_update": "2026-05-16",
+      "anio": 2027,
+      "comentario": "Apoyo a Pablo Amaro con alcances y especificaciones de concreto, así como constructivas",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_119",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Muro contención de CCV, 38 m de altura y 200 m de longitud"
+        },
+        {
+          "ts": "2026-05-16",
+          "author": "LCDC",
+          "text": "Apoyo a Pablo Amaro con alcances y especificaciones de concreto, así como constructivas"
+        }
+      ]
+    },
+    {
+      "importante_vale": "Sí",
+      "responsable": "LCDC",
+      "estatus": "03 - Licitación",
+      "proyecto": "Planta Desalinizadora Rosarito",
+      "subsegmento": "Hidráulica",
+      "tipo": "Tratamiento de Agua",
+      "cliente": "CONAGUA / CEA BC / SEMARNAT",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": 80.0,
+      "fecha_update": "2026-05-19",
+      "anio": 2025,
+      "comentario": "Fallo 26 de mayo 5pm",
+      "programa": null,
+      "prioridad": 2,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_120",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Componentes: Planta Potabilizadora, línea de conducción y tanque de almacenamiento."
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Licitación activa / Adjudicación inminente (fallo previsto 22 mayo 2026)\nAYESA hizó el proyecto ejecutivo\n11.5 mil mdp\n3 años"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "ALORA/ALDRA*\n\nComex Concretos A. cf. C.V.\n\nTDSM  Construcción\n\nVAZLU, S. A.\n\nHidrogestiones de California\n\nCemex Concretos SA de CV\n\nBonatti S.P.Aa\n\nFibra Plastic\n\nServicios Nacionales de Aguas \n\nLa Peninsular Compañía Constructora S. A. de C. V.\n\nCOX ENERGY S.A.B. DE CV. y COX WATER S.L., ambas representadas por el mismo representante.\n\nLatinoamerica Agua y Medioambiente.\n\nIngeniería de bombas y controles S.A de C.V."
+        },
+        {
+          "ts": "2026-05-19",
+          "author": "LCDC",
+          "text": "Fallo 26 de mayo 5pm"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Distrito de Riego 100 Alfajayucan",
+      "subsegmento": "Hidráulica",
+      "tipo": "Distritos de riego",
+      "cliente": "CONAGUA",
+      "region": "Pacífico",
+      "estado": "Hidalgo",
+      "concreto_total": 18.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Se niega solicitud de levantamiento topográfico a CONAGUA, inviabilidad por seguridad \"huachicol\"",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_121",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2026-05-15",
+          "author": "ABH",
+          "text": "Esquema de Contratación: Proyecto Integral a Precio Alzado (Proyecto + Construcción): CONAGUA entregara estudios completos de topografía, geotecnia e ingeniería básica y Empresa Ganadora desarrollara el Proyecto Constructivo."
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Se niega solicitud de levantamiento topográfico a CONAGUA, inviabilidad por seguridad \"huachicol\""
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Trolebus Santa Marta",
+      "subsegmento": "Trenes",
+      "tipo": "Ferrocarriles",
+      "cliente": "MOTA ENGIL",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
+      "concreto_total": 70.0,
+      "fecha_update": "2023-11-08",
+      "anio": 2024,
+      "comentario": "Presupuesto en proceso",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_122",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-11-08",
+          "author": "LCDC",
+          "text": "Presupuesto en proceso"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "Distrito de Riego 010 Culiacán-Humaya",
+      "subsegmento": "Hidráulica",
+      "tipo": "Distritos de riego",
+      "cliente": "SEDENA",
+      "region": "Pacífico",
+      "estado": "Sinaloa",
+      "concreto_total": 2.0,
+      "fecha_update": "2025-04-14",
+      "anio": 2025,
+      "comentario": "9 km",
+      "programa": null,
+      "prioridad": 1,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_123",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "9 km"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Prefabricados Tramo 6 Metro Monterrery",
+      "subsegmento": "Trenes",
+      "tipo": "Ferrocarriles",
+      "cliente": "MOTA ENGIL",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": 60.0,
+      "fecha_update": "2023-08-30",
+      "anio": 2023,
+      "comentario": "En espera de retroalimentación del Cliente de nuestra cotización entregada",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 0.0,
+      "base_estab": 0.0,
+      "pavimento": 0.0,
+      "id": "proj_124",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-08-30",
+          "author": "LCDC",
+          "text": "En espera de retroalimentación del Cliente de nuestra cotización entregada"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "PMX - Ampliación zona de movimiento",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "Aeropuertos y Servicios Auxiliares (ASA)",
+      "region": "Centro - Sureste",
+      "estado": "Oaxaca",
+      "concreto_total": null,
+      "fecha_update": "2023-08-23",
+      "anio": 2024,
+      "comentario": "Mota Engil esta trabajando ya en el proyecto, Se le esta vendiendo cemento y concreto lo consumen con aliado Zimat",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_125",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-08-23",
+          "author": "LCDC",
+          "text": "Mota Engil esta trabajando ya en el proyecto, Se le esta vendiendo cemento y concreto lo consumen con aliado Zimat"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Mina \"los Finos\"",
+      "subsegmento": "Otros",
+      "tipo": "Otros",
+      "cliente": "Equinox Gold",
+      "region": "Centro - Sureste",
+      "estado": "Guerrero",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2023,
+      "comentario": "Fallan rendimientos de cemento CPO en proceso de Lixiviación, se descarta",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_126",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-08-21",
+          "author": "LCDC",
+          "text": "Industriales valida las caracteristicas quimicas del cemento para poder entrar al proyecto"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Fallan rendimientos de cemento CPO en proceso de Lixiviación, se descarta"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Puerto Dos Bocas - Rompeolas",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "HYCSA",
+      "region": "Centro - Sureste",
+      "estado": "Tabasco",
+      "concreto_total": 328.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2024,
+      "comentario": "HYCSA no logra concretar propuesta no solicitada",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_127",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-08-14",
+          "author": "LCDC",
+          "text": "Sin actualizacion por parte de Luis Camarena (HYCSA)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "HYCSA no logra concretar propuesta no solicitada"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "proyecto": "TSL - Modernización y ampliación de pista Apto Tamuín",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "GAFSACOMOMM / Grupo Mundo Maya",
+      "region": "Norte - Bajío",
+      "estado": "San Luis Potosi",
+      "concreto_total": 70.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2026,
+      "comentario": "Se presenta diseño de pista en pavimento rígido en zona de umbral aproximación a punto de visada, similar a LMM o TIJ",
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_128",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-24",
+          "author": "LCDC",
+          "text": "Se estableció la comisión consultiva, 1.1km de ampliación de pista"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Ampliación de pista de 1,400 m a 2,550 m (incremento de 82%)\nNueva torre de control\nCalles de rodaje nuevas\nModernización del edificio terminal\n14 proyectos técnicos en ejecución (estudios y obras preliminares"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Aparente inicio de obra agosto 26"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Se presenta diseño de pista en pavimento rígido en zona de umbral aproximación a punto de visada, similar a LMM o TIJ"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Terminal TransMex Cd. Juarez",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Secos",
+      "cliente": "Transmex",
+      "region": "Norte - Bajío",
+      "estado": "Chihuahua",
+      "concreto_total": 0.0,
+      "fecha_update": "2023-07-28",
+      "anio": 2023,
+      "comentario": "CEMEX no participará en este proyecto",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 9.7,
+      "base_estab": 0.0,
+      "pavimento": 0.0,
+      "id": "proj_129",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-07-28",
+          "author": "LCDC",
+          "text": "CEMEX no participará en este proyecto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Presa Nogales",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "Gob. Edo. Sonora",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 31.0,
+      "fecha_update": "2023-08-05",
+      "anio": 2024,
+      "comentario": "Se comparte a Prenosa catalogo a fin de parametrico a la dependencia. En espera de cotización. Bustamante menciona que se esta tambaleando el proyecto",
+      "programa": null,
+      "prioridad": null,
+      "ccr": 22.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_130",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2023-08-05",
+          "author": "LCDC",
+          "text": "Se comparte a Prenosa catalogo a fin de parametrico a la dependencia. En espera de cotización. Bustamante menciona que se esta tambaleando el proyecto"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Presa Rompepicos II - Cortina \"El Divisadero\"",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "Gob. Edo. Nuevo León",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": 290.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2024,
+      "comentario": "Prospección / Replanteamiento (proyecto desistido en oct 2025; en redefinición de ubicación",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": 290.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_131",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Actualmente en elaboración de anteproyecto. Inversión  $ 700 M \"Dycusa\", ya en CCR"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Prospección / Replanteamiento (proyecto desistido en oct 2025; en redefinición de ubicación"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Presa Rompepicos II - Cortina \"Pico del Aguila\"",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "Gob. Edo. Nuevo León",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": 96.0,
+      "fecha_update": "2026-05-18",
+      "anio": 2024,
+      "comentario": "Al estar en replanteo \"el divisadero\" patea a \"pico del aguila\" como Largo plazo",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": 85.0,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_132",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2024-09-04",
+          "author": "LCDC",
+          "text": "Actualmente en elaboración de anteproyecto. Inversión $ 489 M (Posterior a Divisadero)"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Al estar en replanteo \"el divisadero\" patea a \"pico del aguila\" como Largo plazo"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Plan integral para la Zona Metro Valle de Méx",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "CONAGUA",
+      "region": "Centro - Sureste",
+      "estado": "Ciudad de Mexico",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2025,
+      "comentario": "Sigue faltando de Enfoque, prioridad baja",
+      "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_133",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "$51,316 MDP - \"Falta de Enfoque pero alta prioridad\" Lic. Sergio Ramírez Rosales"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Sigue faltando de Enfoque, prioridad baja"
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "08 - Descartado / Inviable",
+      "proyecto": "Reúso de Agua \"Batán para todos¨",
+      "subsegmento": "Hidráulica",
+      "tipo": "Presas",
+      "cliente": "ACUALIA /ANEAS",
+      "region": "Norte - Bajío",
+      "estado": "Queretaro",
+      "concreto_total": null,
+      "fecha_update": "2026-05-18",
+      "anio": 2028,
+      "comentario": "Sheinbaum confirma suspensión: \"Por lo pronto ese proyecto está en suspensión, o por lo pronto cancelado\"\nKuri reconoce: \"él sale en 2027, no quiere dejar una obra a la mitad, falta de respaldo en el Congreso\"",
+      "programa": null,
+      "prioridad": 3,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_134",
+      "conversion_tecnica": false,
+      "history": [
+        {
+          "ts": "2025-04-14",
+          "author": "LCDC",
+          "text": "Esquema APP coordinado por Banobras"
+        },
+        {
+          "ts": "2026-05-18",
+          "author": "LCDC",
+          "text": "Sheinbaum confirma suspensión: \"Por lo pronto ese proyecto está en suspensión, o por lo pronto cancelado\"\nKuri reconoce: \"él sale en 2027, no quiere dejar una obra a la mitad, falta de respaldo en el Congreso\""
+        }
+      ]
+    },
+    {
+      "importante_vale": "No",
+      "responsable": "LCDC",
+      "estatus": "07 - TBD (Largo Plazo)",
+      "proyecto": "Posibles Proyectos en Jamaica",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Gob Jamaica",
+      "region": "Internacional",
+      "estado": "Internacional",
+      "concreto_total": 0.0,
+      "fecha_update": null,
+      "anio": null,
+      "comentario": null,
+      "programa": null,
+      "prioridad": null,
+      "ccr": null,
+      "base_estab": null,
+      "pavimento": null,
+      "id": "proj_135",
+      "conversion_tecnica": false,
+      "history": []
+    }
+  ],
+  "catalogs": {
+    "estatus": [
+      "01 - Prospección",
+      "02 - Desarrollo Ingenierías",
+      "03 - Licitación",
+      "04 - Negociación",
+      "05 - Cerrado",
+      "06 - TBD (Corto Plazo)",
+      "07 - TBD (Largo Plazo)",
+      "08 - Descartado / Inviable",
+      "09 - Perdido",
+      "10 - Ejecución",
+      "11 - Obra Terminada"
+    ],
+    "estados": {
+      "Aguascalientes": "Norte - Bajío",
+      "Baja California": "Pacífico",
+      "Baja California Sur": "Pacífico",
+      "Campeche": "Centro - Sureste",
+      "Chiapas": "Centro - Sureste",
+      "Chihuahua": "Norte - Bajío",
+      "Ciudad de Mexico": "Centro - Sureste",
+      "Coahuila": "Norte - Bajío",
+      "Colima": "Pacífico",
+      "Durango": "Norte - Bajío",
+      "Estado de Mexico": "Centro - Sureste",
+      "Guanajuato": "Norte - Bajío",
+      "Guerrero": "Centro - Sureste",
+      "Hidalgo": "Pacífico",
+      "Jalisco": "Pacífico",
+      "Michoacan": "Pacífico",
+      "Morelos": "Centro - Sureste",
+      "Nayarit": "Pacífico",
+      "Nuevo Leon": "Norte - Bajío",
+      "Oaxaca": "Centro - Sureste",
+      "Puebla": "Centro - Sureste",
+      "Queretaro": "Norte - Bajío",
+      "Quintana Roo": "Centro - Sureste",
+      "San Luis Potosi": "Norte - Bajío",
+      "Sinaloa": "Pacífico",
+      "Sonora": "Pacífico",
+      "Tabasco": "Centro - Sureste",
+      "Tamaulipas": "Norte - Bajío",
+      "Tlaxcala": "Centro - Sureste",
+      "Veracruz": "Centro - Sureste",
+      "Yucatán": "Centro - Sureste",
+      "Zacatecas": "Norte - Bajío"
+    },
+    "tipos": {
+      "Carreteras": "Carreteras y Vialidades",
+      "Viaductos": "Carreteras y Vialidades",
+      "Pasos a Desnivel": "Carreteras y Vialidades",
+      "Puentes": "Carreteras y Vialidades",
+      "Túneles": "Carreteras y Vialidades",
+      "BRT": "Carreteras y Vialidades",
+      "Urbanización": "Carreteras y Vialidades",
+      "Plataformas": "Aeropuertos y Puertos",
+      "Pistas y rodajes": "Aeropuertos y Puertos",
+      "Terminales y servicios": "Aeropuertos y Puertos",
+      "Puertos Marinos": "Aeropuertos y Puertos",
+      "Puertos Secos": "Aeropuertos y Puertos",
+      "Ferrocarriles": "Trenes",
+      "Estaciones": "Trenes",
+      "Metro": "Trenes",
+      "Presas": "Hidráulica",
+      "Acueductos": "Hidráulica",
+      "Tratamiento de Agua": "Hidráulica",
+      "Distritos de riego": "Hidráulica",
+      "Refinerías": "Energía",
+      "Gas natural": "Energía",
+      "Sustentables": "Energía",
+      "Subestaciones eléctricas": "Energía",
+      "Centros de ciclo combinado": "Energía",
+      "Minas": "Energía",
+      "Educación": "Edificación Pública",
+      "Salud": "Edificación Pública",
+      "Oficinas": "Edificación Pública",
+      "Deportivos": "Edificación Pública",
+      "Seguridad": "Edificación Pública",
+      "Edificio de Usos mixtos": "Edificación Pública",
+      "Otros": "Otros"
+    },
+    "regiones": [
+      "Pacífico",
+      "Norte - Bajío",
+      "Centro - Sureste",
+      "Internacional"
+    ],
+    "subsegmentos": [
+      "Carreteras y Vialidades",
+      "Aeropuertos y Puertos",
+      "Trenes",
+      "Hidráulica",
+      "Energía",
+      "Edificación Pública",
+      "Otros"
+    ],
+    "responsables": [
+      "LCDC",
+      "APC",
+      "JDDO",
+      "FRB",
+      "JMSS",
+      "YATG",
+      "MLR",
+      "ESRA",
+      "SAAH"
+    ]
+  },
+  "_metadata": {
+    "version": 1,
+    "last_updated": "2026-05-25T18:00:00Z",
+    "last_updated_by": "LCDC",
+    "description": "Pipeline Construcción CEMEX - v19 (reset limpio)"
+  }
+}
