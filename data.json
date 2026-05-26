@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mpn8nms10j2k",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Planta Ruiz Cortines",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-05-26",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mpmza6am33b8",
       "history": [
         {
@@ -4394,8 +4415,8 @@
     ]
   },
   "_metadata": {
-    "version": 32,
-    "last_updated": "2026-05-26T22:59:22.506Z",
+    "version": 33,
+    "last_updated": "2026-05-26T23:00:30.097Z",
     "last_updated_by": "YATG"
   }
 }
