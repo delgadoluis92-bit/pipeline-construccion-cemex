@@ -23,7 +23,13 @@
     },
     {
       "id": "p_mplyf9434n5t",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "Comentario prueba",
+          "author": "SAAH"
+        }
+      ],
       "importante_vale": "Sí",
       "conversion_tecnica": true,
       "responsable": "JMSS",
@@ -40,7 +46,8 @@
       "fecha_update": "2026-05-26",
       "programa": "Pa probar",
       "fecha_arranque": "2026-08-01",
-      "highlight": true
+      "highlight": true,
+      "comentario": "Comentario prueba"
     },
     {
       "importante_vale": "No",
@@ -4285,8 +4292,8 @@
     ]
   },
   "_metadata": {
-    "version": 9,
-    "last_updated": "2026-05-26T15:55:07.781Z",
+    "version": 10,
+    "last_updated": "2026-05-26T15:55:33.528Z",
     "last_updated_by": "SAAH"
   }
 }
