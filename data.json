@@ -3352,12 +3352,12 @@
       "estatus": "07 - TBD (Largo Plazo)",
       "proyecto": "FAVE 4",
       "subsegmento": "Edificación Pública",
-      "tipo": null,
+      "tipo": "Otros",
       "cliente": "SEMAR",
       "region": "Centro - Sureste",
       "estado": "Ciudad de Mexico",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-05-26",
       "anio": 2025,
       "comentario": "Alcances: Instalaciones, acabados y exteriores",
       "programa": null,
@@ -3373,7 +3373,9 @@
           "author": "MLR",
           "text": "Alcances: Instalaciones, acabados y exteriores"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4311,8 +4313,8 @@
     ]
   },
   "_metadata": {
-    "version": 17,
-    "last_updated": "2026-05-26T18:12:32.589Z",
-    "last_updated_by": "JDDO"
+    "version": 18,
+    "last_updated": "2026-05-26T18:19:21.785Z",
+    "last_updated_by": "MLR"
   }
 }
