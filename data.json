@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mpmysqco3nm1",
+      "history": [
+        {
+          "ts": "2026-05-26",
+          "text": "Barda colada en sitio con herrería arquitectonica para delimitar Deportivo SEMAR y CENCIS. Se realizo visita con soluciones, se entregará presupuesto de obra en semana final de mayo 26",
+          "author": "MLR"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "MLR",
+      "proyecto": "Barda CENCIS",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "SEMAR",
+      "region": "Centro - Sureste",
+      "estado": "Ciudad de Mexico",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 2,
+      "fecha_update": "2026-05-26",
+      "programa": "Contrato adicional a CENCIS",
+      "fecha_arranque": "2026-06-26",
+      "comentario": "Barda colada en sitio con herrería arquitectonica para delimitar Deportivo SEMAR y CENCIS. Se realizo visita con soluciones, se entregará presupuesto de obra en semana final de mayo 26"
+    },
+    {
       "id": "p_mpmvj67fd5zo",
       "history": [
         {
@@ -4315,8 +4343,8 @@
     ]
   },
   "_metadata": {
-    "version": 19,
-    "last_updated": "2026-05-26T18:20:02.956Z",
-    "last_updated_by": "SAAH"
+    "version": 20,
+    "last_updated": "2026-05-26T18:24:31.849Z",
+    "last_updated_by": "MLR"
   }
 }
