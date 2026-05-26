@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mpn8s0012d1s",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Hospital ISSSTE Tlatelolco",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-05-26",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mpn8rq0pq9ei",
       "history": [],
       "importante_vale": "No",
@@ -4688,8 +4709,8 @@
     ]
   },
   "_metadata": {
-    "version": 46,
-    "last_updated": "2026-05-26T23:03:40.921Z",
+    "version": 47,
+    "last_updated": "2026-05-26T23:03:53.857Z",
     "last_updated_by": "YATG"
   }
 }
