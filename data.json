@@ -28,6 +28,11 @@
           "ts": "2026-05-26",
           "text": "Comentario prueba",
           "author": "SAAH"
+        },
+        {
+          "ts": "2026-05-26",
+          "text": "Puebra",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -47,7 +52,7 @@
       "programa": "Pa probar",
       "fecha_arranque": "2026-08-01",
       "highlight": true,
-      "comentario": "Comentario prueba"
+      "comentario": "Puebra"
     },
     {
       "importante_vale": "No",
@@ -4292,8 +4297,8 @@
     ]
   },
   "_metadata": {
-    "version": 10,
-    "last_updated": "2026-05-26T15:55:33.528Z",
-    "last_updated_by": "SAAH"
+    "version": 11,
+    "last_updated": "2026-05-26T15:57:07.956Z",
+    "last_updated_by": "LCDC"
   }
 }
