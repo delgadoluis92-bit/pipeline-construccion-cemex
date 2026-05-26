@@ -3042,7 +3042,9 @@
           "author": "IVH / JDDO",
           "text": "Elaboración de presupueto"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4309,8 +4311,8 @@
     ]
   },
   "_metadata": {
-    "version": 16,
-    "last_updated": "2026-05-26T16:56:16.365Z",
+    "version": 17,
+    "last_updated": "2026-05-26T18:12:32.589Z",
     "last_updated_by": "JDDO"
   }
 }
