@@ -1358,7 +1358,7 @@
       "tipo": "Carreteras",
       "cliente": "RADA / Minst. Agriculture",
       "region": "Internacional",
-      "estado": "Kingston",
+      "estado": null,
       "concreto_total": 12,
       "fecha_update": "2026-05-18",
       "anio": 2026,
@@ -1369,14 +1369,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_24",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "Contrato: $4.3M usd\nSlipe - 1km\nWood Hall - 0.6km\nResources - 1km\nLandless - 0.4km"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -4912,8 +4914,8 @@
     ]
   },
   "_metadata": {
-    "version": 63,
-    "last_updated": "2026-05-27T15:30:11.142Z",
+    "version": 64,
+    "last_updated": "2026-05-27T15:30:15.727Z",
     "last_updated_by": "LCDC"
   }
 }
