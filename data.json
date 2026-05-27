@@ -7,13 +7,18 @@
           "ts": "2026-05-27",
           "text": "Proyeto de 2km de vialidad Inter termínales de concreto, espesor de 30cm, por ejecutarse debajo del viaducto elevado de T2 (VISE)",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-05-27",
+          "text": "Licitación debe publicarse aprox 10 Junio",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "LCDC",
-      "proyecto": "GDL - Nueva vialidad Interterminales",
+      "proyecto": "GDL - Nueva Vialidad Interterminales",
       "estatus": "03 - Licitación",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Viaductos",
@@ -26,7 +31,7 @@
       "fecha_update": "2026-05-27",
       "programa": null,
       "fecha_arranque": "2026-08-01",
-      "comentario": "Proyeto de 2km de vialidad Inter termínales de concreto, espesor de 30cm, por ejecutarse debajo del viaducto elevado de T2 (VISE)"
+      "comentario": "Licitación debe publicarse aprox 10 Junio"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -4931,8 +4936,8 @@
     ]
   },
   "_metadata": {
-    "version": 73,
-    "last_updated": "2026-05-27T15:36:15.052Z",
-    "last_updated_by": "SAAH"
+    "version": 74,
+    "last_updated": "2026-05-27T15:42:22.602Z",
+    "last_updated_by": "LCDC"
   }
 }
