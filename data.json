@@ -4301,9 +4301,9 @@
       "region": "Pacífico",
       "estado": "Baja California",
       "concreto_total": 80,
-      "fecha_update": "2026-05-19",
+      "fecha_update": "2026-05-27",
       "anio": 2025,
-      "comentario": "Fallo 26 de mayo 5pm",
+      "comentario": "Diferimiento de fallo para 03 de junio",
       "programa": null,
       "prioridad": 2,
       "ccr": null,
@@ -4331,8 +4331,15 @@
           "ts": "2026-05-19",
           "author": "LCDC",
           "text": "Fallo 26 de mayo 5pm"
+        },
+        {
+          "ts": "2026-05-27",
+          "text": "Diferimiento de fallo para 03 de junio",
+          "author": "SAAH"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4924,8 +4931,8 @@
     ]
   },
   "_metadata": {
-    "version": 72,
-    "last_updated": "2026-05-27T15:31:18.714Z",
-    "last_updated_by": "LCDC"
+    "version": 73,
+    "last_updated": "2026-05-27T15:36:15.052Z",
+    "last_updated_by": "SAAH"
   }
 }
