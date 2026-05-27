@@ -748,14 +748,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_3",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-19",
           "author": "LCDC",
           "text": "Construcción de muelle y protección de concreto"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4920,8 +4922,8 @@
     ]
   },
   "_metadata": {
-    "version": 70,
-    "last_updated": "2026-05-27T15:31:00.477Z",
+    "version": 71,
+    "last_updated": "2026-05-27T15:31:05.234Z",
     "last_updated_by": "LCDC"
   }
 }
