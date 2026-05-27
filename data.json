@@ -1501,7 +1501,7 @@
       "base_estab": null,
       "pavimento": 10,
       "id": "proj_28",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -4918,8 +4918,8 @@
     ]
   },
   "_metadata": {
-    "version": 68,
-    "last_updated": "2026-05-27T15:30:44.989Z",
+    "version": 69,
+    "last_updated": "2026-05-27T15:30:56.693Z",
     "last_updated_by": "LCDC"
   }
 }
