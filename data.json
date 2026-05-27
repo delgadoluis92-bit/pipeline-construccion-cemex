@@ -1350,7 +1350,7 @@
       ]
     },
     {
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Agricultural Roads - Plain Slab solution",
@@ -4912,8 +4912,8 @@
     ]
   },
   "_metadata": {
-    "version": 62,
-    "last_updated": "2026-05-27T15:29:54.045Z",
+    "version": 63,
+    "last_updated": "2026-05-27T15:30:11.142Z",
     "last_updated_by": "LCDC"
   }
 }
