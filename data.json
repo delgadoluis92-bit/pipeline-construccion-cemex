@@ -656,8 +656,10 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_0",
-      "conversion_tecnica": false,
-      "history": []
+      "conversion_tecnica": true,
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -4916,8 +4918,8 @@
     ]
   },
   "_metadata": {
-    "version": 67,
-    "last_updated": "2026-05-27T15:30:40.896Z",
+    "version": 68,
+    "last_updated": "2026-05-27T15:30:44.989Z",
     "last_updated_by": "LCDC"
   }
 }
