@@ -660,7 +660,7 @@
       "history": []
     },
     {
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "04 - Negociación",
       "proyecto": "Libramiento Sur Colima",
@@ -4916,8 +4916,8 @@
     ]
   },
   "_metadata": {
-    "version": 65,
-    "last_updated": "2026-05-27T15:30:18.463Z",
+    "version": 66,
+    "last_updated": "2026-05-27T15:30:35.539Z",
     "last_updated_by": "LCDC"
   }
 }
