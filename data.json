@@ -1171,7 +1171,7 @@
       ]
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "PVR - Plataforma de Handling",
@@ -4912,8 +4912,8 @@
     ]
   },
   "_metadata": {
-    "version": 61,
-    "last_updated": "2026-05-27T15:29:33.508Z",
+    "version": 62,
+    "last_updated": "2026-05-27T15:29:54.045Z",
     "last_updated_by": "LCDC"
   }
 }
