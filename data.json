@@ -1087,23 +1087,30 @@
       "region": "Pacífico",
       "estado": "Jalisco",
       "concreto_total": 45,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-05-27",
       "anio": 2026,
-      "comentario": "Estacionamiento circular anterior con prespuesto de $1,100M mdp",
+      "comentario": "Conversión técnica ongoing para incluir resilia en la fachada aparente tanto de Terminar como de Estacionamiento.\nGoal llegar a balance financiero y peso menor a 80kg/m2",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
       "id": "proj_15",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "Estacionamiento circular anterior con prespuesto de $1,100M mdp"
+        },
+        {
+          "ts": "2026-05-27",
+          "text": "Conversión técnica ongoing para incluir resilia en la fachada aparente tanto de Terminar como de Estacionamiento.\nGoal llegar a balance financiero y peso menor a 80kg/m2",
+          "author": "LCDC"
         }
-      ]
+      ],
+      "highlight": true,
+      "fecha_arranque": "2026-10-27"
     },
     {
       "importante_vale": "No",
@@ -4905,8 +4912,8 @@
     ]
   },
   "_metadata": {
-    "version": 60,
-    "last_updated": "2026-05-27T15:27:40.620Z",
+    "version": 61,
+    "last_updated": "2026-05-27T15:29:33.508Z",
     "last_updated_by": "LCDC"
   }
 }
