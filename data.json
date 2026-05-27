@@ -642,9 +642,9 @@
       "region": "Pacífico",
       "estado": "Colima",
       "concreto_total": 67,
-      "fecha_update": "2026-05-23",
+      "fecha_update": "2026-05-27",
       "anio": 2026,
-      "comentario": "Carretera de asfalto, volumen de concretos convencionales",
+      "comentario": "Presentación de precio mejorado y tren de reciclado por presentarse el 27",
       "programa": null,
       "prioridad": 3,
       "ccr": null,
@@ -657,8 +657,15 @@
           "ts": "2026-05-23",
           "author": "LCDC",
           "text": "Carretera de asfalto, volumen de concretos convencionales"
+        },
+        {
+          "ts": "2026-05-27",
+          "text": "Presentación de precio mejorado y tren de reciclado por presentarse el 27",
+          "author": "LCDC"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -4870,8 +4877,8 @@
     ]
   },
   "_metadata": {
-    "version": 58,
-    "last_updated": "2026-05-26T23:28:00.944Z",
-    "last_updated_by": "YATG"
+    "version": 59,
+    "last_updated": "2026-05-27T15:21:55.352Z",
+    "last_updated_by": "LCDC"
   }
 }
