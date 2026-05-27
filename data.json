@@ -761,7 +761,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "LCDC",
+      "responsable": "FRB",
       "estatus": "01 - Prospección",
       "proyecto": "MEX - Renivelación AICM Terminal 1",
       "subsegmento": "Aeropuertos y Puertos",
@@ -779,8 +779,10 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_4",
-      "conversion_tecnica": false,
-      "history": []
+      "conversion_tecnica": true,
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4922,8 +4924,8 @@
     ]
   },
   "_metadata": {
-    "version": 71,
-    "last_updated": "2026-05-27T15:31:05.234Z",
+    "version": 72,
+    "last_updated": "2026-05-27T15:31:18.714Z",
     "last_updated_by": "LCDC"
   }
 }
