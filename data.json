@@ -1389,7 +1389,7 @@
       "tipo": "Carreteras",
       "cliente": "RADA / Minst. Agriculture",
       "region": "Internacional",
-      "estado": "Kingston",
+      "estado": null,
       "concreto_total": 7,
       "fecha_update": "2026-05-18",
       "anio": 2026,
@@ -1400,14 +1400,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_25",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "RADA Rural roads negociation, budget $2MUSD\nOption to move WR1000 from Puerto Rico\nGarnet Edmondson CEO"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4914,8 +4916,8 @@
     ]
   },
   "_metadata": {
-    "version": 64,
-    "last_updated": "2026-05-27T15:30:15.727Z",
+    "version": 65,
+    "last_updated": "2026-05-27T15:30:18.463Z",
     "last_updated_by": "LCDC"
   }
 }
