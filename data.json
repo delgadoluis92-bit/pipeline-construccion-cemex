@@ -357,24 +357,31 @@
     },
     {
       "id": "p_mpn8qg55hqnl",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Actualmente realizando proyecto ejecutivo in house. Este proyecto fue contratado por la planta por un monto de $88 mil pesos.\n28 de mayo- se presenta presupuesto paramétrico. Pendiente por definir capex para arrancar proyecto. \n\n-Se continuará a cerrar proyecto ejecutivo",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Remodelación oficinas PLANTA MTY",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "estatus": "02 - Desarrollo Ingenierías",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Oficinas",
+      "cliente": "PLANTA MTY",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Actualmente realizando proyecto ejecutivo in house. Este proyecto fue contratado por la planta por un monto de $88 mil pesos.\n28 de mayo- se presenta presupuesto paramétrico. Pendiente por definir capex para arrancar proyecto. \n\n-Se continuará a cerrar proyecto ejecutivo"
     },
     {
       "id": "p_mpn8q6q14jkf",
@@ -4971,8 +4978,8 @@
     ]
   },
   "_metadata": {
-    "version": 79,
-    "last_updated": "2026-05-28T18:42:26.094Z",
+    "version": 80,
+    "last_updated": "2026-05-28T18:43:49.574Z",
     "last_updated_by": "YATG"
   }
 }
