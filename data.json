@@ -413,24 +413,31 @@
     },
     {
       "id": "p_mpn8pyi1cmpp",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Pendiente por programar reunión de presentación con la directora de construcción",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Biblioteca TEC",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Educación",
+      "cliente": "TEC DE MONTERREY",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Pendiente por programar reunión de presentación con la directora de construcción"
     },
     {
       "id": "p_mpn8pscxkpvw",
@@ -4985,8 +4992,8 @@
     ]
   },
   "_metadata": {
-    "version": 81,
-    "last_updated": "2026-05-28T18:44:41.838Z",
+    "version": 82,
+    "last_updated": "2026-05-28T18:45:14.173Z",
     "last_updated_by": "YATG"
   }
 }
