@@ -334,6 +334,11 @@
           "ts": "2026-05-28",
           "text": "Parque de economía circular se descarto su construcción en este terreno por temas sociales",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-05-28",
+          "text": "Se está evaluando realizar proyecto en terreno en Puebla. Pendiente siguientes pasos por parque equipo de Comercial",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -341,19 +346,19 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "PECH Puebla",
-      "estatus": "08 - Descartado / Inviable",
+      "estatus": "01 - Prospección",
       "subsegmento": "Edificación Pública",
       "tipo": "Urbanización",
       "cliente": "SEMARNAT",
       "region": "Centro - Sureste",
-      "estado": null,
+      "estado": "Puebla",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 3,
       "fecha_update": "2026-05-28",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Parque de economía circular se descarto su construcción en este terreno por temas sociales"
+      "comentario": "Se está evaluando realizar proyecto en terreno en Puebla. Pendiente siguientes pasos por parque equipo de Comercial"
     },
     {
       "id": "p_mpn8qg55hqnl",
@@ -5015,8 +5020,8 @@
     ]
   },
   "_metadata": {
-    "version": 98,
-    "last_updated": "2026-05-28T18:51:44.092Z",
+    "version": 99,
+    "last_updated": "2026-05-28T18:53:07.141Z",
     "last_updated_by": "YATG"
   }
 }
