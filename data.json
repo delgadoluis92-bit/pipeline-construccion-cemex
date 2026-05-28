@@ -2096,7 +2096,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_43",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2024-09-04",
@@ -2108,7 +2108,9 @@
           "author": "LCDC",
           "text": "https://losnoticieristas.com/sinaloa/2024/03/colabora-mzt-aerospace-park-con-cemex-y-dotara-de-concreto-especial-para-la-pista-de-aterrizaje-559510/"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5064,8 +5066,8 @@
     ]
   },
   "_metadata": {
-    "version": 111,
-    "last_updated": "2026-05-28T22:57:06.240Z",
+    "version": 112,
+    "last_updated": "2026-05-28T22:57:22.809Z",
     "last_updated_by": "LCDC"
   }
 }
