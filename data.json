@@ -497,14 +497,14 @@
       "responsable": "YATG",
       "proyecto": "API: Edificio mantenimiento CEMEX",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Oficinas",
+      "cliente": "API",
       "region": null,
       "estado": null,
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 3,
       "fecha_update": "2026-05-26",
       "programa": null,
       "fecha_arranque": null
@@ -4999,8 +4999,8 @@
     ]
   },
   "_metadata": {
-    "version": 93,
-    "last_updated": "2026-05-28T18:48:32.799Z",
+    "version": 94,
+    "last_updated": "2026-05-28T18:48:50.568Z",
     "last_updated_by": "YATG"
   }
 }
