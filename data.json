@@ -301,24 +301,31 @@
     },
     {
       "id": "p_mpn8r12x4kwt",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Propuesta paramétrica y conceptual compartida el 27 de Mayo. \nSe propone fase 1 y fase 2. Pendiente por enviar presupuesto paramétrico total.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Centro comunitario y vivero",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Edificio de Usos mixtos",
+      "cliente": "PLANTA MTY",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Propuesta paramétrica y conceptual compartida el 27 de Mayo. \nSe propone fase 1 y fase 2. Pendiente por enviar presupuesto paramétrico total."
     },
     {
       "id": "p_mpn8qu09mr7n",
@@ -4957,8 +4964,8 @@
     ]
   },
   "_metadata": {
-    "version": 77,
-    "last_updated": "2026-05-28T18:40:58.966Z",
+    "version": 78,
+    "last_updated": "2026-05-28T18:41:49.263Z",
     "last_updated_by": "YATG"
   }
 }
