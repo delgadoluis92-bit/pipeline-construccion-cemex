@@ -273,24 +273,31 @@
     },
     {
       "id": "p_mpn8ra3td6qm",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Propuesta paramétrica de fachada y estructura prefabricada enviada el 26 de mayo.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Prepa Tec Hermosillo Sonora",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "estatus": "03 - Licitación",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Educación",
+      "cliente": "HERMOSILLO/PREPA TEC",
+      "region": "Pacífico",
+      "estado": "Sonora",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Propuesta paramétrica de fachada y estructura prefabricada enviada el 26 de mayo."
     },
     {
       "id": "p_mpn8r12x4kwt",
@@ -4950,8 +4957,8 @@
     ]
   },
   "_metadata": {
-    "version": 76,
-    "last_updated": "2026-05-28T18:38:16.151Z",
+    "version": 77,
+    "last_updated": "2026-05-28T18:40:58.966Z",
     "last_updated_by": "YATG"
   }
 }
