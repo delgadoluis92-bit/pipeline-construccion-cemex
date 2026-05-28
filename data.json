@@ -1814,7 +1814,7 @@
     },
     {
       "importante_vale": "Sí",
-      "responsable": "LCDC",
+      "responsable": "APC",
       "estatus": "03 - Licitación",
       "proyecto": "Presa Mujer Solteca (Margarita Maza)",
       "subsegmento": "Hidráulica",
@@ -1823,9 +1823,9 @@
       "region": "Centro - Sureste",
       "estado": "Oaxaca",
       "concreto_total": 276,
-      "fecha_update": "2026-05-19",
+      "fecha_update": "2026-05-28",
       "anio": 2025,
-      "comentario": "27 fallo",
+      "comentario": "se difiere el fallo de Mujer Solteca para el Viernes 29 de Mayo a las 5 pm",
       "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
       "prioridad": 1,
       "ccr": 150,
@@ -1843,8 +1843,15 @@
           "ts": "2026-05-19",
           "author": "LCDC",
           "text": "27 fallo"
+        },
+        {
+          "ts": "2026-05-28",
+          "text": "se difiere el fallo de Mujer Solteca para el Viernes 29 de Mayo a las 5 pm",
+          "author": "LCDC"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5057,8 +5064,8 @@
     ]
   },
   "_metadata": {
-    "version": 110,
-    "last_updated": "2026-05-28T22:53:06.374Z",
+    "version": 111,
+    "last_updated": "2026-05-28T22:57:06.240Z",
     "last_updated_by": "LCDC"
   }
 }
