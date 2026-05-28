@@ -1160,7 +1160,9 @@
           "author": "LCDC",
           "text": "Licitación salió únicamente para empresas que hacen servicios de auscultación, eliminado del brochure comercial por alcance del proyecto general"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5072,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 115,
-    "last_updated": "2026-05-28T22:58:17.894Z",
+    "version": 116,
+    "last_updated": "2026-05-28T23:01:03.917Z",
     "last_updated_by": "LCDC"
   }
 }
