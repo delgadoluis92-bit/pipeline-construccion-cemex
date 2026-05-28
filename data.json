@@ -1237,7 +1237,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "03 - Licitación",
       "proyecto": "MOR - Rehab pista y plataforma de viraje",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
@@ -1261,7 +1261,9 @@
           "author": "LCDC",
           "text": "Presupuesto base $120M\nDirección de Mantenimiento del aeropuerto (No Florencio)"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": "2026-11-28"
     },
     {
       "importante_vale": "Sí",
@@ -5074,8 +5076,8 @@
     ]
   },
   "_metadata": {
-    "version": 116,
-    "last_updated": "2026-05-28T23:01:03.917Z",
+    "version": 117,
+    "last_updated": "2026-05-28T23:01:29.472Z",
     "last_updated_by": "LCDC"
   }
 }
