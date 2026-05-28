@@ -546,11 +546,11 @@
       "responsable": "YATG",
       "proyecto": "Oficinas Saltillo Planta",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Otros",
+      "tipo": "Oficinas",
+      "cliente": "PLANTA MTY",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
@@ -5013,8 +5013,8 @@
     ]
   },
   "_metadata": {
-    "version": 96,
-    "last_updated": "2026-05-28T18:50:43.220Z",
+    "version": 97,
+    "last_updated": "2026-05-28T18:51:09.364Z",
     "last_updated_by": "YATG"
   }
 }
