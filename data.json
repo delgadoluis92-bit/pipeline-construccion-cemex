@@ -842,9 +842,9 @@
       "region": "Pacífico",
       "estado": "Baja California Sur",
       "concreto_total": 12,
-      "fecha_update": "2026-05-19",
+      "fecha_update": "2026-05-28",
       "anio": 2027,
-      "comentario": "Construcción de muelle y protección de concreto",
+      "comentario": "Cotización enviada Oct 2025.\nFinanciamiento en curso",
       "programa": null,
       "prioridad": 3,
       "ccr": null,
@@ -857,10 +857,15 @@
           "ts": "2026-05-19",
           "author": "LCDC",
           "text": "Construcción de muelle y protección de concreto"
+        },
+        {
+          "ts": "2026-05-28",
+          "text": "Cotización enviada Oct 2025.\nFinanciamiento en curso",
+          "author": "LCDC"
         }
       ],
       "highlight": false,
-      "fecha_arranque": null
+      "fecha_arranque": "2027-07-28"
     },
     {
       "importante_vale": "No",
@@ -5050,8 +5055,8 @@
     ]
   },
   "_metadata": {
-    "version": 108,
-    "last_updated": "2026-05-28T22:51:57.470Z",
+    "version": 109,
+    "last_updated": "2026-05-28T22:52:58.365Z",
     "last_updated_by": "LCDC"
   }
 }
