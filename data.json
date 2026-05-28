@@ -919,7 +919,9 @@
           "author": "LCDC",
           "text": "Descartada por logística en Cozumel, adicional del riesgo por bajo monto $88M"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5055,8 +5057,8 @@
     ]
   },
   "_metadata": {
-    "version": 109,
-    "last_updated": "2026-05-28T22:52:58.365Z",
+    "version": 110,
+    "last_updated": "2026-05-28T22:53:06.374Z",
     "last_updated_by": "LCDC"
   }
 }
