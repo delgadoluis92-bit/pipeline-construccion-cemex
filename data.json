@@ -63,7 +63,7 @@
       "responsable": "YATG",
       "proyecto": "Naves Cal y Mayor: 52 ha",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
+      "subsegmento": "Edificación Pública",
       "tipo": null,
       "cliente": null,
       "region": null,
@@ -4999,8 +4999,8 @@
     ]
   },
   "_metadata": {
-    "version": 89,
-    "last_updated": "2026-05-28T18:47:54.847Z",
+    "version": 90,
+    "last_updated": "2026-05-28T18:48:02.662Z",
     "last_updated_by": "YATG"
   }
 }
