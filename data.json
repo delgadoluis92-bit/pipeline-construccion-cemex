@@ -560,24 +560,31 @@
     },
     {
       "id": "p_mpn8nms10j2k",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Mayo 2026- David nos menciona que se autorizo capex para iniciar proyecto ejecutivo de nave. Pendiente seguimiento para arranque",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Planta Ruiz Cortines",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "PLANTA MTY",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "prioridad": 2,
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Mayo 2026- David nos menciona que se autorizo capex para iniciar proyecto ejecutivo de nave. Pendiente seguimiento para arranque"
     },
     {
       "id": "p_mpmza6am33b8",
@@ -5006,8 +5013,8 @@
     ]
   },
   "_metadata": {
-    "version": 95,
-    "last_updated": "2026-05-28T18:49:48.644Z",
+    "version": 96,
+    "last_updated": "2026-05-28T18:50:43.220Z",
     "last_updated_by": "YATG"
   }
 }
