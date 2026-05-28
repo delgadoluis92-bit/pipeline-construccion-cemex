@@ -441,24 +441,31 @@
     },
     {
       "id": "p_mpn8pscxkpvw",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Trabajando propuesta conceptual + paramétrico para presentación a cliente",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "CEDIS Coripasa",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Edificio de Usos mixtos",
+      "cliente": "CORIPASA",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "prioridad": 3,
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Trabajando propuesta conceptual + paramétrico para presentación a cliente"
     },
     {
       "id": "p_mpn8osldn7oc",
@@ -4992,8 +4999,8 @@
     ]
   },
   "_metadata": {
-    "version": 82,
-    "last_updated": "2026-05-28T18:45:14.173Z",
+    "version": 83,
+    "last_updated": "2026-05-28T18:47:04.840Z",
     "last_updated_by": "YATG"
   }
 }
