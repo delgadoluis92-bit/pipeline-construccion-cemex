@@ -385,24 +385,31 @@
     },
     {
       "id": "p_mpn8q6q14jkf",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "25 Mayo- presentación con JLL sobre construcción prefabricados",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Auditorio y Estacionamiento IPADE",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Educación",
+      "cliente": "ARQUIPLAN/JLL",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "25 Mayo- presentación con JLL sobre construcción prefabricados"
     },
     {
       "id": "p_mpn8pyi1cmpp",
@@ -4978,8 +4985,8 @@
     ]
   },
   "_metadata": {
-    "version": 80,
-    "last_updated": "2026-05-28T18:43:49.574Z",
+    "version": 81,
+    "last_updated": "2026-05-28T18:44:41.838Z",
     "last_updated_by": "YATG"
   }
 }
