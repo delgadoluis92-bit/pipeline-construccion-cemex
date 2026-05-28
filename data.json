@@ -293,7 +293,7 @@
       "estado": "Sonora",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 2,
       "fecha_update": "2026-05-28",
       "programa": null,
       "fecha_arranque": null,
@@ -4999,8 +4999,8 @@
     ]
   },
   "_metadata": {
-    "version": 84,
-    "last_updated": "2026-05-28T18:47:16.929Z",
+    "version": 85,
+    "last_updated": "2026-05-28T18:47:22.067Z",
     "last_updated_by": "YATG"
   }
 }
