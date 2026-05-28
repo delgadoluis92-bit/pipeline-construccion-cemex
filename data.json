@@ -2552,7 +2552,9 @@
           "author": "LCDC",
           "text": "se está licitando una concesión federal para operación internacional + ampliación que probablemente requerirá nueva inversión importante a traves de la SICT en julio 2026\nConcesionario privado operará como aeropuerto internacional\nProbablemente requerirá: ampliación de pista a 3,000 m, nueva terminal mayor, plataforma ampliada, hangares, control aéreo, vialidades de acceso\nInversión estimada para ampliación: $1,500-3,000 mdp"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5066,8 +5068,8 @@
     ]
   },
   "_metadata": {
-    "version": 112,
-    "last_updated": "2026-05-28T22:57:22.809Z",
+    "version": 113,
+    "last_updated": "2026-05-28T22:57:40.727Z",
     "last_updated_by": "LCDC"
   }
 }
