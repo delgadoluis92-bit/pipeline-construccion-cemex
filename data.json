@@ -756,7 +756,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "LCDC",
-      "estatus": "04 - Negociación",
+      "estatus": "05 - Cerrado",
       "proyecto": "Libramiento Sur Colima",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -5044,8 +5044,8 @@
     ]
   },
   "_metadata": {
-    "version": 105,
-    "last_updated": "2026-05-28T22:46:36.756Z",
+    "version": 106,
+    "last_updated": "2026-05-28T22:46:44.077Z",
     "last_updated_by": "LCDC"
   }
 }
