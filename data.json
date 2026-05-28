@@ -669,6 +669,11 @@
           "ts": "2026-05-26",
           "text": "Ricardo Gomes de MEM, solicita cambio de proyecto y reducir la rodera de 1.1 m propuesto por MEM a 0. 6 m de ancho. Se trabajará en la revisión de la sección para validar.  Adicionalmente, se solicita Carolina Brindis (Asesor de SI), ajuste de presupeusto por reducción de volumen.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-05-28",
+          "text": "Se valida la rodera de 60 cm de ancho con cortes a cada 1.30 m. SI Centro Sur, esta trabajando la propueta.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -685,10 +690,10 @@
       "concreto_total": 0.405,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": "DRT Campeche",
       "fecha_arranque": "2026-06-15",
-      "comentario": "Ricardo Gomes de MEM, solicita cambio de proyecto y reducir la rodera de 1.1 m propuesto por MEM a 0. 6 m de ancho. Se trabajará en la revisión de la sección para validar.  Adicionalmente, se solicita Carolina Brindis (Asesor de SI), ajuste de presupeusto por reducción de volumen."
+      "comentario": "Se valida la rodera de 60 cm de ancho con cortes a cada 1.30 m. SI Centro Sur, esta trabajando la propueta."
     },
     {
       "id": "p_mplyf9434n5t",
@@ -5034,8 +5039,8 @@
     ]
   },
   "_metadata": {
-    "version": 101,
-    "last_updated": "2026-05-28T18:53:33.140Z",
-    "last_updated_by": "YATG"
+    "version": 102,
+    "last_updated": "2026-05-28T22:01:38.878Z",
+    "last_updated_by": "JDDO"
   }
 }
