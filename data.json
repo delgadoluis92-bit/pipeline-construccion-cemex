@@ -792,7 +792,7 @@
         }
       ],
       "highlight": false,
-      "fecha_arranque": null
+      "fecha_arranque": "2026-06-30"
     },
     {
       "importante_vale": "Sí",
@@ -5044,8 +5044,8 @@
     ]
   },
   "_metadata": {
-    "version": 104,
-    "last_updated": "2026-05-28T22:46:26.590Z",
+    "version": 105,
+    "last_updated": "2026-05-28T22:46:36.756Z",
     "last_updated_by": "LCDC"
   }
 }
