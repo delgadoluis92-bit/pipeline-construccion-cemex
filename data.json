@@ -739,9 +739,9 @@
       "region": "Centro - Sureste",
       "estado": "Chiapas",
       "concreto_total": 54,
-      "fecha_update": "2026-05-23",
+      "fecha_update": "2026-05-28",
       "anio": 2026,
-      "comentario": null,
+      "comentario": "Proyecto de núcleo intermodal: férreo, aéreo y vial.\nSe entrega diseño preliminar de plataformas categoria D (Carga) y patio de contenedores",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -749,7 +749,13 @@
       "pavimento": null,
       "id": "proj_0",
       "conversion_tecnica": true,
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Proyecto de núcleo intermodal: férreo, aéreo y vial.\nSe entrega diseño preliminar de plataformas categoria D (Carga) y patio de contenedores",
+          "author": "LCDC"
+        }
+      ],
       "highlight": false,
       "fecha_arranque": null
     },
@@ -5044,8 +5050,8 @@
     ]
   },
   "_metadata": {
-    "version": 107,
-    "last_updated": "2026-05-28T22:50:32.953Z",
+    "version": 108,
+    "last_updated": "2026-05-28T22:51:57.470Z",
     "last_updated_by": "LCDC"
   }
 }
