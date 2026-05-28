@@ -4028,14 +4028,14 @@
       "estatus": "01 - Prospección",
       "proyecto": "Parque Ecologico",
       "subsegmento": "Edificación Pública",
-      "tipo": null,
+      "tipo": "Urbanización",
       "cliente": "SEMARNAT",
       "region": "Pacífico",
       "estado": "Hidalgo",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-05-28",
       "anio": 2025,
-      "comentario": "Proyecto ejecutivo de Parque Ecológico de 40 ha junto proyecto de PECTA. Incluye espacios como vivero, humedales, senderos, etc",
+      "comentario": "Parque de economía circular se descarto su construcción en este terreno por temas sociales",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -4048,8 +4048,15 @@
           "ts": "2026-05-15",
           "author": "YATG",
           "text": "Proyecto ejecutivo de Parque Ecológico de 40 ha junto proyecto de PECTA. Incluye espacios como vivero, humedales, senderos, etc"
+        },
+        {
+          "ts": "2026-05-28",
+          "text": "Parque de economía circular se descarto su construcción en este terreno por temas sociales",
+          "author": "YATG"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5027,8 +5034,8 @@
     ]
   },
   "_metadata": {
-    "version": 100,
-    "last_updated": "2026-05-28T18:53:27.116Z",
+    "version": 101,
+    "last_updated": "2026-05-28T18:53:33.140Z",
     "last_updated_by": "YATG"
   }
 }
