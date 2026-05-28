@@ -511,24 +511,31 @@
     },
     {
       "id": "p_mpn8o8yx6ff2",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Abril 2026- Se presentó propuesta concepctual adacuada con predimensionamiento estructural. En espera de comentarios de cliente y firma de cierre de conceptual para continuar con proyecto ejecutivo.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "API Matamoros: Edificio Oficinas",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Oficinas",
+      "cliente": "API",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "prioridad": 3,
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Abril 2026- Se presentó propuesta concepctual adacuada con predimensionamiento estructural. En espera de comentarios de cliente y firma de cierre de conceptual para continuar con proyecto ejecutivo."
     },
     {
       "id": "p_mpn8ny3cc5gm",
@@ -4999,8 +5006,8 @@
     ]
   },
   "_metadata": {
-    "version": 94,
-    "last_updated": "2026-05-28T18:48:50.568Z",
+    "version": 95,
+    "last_updated": "2026-05-28T18:49:48.644Z",
     "last_updated_by": "YATG"
   }
 }
