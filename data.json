@@ -217,24 +217,31 @@
     },
     {
       "id": "p_mpn8rq0pq9ei",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "La solución es inviable, porque la propuesta paramétrica fue de 3,000,000 y solamente querían invertir max 200 mil pesos.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Camellones Morones Prieto",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "estatus": "08 - Descartado / Inviable",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Urbanización",
+      "cliente": "CEMEX MORONES",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "La solución es inviable, porque la propuesta paramétrica fue de 3,000,000 y solamente querían invertir max 200 mil pesos."
     },
     {
       "id": "p_mpn8rgftfys8",
@@ -4936,8 +4943,8 @@
     ]
   },
   "_metadata": {
-    "version": 74,
-    "last_updated": "2026-05-27T15:42:22.602Z",
-    "last_updated_by": "LCDC"
+    "version": 75,
+    "last_updated": "2026-05-28T18:37:20.030Z",
+    "last_updated_by": "YATG"
   }
 }
