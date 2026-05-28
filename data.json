@@ -245,24 +245,31 @@
     },
     {
       "id": "p_mpn8rgftfys8",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-05-28",
+          "text": "Desarrollando propuesta paramétrica de proyecto.\nProyecto 2 torres de consultorios médicos + hospital. 14 niveles cada torre.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Fifty Doctors",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Salud",
+      "cliente": "GRUPO ÁGUILA / SOLUCIONES",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-05-28",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Desarrollando propuesta paramétrica de proyecto.\nProyecto 2 torres de consultorios médicos + hospital. 14 niveles cada torre."
     },
     {
       "id": "p_mpn8ra3td6qm",
@@ -4943,8 +4950,8 @@
     ]
   },
   "_metadata": {
-    "version": 75,
-    "last_updated": "2026-05-28T18:37:20.030Z",
+    "version": 76,
+    "last_updated": "2026-05-28T18:38:16.151Z",
     "last_updated_by": "YATG"
   }
 }
