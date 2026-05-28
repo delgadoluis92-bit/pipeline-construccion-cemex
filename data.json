@@ -764,9 +764,9 @@
       "region": "Pacífico",
       "estado": "Colima",
       "concreto_total": 67,
-      "fecha_update": "2026-05-27",
+      "fecha_update": "2026-05-28",
       "anio": 2026,
-      "comentario": "Presentación de precio mejorado y tren de reciclado por presentarse el 27",
+      "comentario": "Se cierra negociación de concreto:\nBombeo objetivo $300 m3 (no viable)\nSe presentó descuento de dirección, con un tultimo ajuste de -$50 m3 cnc\nLínea de crédito revolvente\n\nSiguiente paso presentan ODV de Wirtgen",
       "programa": null,
       "prioridad": 3,
       "ccr": null,
@@ -783,6 +783,11 @@
         {
           "ts": "2026-05-27",
           "text": "Presentación de precio mejorado y tren de reciclado por presentarse el 27",
+          "author": "LCDC"
+        },
+        {
+          "ts": "2026-05-28",
+          "text": "Se cierra negociación de concreto:\nBombeo objetivo $300 m3 (no viable)\nSe presentó descuento de dirección, con un tultimo ajuste de -$50 m3 cnc\nLínea de crédito revolvente\n\nSiguiente paso presentan ODV de Wirtgen",
           "author": "LCDC"
         }
       ],
@@ -5039,8 +5044,8 @@
     ]
   },
   "_metadata": {
-    "version": 103,
-    "last_updated": "2026-05-28T22:37:12.097Z",
+    "version": 104,
+    "last_updated": "2026-05-28T22:46:26.590Z",
     "last_updated_by": "LCDC"
   }
 }
