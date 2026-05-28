@@ -2944,7 +2944,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_70",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -2966,7 +2966,9 @@
           "author": "LCDC",
           "text": "8,500MDP"
         }
-      ]
+      ],
+      "highlight": true,
+      "fecha_arranque": "2027-03-28"
     },
     {
       "importante_vale": "No",
@@ -5068,8 +5070,8 @@
     ]
   },
   "_metadata": {
-    "version": 113,
-    "last_updated": "2026-05-28T22:57:40.727Z",
+    "version": 114,
+    "last_updated": "2026-05-28T22:58:03.622Z",
     "last_updated_by": "LCDC"
   }
 }
