@@ -4387,7 +4387,9 @@
           "author": "ABH",
           "text": "Cortina de CCV, 6 m de altura y 150 m de longitud"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5034,8 +5036,8 @@
     ]
   },
   "_metadata": {
-    "version": 144,
-    "last_updated": "2026-05-29T00:22:30.153Z",
+    "version": 145,
+    "last_updated": "2026-05-29T00:22:38.688Z",
     "last_updated_by": "LCDC"
   }
 }
