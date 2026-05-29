@@ -1926,14 +1926,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_37",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2025-04-14",
           "author": "LCDC",
           "text": "Reuniones SAEM, L.Herbiet, Video, Inversionistas"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5038,8 +5040,8 @@
     ]
   },
   "_metadata": {
-    "version": 146,
-    "last_updated": "2026-05-29T00:22:43.746Z",
+    "version": 147,
+    "last_updated": "2026-05-29T00:22:49.512Z",
     "last_updated_by": "LCDC"
   }
 }
