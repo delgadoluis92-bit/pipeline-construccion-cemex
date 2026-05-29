@@ -4229,7 +4229,9 @@
           "author": "LCDC",
           "text": "8.9 mil mdp\ninversion inicial 350mdp\nOriginalmente la licitación estaba para julio de 2025, NO se cumplieron plazos debido al conflicto social y a la nueva MIA presentada en marzo de 2026."
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5043,8 +5045,8 @@
     ]
   },
   "_metadata": {
-    "version": 131,
-    "last_updated": "2026-05-29T00:20:20.640Z",
+    "version": 132,
+    "last_updated": "2026-05-29T00:20:31.415Z",
     "last_updated_by": "LCDC"
   }
 }
