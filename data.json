@@ -1105,7 +1105,7 @@
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
       "cliente": "OMA",
-      "region": null,
+      "region": "Norte - Bajío",
       "estado": null,
       "concreto_total": 3,
       "fecha_update": "2026-05-18",
@@ -4739,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 171,
-    "last_updated": "2026-05-29T01:36:33.116Z",
+    "version": 172,
+    "last_updated": "2026-05-29T01:37:23.426Z",
     "last_updated_by": "LCDC"
   }
 }
