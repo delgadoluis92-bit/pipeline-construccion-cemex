@@ -2720,9 +2720,9 @@
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": 12,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-05-29",
       "anio": 2026,
-      "comentario": "Nva plataformas comerciales remotas, Parece ser que se pueden adelantar a Octubre",
+      "comentario": "Especificado en MR50\nSuperficie 126k m2 (+10k que NMIA)\nContrato de soluciones por 44MDP (25% del área) [350x70x32]\nQuedan $183MDP de contrato solo colocación",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -2735,8 +2735,15 @@
           "ts": "2026-05-15",
           "author": "LCDC",
           "text": "Nva plataformas comerciales remotas, Parece ser que se pueden adelantar a Octubre"
+        },
+        {
+          "ts": "2026-05-29",
+          "text": "Especificado en MR50\nSuperficie 126k m2 (+10k que NMIA)\nContrato de soluciones por 44MDP (25% del área) [350x70x32]\nQuedan $183MDP de contrato solo colocación",
+          "author": "LCDC"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5097,8 +5104,8 @@
     ]
   },
   "_metadata": {
-    "version": 126,
-    "last_updated": "2026-05-29T00:16:38.916Z",
+    "version": 127,
+    "last_updated": "2026-05-29T00:19:05.185Z",
     "last_updated_by": "LCDC"
   }
 }
