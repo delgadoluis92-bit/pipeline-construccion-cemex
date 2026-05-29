@@ -4169,7 +4169,9 @@
           "author": "ABH",
           "text": "Cortina de CCR de 98 m de alto"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5032,8 +5034,8 @@
     ]
   },
   "_metadata": {
-    "version": 143,
-    "last_updated": "2026-05-29T00:22:26.609Z",
+    "version": 144,
+    "last_updated": "2026-05-29T00:22:30.153Z",
     "last_updated_by": "LCDC"
   }
 }
