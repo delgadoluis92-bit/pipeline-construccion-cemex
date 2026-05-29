@@ -2492,7 +2492,7 @@
       "tipo": "Pistas y rodajes",
       "cliente": "PACKAL / GAP",
       "region": "Internacional",
-      "estado": "Kingston",
+      "estado": null,
       "concreto_total": 67,
       "fecha_update": "2026-05-18",
       "anio": 2026,
@@ -2503,7 +2503,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_55",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -2515,7 +2515,9 @@
           "author": "LCDC",
           "text": "En espera de la no objeción de la JCAA para inicio de los trabajos"
         }
-      ]
+      ],
+      "highlight": true,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5091,8 +5093,8 @@
     ]
   },
   "_metadata": {
-    "version": 123,
-    "last_updated": "2026-05-29T00:14:26.993Z",
+    "version": 124,
+    "last_updated": "2026-05-29T00:16:13.721Z",
     "last_updated_by": "LCDC"
   }
 }
