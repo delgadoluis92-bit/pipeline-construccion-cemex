@@ -1979,35 +1979,6 @@
       "fecha_arranque": "2027-03-28"
     },
     {
-      "importante_vale": "No",
-      "responsable": "LCDC",
-      "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "Distrito de Riego 075 Rio Fuerte",
-      "subsegmento": "Hidráulica",
-      "tipo": "Distritos de riego",
-      "cliente": "SEDENA",
-      "region": "Pacífico",
-      "estado": "Sinaloa",
-      "concreto_total": 4,
-      "fecha_update": "2025-04-14",
-      "anio": 2025,
-      "comentario": "15.72 km",
-      "programa": null,
-      "prioridad": 1,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_40",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2025-04-14",
-          "author": "LCDC",
-          "text": "15.72 km"
-        }
-      ]
-    },
-    {
       "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -5011,8 +4982,8 @@
     ]
   },
   "_metadata": {
-    "version": 148,
-    "last_updated": "2026-05-29T00:22:55.900Z",
+    "version": 149,
+    "last_updated": "2026-05-29T00:23:03.537Z",
     "last_updated_by": "LCDC"
   }
 }
