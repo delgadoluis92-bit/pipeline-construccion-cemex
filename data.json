@@ -717,39 +717,6 @@
       "comentario": "Se valida la rodera de 60 cm de ancho con cortes a cada 1.30 m. SI Centro Sur, esta trabajando la propueta."
     },
     {
-      "id": "p_mplyf9434n5t",
-      "history": [
-        {
-          "ts": "2026-05-26",
-          "text": "Comentario prueba",
-          "author": "SAAH"
-        },
-        {
-          "ts": "2026-05-26",
-          "text": "Puebra",
-          "author": "LCDC"
-        }
-      ],
-      "importante_vale": "Sí",
-      "conversion_tecnica": true,
-      "responsable": "JMSS",
-      "proyecto": "Prueba 2 - Manuel",
-      "estatus": "01 - Prospección",
-      "subsegmento": "Carreteras y Vialidades",
-      "tipo": "BRT",
-      "cliente": "CEMEX",
-      "region": "Norte - Bajío",
-      "estado": "Nayarit",
-      "concreto_total": 100,
-      "anio": 2027,
-      "prioridad": 1,
-      "fecha_update": "2026-05-26",
-      "programa": "Pa probar",
-      "fecha_arranque": "2026-08-01",
-      "highlight": false,
-      "comentario": "Puebra"
-    },
-    {
       "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -4765,8 +4732,8 @@
     ]
   },
   "_metadata": {
-    "version": 188,
-    "last_updated": "2026-05-29T16:26:35.897Z",
+    "version": 189,
+    "last_updated": "2026-05-29T16:27:20.293Z",
     "last_updated_by": "LCDC"
   }
 }
