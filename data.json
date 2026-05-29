@@ -2412,7 +2412,7 @@
           "text": "En espera de la no objeción de la JCAA para inicio de los trabajos"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -4735,8 +4735,8 @@
     ]
   },
   "_metadata": {
-    "version": 163,
-    "last_updated": "2026-05-29T00:25:42.194Z",
+    "version": 164,
+    "last_updated": "2026-05-29T00:25:45.447Z",
     "last_updated_by": "LCDC"
   }
 }
