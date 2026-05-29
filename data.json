@@ -1803,35 +1803,6 @@
       ]
     },
     {
-      "importante_vale": "No",
-      "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
-      "proyecto": "Zona de captación de agua potable para el abastecimiento a la ciudad de Tulum",
-      "subsegmento": "Hidráulica",
-      "tipo": "Presas",
-      "cliente": "Gob Estatal  / Comisión de Agua Potable y Alcantarillado",
-      "region": "Centro - Sureste",
-      "estado": "Quintana Roo",
-      "concreto_total": 3,
-      "fecha_update": "2025-01-09",
-      "anio": 2025,
-      "comentario": "Inversión estimada $543M",
-      "programa": null,
-      "prioridad": 3,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_34",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2025-01-09",
-          "author": "LCDC",
-          "text": "Inversión estimada $543M"
-        }
-      ]
-    },
-    {
       "importante_vale": "Sí",
       "responsable": "APC",
       "estatus": "03 - Licitación",
@@ -4982,8 +4953,8 @@
     ]
   },
   "_metadata": {
-    "version": 149,
-    "last_updated": "2026-05-29T00:23:03.537Z",
+    "version": 150,
+    "last_updated": "2026-05-29T00:23:12.696Z",
     "last_updated_by": "LCDC"
   }
 }
