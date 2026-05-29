@@ -2769,14 +2769,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_63",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
           "author": "LCDC",
           "text": "En elaboración de propuesta técnica. Entrega 16 mayo"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5023,8 +5025,8 @@
     ]
   },
   "_metadata": {
-    "version": 140,
-    "last_updated": "2026-05-29T00:21:50.316Z",
+    "version": 141,
+    "last_updated": "2026-05-29T00:21:53.487Z",
     "last_updated_by": "LCDC"
   }
 }
