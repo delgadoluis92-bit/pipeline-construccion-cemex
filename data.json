@@ -4652,29 +4652,6 @@
           "text": "Sheinbaum confirma suspensión: \"Por lo pronto ese proyecto está en suspensión, o por lo pronto cancelado\"\nKuri reconoce: \"él sale en 2027, no quiere dejar una obra a la mitad, falta de respaldo en el Congreso\""
         }
       ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
-      "proyecto": "Posibles Proyectos en Jamaica",
-      "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Carreteras",
-      "cliente": "Gob Jamaica",
-      "region": "Internacional",
-      "estado": "Internacional",
-      "concreto_total": 0,
-      "fecha_update": null,
-      "anio": null,
-      "comentario": null,
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_135",
-      "conversion_tecnica": false,
-      "history": []
     }
   ],
   "catalogs": {
@@ -4787,8 +4764,8 @@
     ]
   },
   "_metadata": {
-    "version": 157,
-    "last_updated": "2026-05-29T00:24:49.380Z",
+    "version": 158,
+    "last_updated": "2026-05-29T00:25:03.385Z",
     "last_updated_by": "LCDC"
   }
 }
