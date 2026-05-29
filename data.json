@@ -4309,7 +4309,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_117",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -4341,7 +4341,9 @@
           "author": "LCDC",
           "text": "Actualmente en etapa de diseño (Technoproject), se espera licitación para construcción del Muro Diafragma Compuesto en Marzo"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5047,8 +5049,8 @@
     ]
   },
   "_metadata": {
-    "version": 133,
-    "last_updated": "2026-05-29T00:20:43.789Z",
+    "version": 134,
+    "last_updated": "2026-05-29T00:20:51.504Z",
     "last_updated_by": "LCDC"
   }
 }
