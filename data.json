@@ -2302,29 +2302,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "CCC Doroteo Arango 1900",
-      "subsegmento": "Energía",
-      "tipo": "Centros de ciclo combinado",
-      "cliente": "CSI Biosphera Green Energy",
-      "region": "Norte - Bajío",
-      "estado": "Durango",
-      "concreto_total": 0,
-      "fecha_update": null,
-      "anio": 2025,
-      "comentario": null,
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_51",
-      "conversion_tecnica": false,
-      "history": []
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "10 - Ejecución",
       "proyecto": "Presa Chicoasén II",
       "subsegmento": "Energía",
@@ -4810,8 +4787,8 @@
     ]
   },
   "_metadata": {
-    "version": 156,
-    "last_updated": "2026-05-29T00:24:46.003Z",
+    "version": 157,
+    "last_updated": "2026-05-29T00:24:49.380Z",
     "last_updated_by": "LCDC"
   }
 }
