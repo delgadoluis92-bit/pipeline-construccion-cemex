@@ -5,7 +5,7 @@
       "history": [],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "APC",
       "proyecto": "API: Durmientes",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -4765,8 +4765,8 @@
     ]
   },
   "_metadata": {
-    "version": 186,
-    "last_updated": "2026-05-29T16:25:32.296Z",
+    "version": 187,
+    "last_updated": "2026-05-29T16:26:05.988Z",
     "last_updated_by": "LCDC"
   }
 }
