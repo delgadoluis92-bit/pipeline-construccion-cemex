@@ -2413,9 +2413,9 @@
       "region": "Internacional",
       "estado": null,
       "concreto_total": 67,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-05-29",
       "anio": 2026,
-      "comentario": "En espera de la no objeción de la JCAA para inicio de los trabajos",
+      "comentario": "No objeción entregada por parte de la JCAA",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -2433,6 +2433,11 @@
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "En espera de la no objeción de la JCAA para inicio de los trabajos"
+        },
+        {
+          "ts": "2026-05-29",
+          "text": "No objeción entregada por parte de la JCAA",
+          "author": "LCDC"
         }
       ],
       "highlight": false,
@@ -4760,8 +4765,8 @@
     ]
   },
   "_metadata": {
-    "version": 185,
-    "last_updated": "2026-05-29T16:22:05.920Z",
+    "version": 186,
+    "last_updated": "2026-05-29T16:25:32.296Z",
     "last_updated_by": "LCDC"
   }
 }
