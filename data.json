@@ -4411,7 +4411,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_119",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -4423,7 +4423,9 @@
           "author": "LCDC",
           "text": "Apoyo a Pablo Amaro con alcances y especificaciones de concreto, así como constructivas"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5036,8 +5038,8 @@
     ]
   },
   "_metadata": {
-    "version": 145,
-    "last_updated": "2026-05-29T00:22:38.688Z",
+    "version": 146,
+    "last_updated": "2026-05-29T00:22:43.746Z",
     "last_updated_by": "LCDC"
   }
 }
