@@ -3955,7 +3955,7 @@
     },
     {
       "importante_vale": "Sí",
-      "responsable": null,
+      "responsable": "APC",
       "estatus": "04 - Negociación",
       "proyecto": "Presa El Novillo",
       "subsegmento": "Hidráulica",
@@ -3985,7 +3985,9 @@
           "author": "sin asignar",
           "text": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4737,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 167,
-    "last_updated": "2026-05-29T00:28:43.339Z",
+    "version": 168,
+    "last_updated": "2026-05-29T00:28:57.706Z",
     "last_updated_by": "LCDC"
   }
 }
