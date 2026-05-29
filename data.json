@@ -808,7 +808,7 @@
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "UNICO",
-      "region": null,
+      "region": "Internacional",
       "estado": null,
       "concreto_total": 25,
       "fecha_update": "2026-05-19",
@@ -4739,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 172,
-    "last_updated": "2026-05-29T01:37:23.426Z",
+    "version": 173,
+    "last_updated": "2026-05-29T01:37:36.612Z",
     "last_updated_by": "LCDC"
   }
 }
