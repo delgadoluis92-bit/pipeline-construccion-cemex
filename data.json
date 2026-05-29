@@ -1605,14 +1605,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_27",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-16",
           "author": "LCDC",
           "text": "En espera de firma de contrato entre Volaris y GMI"
         }
-      ]
+      ],
+      "highlight": true,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5019,8 +5021,8 @@
     ]
   },
   "_metadata": {
-    "version": 138,
-    "last_updated": "2026-05-29T00:21:32.240Z",
+    "version": 139,
+    "last_updated": "2026-05-29T00:21:41.186Z",
     "last_updated_by": "LCDC"
   }
 }
