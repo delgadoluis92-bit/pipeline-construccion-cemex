@@ -2674,7 +2674,9 @@
           "author": "LCDC",
           "text": "$293M"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": "2026-11-28"
     },
     {
       "importante_vale": "No",
@@ -5093,8 +5095,8 @@
     ]
   },
   "_metadata": {
-    "version": 124,
-    "last_updated": "2026-05-29T00:16:13.721Z",
+    "version": 125,
+    "last_updated": "2026-05-29T00:16:28.045Z",
     "last_updated_by": "LCDC"
   }
 }
