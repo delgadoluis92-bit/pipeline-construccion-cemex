@@ -2698,14 +2698,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_61",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
           "author": "LCDC",
           "text": "Ampliación de Pista con ECOTransforma"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5095,8 +5097,8 @@
     ]
   },
   "_metadata": {
-    "version": 125,
-    "last_updated": "2026-05-29T00:16:28.045Z",
+    "version": 126,
+    "last_updated": "2026-05-29T00:16:38.916Z",
     "last_updated_by": "LCDC"
   }
 }
