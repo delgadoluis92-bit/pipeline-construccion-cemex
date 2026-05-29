@@ -3736,8 +3736,8 @@
       "subsegmento": "Edificación Pública",
       "tipo": "Salud",
       "cliente": "IMSS",
-      "region": null,
-      "estado": null,
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "fecha_update": "2026-05-28",
       "anio": 2025,
@@ -4739,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 168,
-    "last_updated": "2026-05-29T00:28:57.706Z",
+    "version": 169,
+    "last_updated": "2026-05-29T00:29:46.637Z",
     "last_updated_by": "LCDC"
   }
 }
