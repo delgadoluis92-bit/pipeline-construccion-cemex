@@ -4629,7 +4629,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_126",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2023-08-21",
@@ -4641,7 +4641,9 @@
           "author": "LCDC",
           "text": "Fallan rendimientos de cemento CPO en proceso de Lixiviación, se descarta"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5049,8 +5051,8 @@
     ]
   },
   "_metadata": {
-    "version": 135,
-    "last_updated": "2026-05-29T00:20:59.022Z",
+    "version": 136,
+    "last_updated": "2026-05-29T00:21:12.438Z",
     "last_updated_by": "LCDC"
   }
 }
