@@ -4677,7 +4677,9 @@
           "author": "LCDC",
           "text": "HYCSA no logra concretar propuesta no solicitada"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5051,8 +5053,8 @@
     ]
   },
   "_metadata": {
-    "version": 136,
-    "last_updated": "2026-05-29T00:21:12.438Z",
+    "version": 137,
+    "last_updated": "2026-05-29T00:21:23.597Z",
     "last_updated_by": "LCDC"
   }
 }
