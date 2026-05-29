@@ -1981,35 +1981,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
-      "proyecto": "Protección Hidráulica en Tabasco (PROHTAB)",
-      "subsegmento": "Hidráulica",
-      "tipo": "Presas",
-      "cliente": "CONAGUA",
-      "region": "Centro - Sureste",
-      "estado": "Tabasco",
-      "concreto_total": 8,
-      "fecha_update": "2025-04-14",
-      "anio": 2025,
-      "comentario": "Inversión estimada $2700 MDP - Prioridad, convocatoria ABR 2025",
-      "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
-      "prioridad": null,
-      "ccr": 8,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_39",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2025-04-14",
-          "author": "LCDC",
-          "text": "Inversión estimada $2700 MDP - Prioridad, convocatoria ABR 2025"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Distrito de Riego 075 Rio Fuerte",
       "subsegmento": "Hidráulica",
@@ -5040,8 +5011,8 @@
     ]
   },
   "_metadata": {
-    "version": 147,
-    "last_updated": "2026-05-29T00:22:49.512Z",
+    "version": 148,
+    "last_updated": "2026-05-29T00:22:55.900Z",
     "last_updated_by": "LCDC"
   }
 }
