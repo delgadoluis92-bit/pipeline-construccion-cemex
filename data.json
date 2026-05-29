@@ -4374,35 +4374,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "08 - Descartado / Inviable",
-      "proyecto": "Trolebus Santa Marta",
-      "subsegmento": "Trenes",
-      "tipo": "Ferrocarriles",
-      "cliente": "MOTA ENGIL",
-      "region": "Centro - Sureste",
-      "estado": "Estado de Mexico",
-      "concreto_total": 70,
-      "fecha_update": "2023-11-08",
-      "anio": 2024,
-      "comentario": "Presupuesto en proceso",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_122",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2023-11-08",
-          "author": "LCDC",
-          "text": "Presupuesto en proceso"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Distrito de Riego 010 Culiacán-Humaya",
       "subsegmento": "Hidráulica",
@@ -4897,8 +4868,8 @@
     ]
   },
   "_metadata": {
-    "version": 153,
-    "last_updated": "2026-05-29T00:24:02.985Z",
+    "version": 154,
+    "last_updated": "2026-05-29T00:24:20.798Z",
     "last_updated_by": "LCDC"
   }
 }
