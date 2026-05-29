@@ -2603,7 +2603,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_58",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -2615,7 +2615,9 @@
           "author": "LCDC",
           "text": "Ganó GAMI con $420M"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5025,8 +5027,8 @@
     ]
   },
   "_metadata": {
-    "version": 141,
-    "last_updated": "2026-05-29T00:21:53.487Z",
+    "version": 142,
+    "last_updated": "2026-05-29T00:21:57.289Z",
     "last_updated_by": "LCDC"
   }
 }
