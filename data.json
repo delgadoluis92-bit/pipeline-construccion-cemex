@@ -1428,7 +1428,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "LCDC",
       "estatus": "01 - Prospección",
       "proyecto": "GDL - Rehab. de pavimentos T1",
       "subsegmento": "Aeropuertos y Puertos",
@@ -1453,7 +1453,9 @@
           "author": "sin asignar",
           "text": "Cerrado con $3M contrato de mantenimiento"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4735,8 +4737,8 @@
     ]
   },
   "_metadata": {
-    "version": 166,
-    "last_updated": "2026-05-29T00:25:50.277Z",
+    "version": 167,
+    "last_updated": "2026-05-29T00:28:43.339Z",
     "last_updated_by": "LCDC"
   }
 }
