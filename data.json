@@ -4342,7 +4342,7 @@
           "text": "Actualmente en etapa de diseño (Technoproject), se espera licitación para construcción del Muro Diafragma Compuesto en Marzo"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5049,8 +5049,8 @@
     ]
   },
   "_metadata": {
-    "version": 134,
-    "last_updated": "2026-05-29T00:20:51.504Z",
+    "version": 135,
+    "last_updated": "2026-05-29T00:20:59.022Z",
     "last_updated_by": "LCDC"
   }
 }
