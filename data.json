@@ -2227,7 +2227,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "10 - Ejecución",
+      "estatus": "11 - Obra Terminada",
       "proyecto": "Parque Eólico Cimarron",
       "subsegmento": "Energía",
       "tipo": "Sustentables",
@@ -2245,7 +2245,9 @@
       "pavimento": null,
       "id": "proj_48",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4755,8 +4757,8 @@
     ]
   },
   "_metadata": {
-    "version": 191,
-    "last_updated": "2026-05-29T20:41:23.860Z",
+    "version": 192,
+    "last_updated": "2026-05-29T20:41:52.513Z",
     "last_updated_by": "LCDC"
   }
 }
