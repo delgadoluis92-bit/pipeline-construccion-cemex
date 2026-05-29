@@ -2059,7 +2059,9 @@
           "author": "LCDC",
           "text": "Solo plataformas se mantendrán en concreto, disminuye de 160 a 80\nPor licitarse en 3Q"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": "2026-10-28"
     },
     {
       "importante_vale": "No",
@@ -5089,8 +5091,8 @@
     ]
   },
   "_metadata": {
-    "version": 122,
-    "last_updated": "2026-05-29T00:14:12.596Z",
+    "version": 123,
+    "last_updated": "2026-05-29T00:14:26.993Z",
     "last_updated_by": "LCDC"
   }
 }
