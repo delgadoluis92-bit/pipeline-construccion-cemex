@@ -2594,9 +2594,9 @@
       "region": "Pacífico",
       "estado": "Baja California Sur",
       "concreto_total": 60,
-      "fecha_update": "2026-05-16",
+      "fecha_update": "2026-05-29",
       "anio": 2025,
-      "comentario": "Ganó GAMI con $420M",
+      "comentario": "Problemas fuertes con calidad de concreto, van 32 losas rechazadas al corte del 26 de mayo",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -2614,6 +2614,11 @@
           "ts": "2026-05-16",
           "author": "LCDC",
           "text": "Ganó GAMI con $420M"
+        },
+        {
+          "ts": "2026-05-29",
+          "text": "Problemas fuertes con calidad de concreto, van 32 losas rechazadas al corte del 26 de mayo",
+          "author": "LCDC"
         }
       ],
       "highlight": false,
@@ -5027,8 +5032,8 @@
     ]
   },
   "_metadata": {
-    "version": 142,
-    "last_updated": "2026-05-29T00:21:57.289Z",
+    "version": 143,
+    "last_updated": "2026-05-29T00:22:26.609Z",
     "last_updated_by": "LCDC"
   }
 }
