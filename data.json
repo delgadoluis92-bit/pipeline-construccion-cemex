@@ -481,14 +481,14 @@
       "responsable": "YATG",
       "proyecto": "API: Edificio(s) aduana(s)",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Oficinas",
+      "cliente": "API",
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 1,
       "fecha_update": "2026-05-26",
       "programa": null,
       "fecha_arranque": null
@@ -4739,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 169,
-    "last_updated": "2026-05-29T00:29:46.637Z",
+    "version": 170,
+    "last_updated": "2026-05-29T01:36:24.583Z",
     "last_updated_by": "LCDC"
   }
 }
