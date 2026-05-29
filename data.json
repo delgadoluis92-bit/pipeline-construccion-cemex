@@ -2858,35 +2858,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "06 - TBD (Corto Plazo)",
-      "proyecto": "Puerto Progreso - Plataforma",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Puertos Marinos",
-      "cliente": "SEMAR",
-      "region": "Centro - Sureste",
-      "estado": "Yucatán",
-      "concreto_total": 20,
-      "fecha_update": null,
-      "anio": 2025,
-      "comentario": "Proyecto en desarrollo, C/Cesionario definirá su estructura y vocacion ($5,290 M)",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_72",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-15",
-          "author": "LCDC",
-          "text": "Proyecto en desarrollo, C/Cesionario definirá su estructura y vocacion ($5,290 M)"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "07 - TBD (Largo Plazo)",
       "proyecto": "Puerto Progreso - Construcción de Plataforma",
       "subsegmento": "Aeropuertos y Puertos",
@@ -4764,8 +4735,8 @@
     ]
   },
   "_metadata": {
-    "version": 158,
-    "last_updated": "2026-05-29T00:25:03.385Z",
+    "version": 159,
+    "last_updated": "2026-05-29T00:25:15.147Z",
     "last_updated_by": "LCDC"
   }
 }
