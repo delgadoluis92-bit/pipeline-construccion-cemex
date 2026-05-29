@@ -2761,35 +2761,6 @@
       ]
     },
     {
-      "importante_vale": "No",
-      "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
-      "proyecto": "Puerto Altamira - Reconstrucción Bloques 3&4",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Puertos Marinos",
-      "cliente": "PINFRA",
-      "region": "Norte - Bajío",
-      "estado": "Tamaulipas",
-      "concreto_total": 38,
-      "fecha_update": "2024-09-04",
-      "anio": 2024,
-      "comentario": "Visita al sitio",
-      "programa": null,
-      "prioridad": null,
-      "ccr": 0,
-      "base_estab": 0,
-      "pavimento": 0,
-      "id": "proj_66",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2024-09-04",
-          "author": "LCDC",
-          "text": "Visita al sitio"
-        }
-      ]
-    },
-    {
       "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "01 - Prospección",
@@ -4953,8 +4924,8 @@
     ]
   },
   "_metadata": {
-    "version": 150,
-    "last_updated": "2026-05-29T00:23:12.696Z",
+    "version": 151,
+    "last_updated": "2026-05-29T00:23:39.546Z",
     "last_updated_by": "LCDC"
   }
 }
