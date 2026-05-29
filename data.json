@@ -551,7 +551,7 @@
       "responsable": "YATG",
       "proyecto": "Oficinas Saltillo Planta",
       "estatus": "01 - Prospección",
-      "subsegmento": "Otros",
+      "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Oficinas",
       "cliente": "PLANTA MTY",
       "region": "Norte - Bajío",
@@ -4739,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 170,
-    "last_updated": "2026-05-29T01:36:24.583Z",
+    "version": 171,
+    "last_updated": "2026-05-29T01:36:33.116Z",
     "last_updated_by": "LCDC"
   }
 }
