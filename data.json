@@ -1742,7 +1742,9 @@
           "author": "LCDC",
           "text": "Visita al sitio"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4895,8 +4897,8 @@
     ]
   },
   "_metadata": {
-    "version": 152,
-    "last_updated": "2026-05-29T00:23:53.149Z",
+    "version": 153,
+    "last_updated": "2026-05-29T00:24:02.985Z",
     "last_updated_by": "LCDC"
   }
 }
