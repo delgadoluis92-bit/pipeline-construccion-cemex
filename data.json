@@ -505,8 +505,8 @@
       "subsegmento": "Edificación Pública",
       "tipo": "Oficinas",
       "cliente": "API",
-      "region": null,
-      "estado": null,
+      "region": "Norte - Bajío",
+      "estado": "Tamaulipas",
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
@@ -4739,8 +4739,8 @@
     ]
   },
   "_metadata": {
-    "version": 173,
-    "last_updated": "2026-05-29T01:37:36.612Z",
+    "version": 174,
+    "last_updated": "2026-05-29T01:37:52.544Z",
     "last_updated_by": "LCDC"
   }
 }
