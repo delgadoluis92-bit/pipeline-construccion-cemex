@@ -4253,7 +4253,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_116",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -4285,7 +4285,9 @@
           "author": "LCDC",
           "text": "STAND BY (MIA rechazada marzo 2026)"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5045,8 +5047,8 @@
     ]
   },
   "_metadata": {
-    "version": 132,
-    "last_updated": "2026-05-29T00:20:31.415Z",
+    "version": 133,
+    "last_updated": "2026-05-29T00:20:43.789Z",
     "last_updated_by": "LCDC"
   }
 }
