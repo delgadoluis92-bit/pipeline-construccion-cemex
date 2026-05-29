@@ -2710,7 +2710,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "MTY - Nueva Plataforma Comercial",
@@ -2729,7 +2729,7 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_62",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-15",
@@ -2742,7 +2742,7 @@
           "author": "LCDC"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5104,8 +5104,8 @@
     ]
   },
   "_metadata": {
-    "version": 127,
-    "last_updated": "2026-05-29T00:19:05.185Z",
+    "version": 128,
+    "last_updated": "2026-05-29T00:19:24.553Z",
     "last_updated_by": "LCDC"
   }
 }
