@@ -3101,35 +3101,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
-      "proyecto": "Puerto Ensenada - Ampliación",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Puertos Marinos",
-      "cliente": "SEMAR",
-      "region": "Pacífico",
-      "estado": "Baja California",
-      "concreto_total": null,
-      "fecha_update": "2026-05-18",
-      "anio": 2025,
-      "comentario": "Inversión pública $5,754 M",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_74",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-15",
-          "author": "LCDC",
-          "text": "Inversión pública $5,754 M"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "Puerto Acapulco -  Modern Terminal Cruceros",
       "subsegmento": "Aeropuertos y Puertos",
@@ -5106,8 +5077,8 @@
     ]
   },
   "_metadata": {
-    "version": 129,
-    "last_updated": "2026-05-29T00:19:41.705Z",
+    "version": 130,
+    "last_updated": "2026-05-29T00:19:54.593Z",
     "last_updated_by": "LCDC"
   }
 }
