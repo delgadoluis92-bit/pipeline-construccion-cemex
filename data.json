@@ -549,7 +549,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "API Matamoros: Edificio Oficinas",
-      "estatus": "01 - Prospección",
+      "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Edificación Pública",
       "tipo": "Oficinas",
       "cliente": "API",
@@ -4760,8 +4760,8 @@
     ]
   },
   "_metadata": {
-    "version": 178,
-    "last_updated": "2026-05-29T16:21:25.425Z",
+    "version": 179,
+    "last_updated": "2026-05-29T16:21:33.215Z",
     "last_updated_by": "LCDC"
   }
 }
