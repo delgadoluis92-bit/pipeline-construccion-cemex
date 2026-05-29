@@ -1936,7 +1936,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "LCDC",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "Distritos de Riego 011 Alto Rio Lerma (Coria)",
       "subsegmento": "Hidráulica",
       "tipo": "Distritos de riego",
@@ -1970,7 +1970,9 @@
           "author": "LCDC",
           "text": "Se presenta a CONAGUA, en colaboración con ROA, cambio en ingenierías a paneles prefabricados"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": "2027-03-28"
     },
     {
       "importante_vale": "No",
@@ -5087,8 +5089,8 @@
     ]
   },
   "_metadata": {
-    "version": 121,
-    "last_updated": "2026-05-29T00:13:08.772Z",
+    "version": 122,
+    "last_updated": "2026-05-29T00:14:12.596Z",
     "last_updated_by": "LCDC"
   }
 }
