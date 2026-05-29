@@ -502,7 +502,7 @@
       "responsable": "YATG",
       "proyecto": "API: Edificio(s) aduana(s)",
       "estatus": "02 - Desarrollo Ingenierías",
-      "subsegmento": "Edificación Pública",
+      "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Oficinas",
       "cliente": "API",
       "region": "Norte - Bajío",
@@ -4760,8 +4760,8 @@
     ]
   },
   "_metadata": {
-    "version": 183,
-    "last_updated": "2026-05-29T16:21:58.572Z",
+    "version": 184,
+    "last_updated": "2026-05-29T16:22:02.549Z",
     "last_updated_by": "LCDC"
   }
 }
