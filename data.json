@@ -1276,9 +1276,9 @@
       "region": "Pacífico",
       "estado": "Jalisco",
       "concreto_total": 6,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-05-29",
       "anio": 2026,
-      "comentario": "Presupuesto base $130M",
+      "comentario": "Desierta por quedar solo 2 propuestas, se relicitará",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -1291,6 +1291,11 @@
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "Presupuesto base $130M"
+        },
+        {
+          "ts": "2026-05-29",
+          "text": "Desierta por quedar solo 2 propuestas, se relicitará",
+          "author": "LCDC"
         }
       ],
       "highlight": false,
@@ -5078,8 +5083,8 @@
     ]
   },
   "_metadata": {
-    "version": 118,
-    "last_updated": "2026-05-29T00:11:54.157Z",
+    "version": 119,
+    "last_updated": "2026-05-29T00:12:19.524Z",
     "last_updated_by": "LCDC"
   }
 }
