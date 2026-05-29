@@ -3101,40 +3101,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "06 - TBD (Corto Plazo)",
-      "proyecto": "Puerto Acapulco -  Modern Terminal Cruceros",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Puertos Marinos",
-      "cliente": "SEMAR",
-      "region": "Centro - Sureste",
-      "estado": "Guerrero",
-      "concreto_total": null,
-      "fecha_update": "2026-05-18",
-      "anio": 2025,
-      "comentario": "Se presenta diseño parametrico premilinar de CCR, 39cm",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_75",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-15",
-          "author": "LCDC",
-          "text": "Inversión pública $386 M"
-        },
-        {
-          "ts": "2026-05-18",
-          "author": "LCDC",
-          "text": "Se presenta diseño parametrico premilinar de CCR, 39cm"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "08 - Descartado / Inviable",
       "proyecto": "LTO - Ampliación Plataforma Comercial",
       "subsegmento": "Aeropuertos y Puertos",
@@ -5077,8 +5043,8 @@
     ]
   },
   "_metadata": {
-    "version": 130,
-    "last_updated": "2026-05-29T00:19:54.593Z",
+    "version": 131,
+    "last_updated": "2026-05-29T00:20:20.640Z",
     "last_updated_by": "LCDC"
   }
 }
