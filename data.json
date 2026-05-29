@@ -16,7 +16,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "LCDC",
       "proyecto": "GDL - Nueva Vialidad Interterminales",
       "estatus": "03 - Licitación",
@@ -4735,8 +4735,8 @@
     ]
   },
   "_metadata": {
-    "version": 160,
-    "last_updated": "2026-05-29T00:25:31.571Z",
+    "version": 161,
+    "last_updated": "2026-05-29T00:25:36.330Z",
     "last_updated_by": "LCDC"
   }
 }
