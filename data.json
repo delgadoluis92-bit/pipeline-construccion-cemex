@@ -2908,35 +2908,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "10 - Ejecución",
-      "proyecto": "Puerto Veracruz - Muelles y plataformas",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Puertos Marinos",
-      "cliente": "CICE / CIMESA",
-      "region": "Centro - Sureste",
-      "estado": "Veracruz",
-      "concreto_total": 30,
-      "fecha_update": "2024-09-04",
-      "anio": 2024,
-      "comentario": "Inversión pública $1t,800 M",
-      "programa": null,
-      "prioridad": 3,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_71",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2024-09-04",
-          "author": "LCDC",
-          "text": "Inversión pública $1t,800 M"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "Puerto Progreso - Plataforma",
       "subsegmento": "Aeropuertos y Puertos",
@@ -4924,8 +4895,8 @@
     ]
   },
   "_metadata": {
-    "version": 151,
-    "last_updated": "2026-05-29T00:23:39.546Z",
+    "version": 152,
+    "last_updated": "2026-05-29T00:23:53.149Z",
     "last_updated_by": "LCDC"
   }
 }
