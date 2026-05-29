@@ -4404,35 +4404,6 @@
       "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "08 - Descartado / Inviable",
-      "proyecto": "Prefabricados Tramo 6 Metro Monterrery",
-      "subsegmento": "Trenes",
-      "tipo": "Ferrocarriles",
-      "cliente": "MOTA ENGIL",
-      "region": "Norte - Bajío",
-      "estado": "Nuevo Leon",
-      "concreto_total": 60,
-      "fecha_update": "2023-08-30",
-      "anio": 2023,
-      "comentario": "En espera de retroalimentación del Cliente de nuestra cotización entregada",
-      "programa": null,
-      "prioridad": null,
-      "ccr": 0,
-      "base_estab": 0,
-      "pavimento": 0,
-      "id": "proj_124",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2023-08-30",
-          "author": "LCDC",
-          "text": "En espera de retroalimentación del Cliente de nuestra cotización entregada"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
-      "estatus": "08 - Descartado / Inviable",
       "proyecto": "PMX - Ampliación zona de movimiento",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
@@ -4868,8 +4839,8 @@
     ]
   },
   "_metadata": {
-    "version": 154,
-    "last_updated": "2026-05-29T00:24:20.798Z",
+    "version": 155,
+    "last_updated": "2026-05-29T00:24:24.708Z",
     "last_updated_by": "LCDC"
   }
 }
