@@ -1335,7 +1335,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "03 - Licitación",
+      "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "PVR - Viaducto Elevado Terminal 2",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
@@ -1359,7 +1359,9 @@
           "author": "LCDC",
           "text": "Presupuesto base $700M"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5085,8 +5087,8 @@
     ]
   },
   "_metadata": {
-    "version": 120,
-    "last_updated": "2026-05-29T00:12:31.870Z",
+    "version": 121,
+    "last_updated": "2026-05-29T00:13:08.772Z",
     "last_updated_by": "LCDC"
   }
 }
