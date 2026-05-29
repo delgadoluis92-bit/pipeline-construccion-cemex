@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mprdxv2z0zup",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "LCDC",
+      "proyecto": "GDL - Proyecto \"3 Parques\"",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Oficinas",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": null,
+      "anio": 2027,
+      "prioridad": 3,
+      "fecha_update": "2026-05-29",
+      "programa": null,
+      "fecha_arranque": "2027-07-29"
+    },
+    {
       "id": "p_mpr4psevaxrx",
       "history": [],
       "importante_vale": "No",
@@ -4732,8 +4753,8 @@
     ]
   },
   "_metadata": {
-    "version": 189,
-    "last_updated": "2026-05-29T16:27:20.293Z",
+    "version": 190,
+    "last_updated": "2026-05-29T20:39:30.203Z",
     "last_updated_by": "LCDC"
   }
 }
