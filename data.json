@@ -522,7 +522,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "API: Edificio mantenimiento CEMEX",
-      "estatus": "01 - Prospección",
+      "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Edificación Pública",
       "tipo": "Oficinas",
       "cliente": "API",
@@ -4760,8 +4760,8 @@
     ]
   },
   "_metadata": {
-    "version": 180,
-    "last_updated": "2026-05-29T16:21:36.303Z",
+    "version": 181,
+    "last_updated": "2026-05-29T16:21:39.161Z",
     "last_updated_by": "LCDC"
   }
 }
