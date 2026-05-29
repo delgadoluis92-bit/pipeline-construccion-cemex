@@ -1068,14 +1068,16 @@
       "base_estab": null,
       "pavimento": null,
       "id": "proj_10",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "history": [
         {
           "ts": "2026-05-19",
           "author": "LCDC",
           "text": "RAL gana la licitación\nEntramos con un esquema de cesión de derechos por el concreto\nTomamos la obra por $66M\nCedemos la obra por variaciones en programa, lo toma Asfaltos Gdl"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4757,8 +4759,8 @@
     ]
   },
   "_metadata": {
-    "version": 193,
-    "last_updated": "2026-05-29T20:42:13.602Z",
+    "version": 194,
+    "last_updated": "2026-05-29T20:42:23.481Z",
     "last_updated_by": "LCDC"
   }
 }
