@@ -2995,7 +2995,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "05 - Cerrado",
+      "estatus": "11 - Obra Terminada",
       "proyecto": "Tren Maya Tramo 6, Frente 7",
       "subsegmento": "Trenes",
       "tipo": "Ferrocarriles",
@@ -3019,7 +3019,9 @@
           "author": "LCDC",
           "text": "Intalación en curso"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4753,8 +4755,8 @@
     ]
   },
   "_metadata": {
-    "version": 190,
-    "last_updated": "2026-05-29T20:39:30.203Z",
+    "version": 191,
+    "last_updated": "2026-05-29T20:41:23.860Z",
     "last_updated_by": "LCDC"
   }
 }
