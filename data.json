@@ -1292,7 +1292,9 @@
           "author": "LCDC",
           "text": "Presupuesto base $130M"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5076,8 +5078,8 @@
     ]
   },
   "_metadata": {
-    "version": 117,
-    "last_updated": "2026-05-28T23:01:29.472Z",
+    "version": 118,
+    "last_updated": "2026-05-29T00:11:54.157Z",
     "last_updated_by": "LCDC"
   }
 }
