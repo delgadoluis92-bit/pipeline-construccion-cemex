@@ -3285,7 +3285,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "04 - Negociación",
       "proyecto": "Lbto.  Cd. Mante",
       "subsegmento": "Carreteras y Vialidades",
@@ -3315,7 +3315,9 @@
           "author": "IVH / JDDO",
           "text": "\"Hycsa se encargará del mismo... La empresa será la encargada de efectuarlo\"\nConcesionaria: Autopista Mante-Tula, S.A. de C.V. \nModelo: Extensión de 22 años a la concesión original Mante-Ocampo-Tula\nDirector de Concesiones HYCSA: José Manuel Fortes"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4968,8 +4970,8 @@
     ]
   },
   "_metadata": {
-    "version": 251,
-    "last_updated": "2026-06-01T17:04:05.518Z",
-    "last_updated_by": "JMSS"
+    "version": 252,
+    "last_updated": "2026-06-01T17:23:54.367Z",
+    "last_updated_by": "JDDO"
   }
 }
