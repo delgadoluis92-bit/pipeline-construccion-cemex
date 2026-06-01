@@ -1828,9 +1828,9 @@
       "region": "Centro - Sureste",
       "estado": "Oaxaca",
       "concreto_total": 276,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-06-01",
       "anio": 2025,
-      "comentario": "se difiere el fallo de Mujer Solteca para el Viernes 29 de Mayo a las 5 pm",
+      "comentario": "Diferimiento de fallo para el 01 de junio a las 5pm",
       "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
       "prioridad": 1,
       "ccr": 150,
@@ -1853,6 +1853,11 @@
           "ts": "2026-05-28",
           "text": "se difiere el fallo de Mujer Solteca para el Viernes 29 de Mayo a las 5 pm",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "Diferimiento de fallo para el 01 de junio a las 5pm",
+          "author": "SAAH"
         }
       ],
       "highlight": false,
@@ -4759,8 +4764,8 @@
     ]
   },
   "_metadata": {
-    "version": 194,
-    "last_updated": "2026-05-29T20:42:23.481Z",
-    "last_updated_by": "LCDC"
+    "version": 195,
+    "last_updated": "2026-06-01T15:43:04.470Z",
+    "last_updated_by": "SAAH"
   }
 }
