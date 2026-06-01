@@ -1777,7 +1777,7 @@
           "author": "SAAH"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -4881,8 +4881,8 @@
     ]
   },
   "_metadata": {
-    "version": 231,
-    "last_updated": "2026-06-01T16:33:05.712Z",
+    "version": 232,
+    "last_updated": "2026-06-01T16:33:35.320Z",
     "last_updated_by": "LCDC"
   }
 }
