@@ -3799,7 +3799,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "01 - Prospección",
       "proyecto": "Lib.  Sur de la Paz",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 328,
-    "last_updated": "2026-06-01T19:57:44.087Z",
+    "version": 329,
+    "last_updated": "2026-06-01T19:57:48.985Z",
     "last_updated_by": "JMSS"
   }
 }
