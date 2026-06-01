@@ -1037,7 +1037,7 @@
       "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "05 - Cerrado",
-      "proyecto": "Libramiento Sur Colima",
+      "proyecto": "Lib. Sur Colima",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "PINFRA / RECSA",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 312,
-    "last_updated": "2026-06-01T19:37:53.702Z",
+    "version": 313,
+    "last_updated": "2026-06-01T19:38:06.434Z",
     "last_updated_by": "JMSS"
   }
 }
