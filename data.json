@@ -3563,35 +3563,6 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
-      "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "Libramiento Metropolitano de Querétaro",
-      "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Carreteras",
-      "cliente": "OMEGA",
-      "region": "Norte - Bajío",
-      "estado": "Queretaro",
-      "concreto_total": null,
-      "fecha_update": null,
-      "anio": 2025,
-      "comentario": "Se tuvo un primer acercamiento con el director de proyecto, en septiembre se tiene uno nuevo para compartir información hacia CEMEX",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_96",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-15",
-          "author": "IVH / JDDO",
-          "text": "Se tuvo un primer acercamiento con el director de proyecto, en septiembre se tiene uno nuevo para compartir información hacia CEMEX"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
       "responsable": "JMSS",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Consorcio de libramiento oriente SLP",
@@ -4909,8 +4880,8 @@
     ]
   },
   "_metadata": {
-    "version": 238,
-    "last_updated": "2026-06-01T16:34:37.859Z",
-    "last_updated_by": "JDDO"
+    "version": 239,
+    "last_updated": "2026-06-01T16:48:45.906Z",
+    "last_updated_by": "JMSS"
   }
 }
