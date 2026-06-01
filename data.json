@@ -3513,7 +3513,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "Lbto.Morelos-Zaragoza",
       "subsegmento": "Carreteras y Vialidades",
@@ -3522,7 +3522,7 @@
       "region": "Norte - Bajío",
       "estado": "Coahuila",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
@@ -3532,7 +3532,9 @@
       "pavimento": null,
       "id": "proj_90",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4991,8 +4993,8 @@
     ]
   },
   "_metadata": {
-    "version": 262,
-    "last_updated": "2026-06-01T17:28:14.055Z",
+    "version": 263,
+    "last_updated": "2026-06-01T17:28:21.771Z",
     "last_updated_by": "JDDO"
   }
 }
