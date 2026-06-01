@@ -3551,7 +3551,7 @@
     {
       "importante_vale": "No",
       "responsable": "JDDO",
-      "estatus": "01 - Prospección",
+      "estatus": "09 - Perdido",
       "proyecto": "Lib. Navojoa",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -3560,7 +3560,7 @@
       "estado": "Sonora",
       "concreto_total": 115,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2026,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 360,
-    "last_updated": "2026-06-01T21:23:41.636Z",
+    "version": 361,
+    "last_updated": "2026-06-01T21:24:05.837Z",
     "last_updated_by": "JDDO"
   }
 }
