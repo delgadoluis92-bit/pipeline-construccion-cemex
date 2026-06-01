@@ -49,11 +49,11 @@
       "region": "Centro - Sureste",
       "estado": "Puebla",
       "concreto_total": null,
-      "anio": 2026,
+      "anio": 2027,
       "prioridad": 1,
       "fecha_update": "2026-06-01",
       "programa": "Conservación",
-      "fecha_arranque": null,
+      "fecha_arranque": "2027-01-01",
       "comentario": "Reparaciones en ejecución (ensanche y sello)\n\nSe entregará presupuesto de pesaje dinámico e indicadores de desempeño."
     },
     {
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 350,
-    "last_updated": "2026-06-01T21:18:57.291Z",
+    "version": 351,
+    "last_updated": "2026-06-01T21:19:52.712Z",
     "last_updated_by": "JDDO"
   }
 }
