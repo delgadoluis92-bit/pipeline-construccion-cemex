@@ -3385,12 +3385,12 @@
       "cliente": "DCC",
       "region": "Pacífico",
       "estado": "Sonora",
-      "concreto_total": null,
+      "concreto_total": 115,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 275,
-    "last_updated": "2026-06-01T18:06:34.475Z",
+    "version": 276,
+    "last_updated": "2026-06-01T18:07:37.758Z",
     "last_updated_by": "JDDO"
   }
 }
