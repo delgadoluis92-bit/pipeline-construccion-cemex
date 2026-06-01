@@ -3937,7 +3937,7 @@
       "id": "proj_99",
       "conversion_tecnica": false,
       "history": [],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 374,
-    "last_updated": "2026-06-01T21:28:02.079Z",
+    "version": 375,
+    "last_updated": "2026-06-01T21:28:04.607Z",
     "last_updated_by": "JDDO"
   }
 }
