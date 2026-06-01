@@ -941,11 +941,11 @@
       "estatus": "01 - Prospección",
       "proyecto": "MEX - Renivelación AICM Terminal 1",
       "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Pistas y rodajes",
+      "tipo": "Plataformas",
       "cliente": "MARINA",
       "region": "Centro - Sureste",
       "estado": "Ciudad de Mexico",
-      "concreto_total": 1,
+      "concreto_total": 30,
       "fecha_update": "2026-06-01",
       "anio": 2028,
       "comentario": "Reuniones periódicas con el equipo técnico para monitorear cimentación.",
@@ -957,6 +957,11 @@
       "id": "proj_4",
       "conversion_tecnica": true,
       "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Reuniones periódicas con el equipo técnico para monitorear cimentación.",
+          "author": "FRB"
+        },
         {
           "ts": "2026-06-01",
           "text": "Reuniones periódicas con el equipo técnico para monitorear cimentación.",
@@ -4843,8 +4848,8 @@
     ]
   },
   "_metadata": {
-    "version": 225,
-    "last_updated": "2026-06-01T16:22:04.294Z",
-    "last_updated_by": "APC"
+    "version": 226,
+    "last_updated": "2026-06-01T16:22:23.410Z",
+    "last_updated_by": "FRB"
   }
 }
