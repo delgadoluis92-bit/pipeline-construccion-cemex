@@ -712,7 +712,7 @@
       "responsable": "MLR",
       "proyecto": "Racks Escolin",
       "estatus": "04 - Negociación",
-      "subsegmento": "Edificación Pública",
+      "subsegmento": "Otros",
       "tipo": "Otros",
       "cliente": "Mota Engil",
       "region": "Centro - Sureste",
@@ -4853,8 +4853,8 @@
     ]
   },
   "_metadata": {
-    "version": 227,
-    "last_updated": "2026-06-01T16:24:39.125Z",
+    "version": 228,
+    "last_updated": "2026-06-01T16:25:28.688Z",
     "last_updated_by": "MLR"
   }
 }
