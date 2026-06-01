@@ -3520,7 +3520,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": "JMSS",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Consorcio de libramiento oriente SLP",
       "subsegmento": "Carreteras y Vialidades",
@@ -4837,8 +4837,8 @@
     ]
   },
   "_metadata": {
-    "version": 216,
-    "last_updated": "2026-06-01T16:15:38.637Z",
-    "last_updated_by": "YATG"
+    "version": 217,
+    "last_updated": "2026-06-01T16:16:27.329Z",
+    "last_updated_by": "JDDO"
   }
 }
