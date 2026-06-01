@@ -3710,7 +3710,7 @@
       "estado": "Coahuila",
       "concreto_total": 87,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 366,
-    "last_updated": "2026-06-01T21:25:21.034Z",
+    "version": 367,
+    "last_updated": "2026-06-01T21:25:37.930Z",
     "last_updated_by": "JDDO"
   }
 }
