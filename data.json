@@ -12,7 +12,7 @@
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
-      "responsable": null,
+      "responsable": "FRB",
       "proyecto": "CDMX Mats Reciclados Norma concreto",
       "estatus": "01 - Prospección",
       "subsegmento": "Edificación Pública",
@@ -5035,8 +5035,8 @@
     ]
   },
   "_metadata": {
-    "version": 290,
-    "last_updated": "2026-06-01T18:21:46.433Z",
+    "version": 291,
+    "last_updated": "2026-06-01T18:22:07.336Z",
     "last_updated_by": "FRB"
   }
 }
