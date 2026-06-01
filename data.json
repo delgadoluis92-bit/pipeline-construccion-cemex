@@ -3966,7 +3966,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "04 - Negociación",
       "proyecto": "Lib.Norponiente de Saltillo",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 324,
-    "last_updated": "2026-06-01T19:57:22.729Z",
+    "version": 325,
+    "last_updated": "2026-06-01T19:57:30.445Z",
     "last_updated_by": "JMSS"
   }
 }
