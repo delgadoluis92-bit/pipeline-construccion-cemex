@@ -3816,7 +3816,7 @@
       "estado": "Baja California Sur",
       "concreto_total": null,
       "fecha_update": "2026-06-01",
-      "anio": 2027,
+      "anio": 2028,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 387,
-    "last_updated": "2026-06-01T23:31:17.008Z",
+    "version": 388,
+    "last_updated": "2026-06-01T23:31:22.181Z",
     "last_updated_by": "JDDO"
   }
 }
