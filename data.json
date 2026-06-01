@@ -3427,7 +3427,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "LCDC",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "By Pass Ensenada (CMRO)",
       "subsegmento": "Carreteras y Vialidades",
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 271,
-    "last_updated": "2026-06-01T17:35:03.250Z",
+    "version": 272,
+    "last_updated": "2026-06-01T17:35:22.065Z",
     "last_updated_by": "JDDO"
   }
 }
