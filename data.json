@@ -3387,7 +3387,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "01 - Prospección",
-      "proyecto": "Libramiento Noreste de Monterrey",
+      "proyecto": "Lib. Noreste de Monterrey",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "CONSTRUOBRAS",
@@ -5046,8 +5046,8 @@
     ]
   },
   "_metadata": {
-    "version": 295,
-    "last_updated": "2026-06-01T19:21:53.102Z",
-    "last_updated_by": "JDDO"
+    "version": 296,
+    "last_updated": "2026-06-01T19:31:27.287Z",
+    "last_updated_by": "JMSS"
   }
 }
