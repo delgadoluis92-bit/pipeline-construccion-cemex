@@ -3812,7 +3812,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "09 - Perdido",
       "proyecto": "Aut. Atlacomulco - Polotitlán",
       "subsegmento": "Carreteras y Vialidades",
@@ -3837,7 +3837,9 @@
           "author": "IVH / JDDO",
           "text": "Asesoría de personal técnico de ICA"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4977,8 +4979,8 @@
     ]
   },
   "_metadata": {
-    "version": 255,
-    "last_updated": "2026-06-01T17:26:34.086Z",
+    "version": 256,
+    "last_updated": "2026-06-01T17:26:58.368Z",
     "last_updated_by": "JDDO"
   }
 }
