@@ -802,7 +802,7 @@
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "TGZ - Nuevo Recinto fiscal (puerto seco)",
       "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Pistas y rodajes",
+      "tipo": "Puertos Secos",
       "cliente": "Grupo Aeroportuario de Chiapas (GAC)",
       "region": "Centro - Sureste",
       "estado": "Chiapas",
@@ -4837,8 +4837,8 @@
     ]
   },
   "_metadata": {
-    "version": 220,
-    "last_updated": "2026-06-01T16:18:02.997Z",
-    "last_updated_by": "APC"
+    "version": 221,
+    "last_updated": "2026-06-01T16:19:09.829Z",
+    "last_updated_by": "LCDC"
   }
 }
