@@ -3760,7 +3760,7 @@
       "estado": "Tamaulipas",
       "concreto_total": 20,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2026,
       "comentario": "Etapa de Anteproyecto.",
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 368,
-    "last_updated": "2026-06-01T21:25:48.893Z",
+    "version": 369,
+    "last_updated": "2026-06-01T21:26:00.547Z",
     "last_updated_by": "JDDO"
   }
 }
