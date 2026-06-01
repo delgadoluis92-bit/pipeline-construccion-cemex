@@ -2224,7 +2224,7 @@
       "estado": "Oaxaca",
       "concreto_total": 276,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": "Diferimiento de fallo para el 01 de junio a las 5pm",
       "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
       "prioridad": 1,
@@ -2256,7 +2256,7 @@
         }
       ],
       "highlight": false,
-      "fecha_arranque": "2026-07-01"
+      "fecha_arranque": "2027-03-01"
     },
     {
       "importante_vale": "No",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 343,
-    "last_updated": "2026-06-01T21:11:57.872Z",
+    "version": 344,
+    "last_updated": "2026-06-01T21:13:06.786Z",
     "last_updated_by": "JDDO"
   }
 }
