@@ -3412,7 +3412,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "01 - Prospección",
-      "proyecto": "Lbto. Navojoa",
+      "proyecto": "Lib. Navojoa",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "DCC",
@@ -5046,8 +5046,8 @@
     ]
   },
   "_metadata": {
-    "version": 296,
-    "last_updated": "2026-06-01T19:31:27.287Z",
+    "version": 297,
+    "last_updated": "2026-06-01T19:31:35.539Z",
     "last_updated_by": "JMSS"
   }
 }
