@@ -1670,9 +1670,9 @@
       "region": "Pacífico",
       "estado": "Baja California",
       "concreto_total": 10,
-      "fecha_update": "2026-05-23",
+      "fecha_update": "2026-06-01",
       "anio": 2026,
-      "comentario": "Visita a sitio 21mayo - se valida estrategia con CONSA + TRITECNO + SINDICATO\nMapeo de agregados, banco de tiro, maquearía, fletes, distancias y regalias",
+      "comentario": "Ppto paramétrico 10 de Junio",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -1695,6 +1695,11 @@
           "ts": "2026-05-23",
           "author": "LCDC",
           "text": "Visita a sitio 21mayo - se valida estrategia con CONSA + TRITECNO + SINDICATO\nMapeo de agregados, banco de tiro, maquearía, fletes, distancias y regalias"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "Ppto paramétrico 10 de Junio",
+          "author": "SAAH"
         }
       ],
       "highlight": true,
@@ -4794,8 +4799,8 @@
     ]
   },
   "_metadata": {
-    "version": 205,
-    "last_updated": "2026-06-01T16:07:35.086Z",
-    "last_updated_by": "FRB"
+    "version": 206,
+    "last_updated": "2026-06-01T16:09:05.934Z",
+    "last_updated_by": "SAAH"
   }
 }
