@@ -3410,12 +3410,12 @@
       "cliente": "CALZADA",
       "region": "Norte - Bajío",
       "estado": "Tamaulipas",
-      "concreto_total": null,
+      "concreto_total": 50,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 276,
-    "last_updated": "2026-06-01T18:07:37.758Z",
+    "version": 277,
+    "last_updated": "2026-06-01T18:08:23.403Z",
     "last_updated_by": "JDDO"
   }
 }
