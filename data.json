@@ -3518,7 +3518,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "01 - Prospección",
       "proyecto": "Lib. Noreste de Monterrey",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 321,
-    "last_updated": "2026-06-01T19:56:46.834Z",
+    "version": 322,
+    "last_updated": "2026-06-01T19:56:54.632Z",
     "last_updated_by": "JMSS"
   }
 }
