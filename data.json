@@ -1123,7 +1123,7 @@
       "anio": 2028,
       "comentario": "Reuniones periódicas con el equipo técnico para monitorear cimentación.",
       "programa": null,
-      "prioridad": 1,
+      "prioridad": 2,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5035,8 +5035,8 @@
     ]
   },
   "_metadata": {
-    "version": 292,
-    "last_updated": "2026-06-01T18:22:27.989Z",
+    "version": 293,
+    "last_updated": "2026-06-01T18:22:40.712Z",
     "last_updated_by": "FRB"
   }
 }
