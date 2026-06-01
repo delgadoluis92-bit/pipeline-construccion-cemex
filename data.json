@@ -3352,7 +3352,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "Libramiento Noreste de Monterrey",
       "subsegmento": "Carreteras y Vialidades",
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 270,
-    "last_updated": "2026-06-01T17:34:13.517Z",
+    "version": 271,
+    "last_updated": "2026-06-01T17:35:03.250Z",
     "last_updated_by": "JDDO"
   }
 }
