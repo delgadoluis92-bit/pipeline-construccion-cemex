@@ -2883,7 +2883,7 @@
           "text": "sept 24 - publican reglas de operación del puerto \nsep25 a mayo26 - Prepación de terrenos \nago 25 Inicio de dragado (Issues ambientales denunciado sin permiso SEMARNAT) En curso\njulio 26 Licitación primera terminal privada"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -4881,8 +4881,8 @@
     ]
   },
   "_metadata": {
-    "version": 236,
-    "last_updated": "2026-06-01T16:33:40.407Z",
+    "version": 237,
+    "last_updated": "2026-06-01T16:33:46.245Z",
     "last_updated_by": "LCDC"
   }
 }
