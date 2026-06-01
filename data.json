@@ -3329,7 +3329,7 @@
       "cliente": "VALORAN",
       "region": "Norte - Bajío",
       "estado": "San Luis Potosi",
-      "concreto_total": null,
+      "concreto_total": 880,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos",
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 272,
-    "last_updated": "2026-06-01T17:35:22.065Z",
+    "version": 273,
+    "last_updated": "2026-06-01T18:04:28.895Z",
     "last_updated_by": "JDDO"
   }
 }
