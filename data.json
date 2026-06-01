@@ -1192,7 +1192,7 @@
       "estatus": "04 - Negociación",
       "proyecto": "UNICO Hotel - Short slabs MoBay",
       "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Carreteras",
+      "tipo": "Urbanización",
       "cliente": "UNICO",
       "region": "Internacional",
       "estado": null,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 348,
-    "last_updated": "2026-06-01T21:14:52.137Z",
+    "version": 349,
+    "last_updated": "2026-06-01T21:16:33.930Z",
     "last_updated_by": "JDDO"
   }
 }
