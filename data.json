@@ -3902,7 +3902,7 @@
       "estado": "Queretaro",
       "concreto_total": 83,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2026,
       "comentario": null,
       "programa": null,
       "prioridad": 1,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 344,
-    "last_updated": "2026-06-01T21:13:06.786Z",
+    "version": 345,
+    "last_updated": "2026-06-01T21:14:35.676Z",
     "last_updated_by": "JDDO"
   }
 }
