@@ -3684,7 +3684,7 @@
     {
       "importante_vale": "No",
       "responsable": "JDDO",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "10 - Ejecución",
       "proyecto": "Aut. México – Querétaro Cpo. B (Palmillas – Querétaro)",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -3692,7 +3692,7 @@
       "region": "Norte - Bajío",
       "estado": "Queretaro",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
@@ -3702,7 +3702,9 @@
       "pavimento": null,
       "id": "proj_98",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4964,8 +4966,8 @@
     ]
   },
   "_metadata": {
-    "version": 246,
-    "last_updated": "2026-06-01T17:00:54.363Z",
+    "version": 247,
+    "last_updated": "2026-06-01T17:03:11.197Z",
     "last_updated_by": "JMSS"
   }
 }
