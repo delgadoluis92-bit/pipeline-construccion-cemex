@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mpvmf4huyri8",
+      "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Evaluación de pavimento y elaboración de justificación técnica.",
+          "author": "JDDO"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "JDDO",
+      "proyecto": "Evaluación de Pavimento",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "CX",
+      "region": "Centro - Sureste",
+      "estado": "Puebla",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 3,
+      "fecha_update": "2026-06-01",
+      "programa": "Proyecto Interno",
+      "fecha_arranque": null,
+      "comentario": "Evaluación de pavimento y elaboración de justificación técnica."
+    },
+    {
       "id": "p_mpvmbw5ptmxd",
       "history": [
         {
@@ -5151,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 318,
-    "last_updated": "2026-06-01T19:45:26.413Z",
+    "version": 319,
+    "last_updated": "2026-06-01T19:47:57.187Z",
     "last_updated_by": "JDDO"
   }
 }
