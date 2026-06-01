@@ -13,11 +13,11 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "JDDO",
-      "proyecto": "Evaluación de Pavimento",
+      "proyecto": "Evaluación de Pavimento Concepción Pardiñas",
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Carreteras",
-      "cliente": "CX",
+      "tipo": "Urbanización",
+      "cliente": "CX - Tepeaca",
       "region": "Centro - Sureste",
       "estado": "Puebla",
       "concreto_total": null,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 349,
-    "last_updated": "2026-06-01T21:16:33.930Z",
+    "version": 350,
+    "last_updated": "2026-06-01T21:18:57.291Z",
     "last_updated_by": "JDDO"
   }
 }
