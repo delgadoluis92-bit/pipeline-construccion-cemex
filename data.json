@@ -306,7 +306,7 @@
       "region": "Centro - Sureste",
       "estado": "Queretaro",
       "concreto_total": 725,
-      "anio": 2026,
+      "anio": 2027,
       "prioridad": 2,
       "fecha_update": "2026-06-01",
       "programa": null,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 378,
-    "last_updated": "2026-06-01T21:29:15.691Z",
+    "version": 379,
+    "last_updated": "2026-06-01T21:29:57.240Z",
     "last_updated_by": "JDDO"
   }
 }
