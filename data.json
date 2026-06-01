@@ -20,7 +20,7 @@
       "cliente": "SICT",
       "region": "Centro - Sureste",
       "estado": "Ciudad de Mexico",
-      "concreto_total": 1200,
+      "concreto_total": 1.2,
       "anio": 2026,
       "prioridad": 2,
       "fecha_update": "2026-06-01",
@@ -4799,8 +4799,8 @@
     ]
   },
   "_metadata": {
-    "version": 207,
-    "last_updated": "2026-06-01T16:09:18.193Z",
-    "last_updated_by": "APC"
+    "version": 208,
+    "last_updated": "2026-06-01T16:09:44.495Z",
+    "last_updated_by": "FRB"
   }
 }
