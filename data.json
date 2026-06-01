@@ -3590,7 +3590,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "01 - Prospección",
-      "proyecto": "Lbto.Morelos-Zaragoza",
+      "proyecto": "Lib. Morelos-Zaragoza",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "Coahuila",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 310,
-    "last_updated": "2026-06-01T19:37:35.747Z",
+    "version": 311,
+    "last_updated": "2026-06-01T19:37:46.467Z",
     "last_updated_by": "JMSS"
   }
 }
