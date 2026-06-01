@@ -3774,7 +3774,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "01 - Prospección",
       "proyecto": "Lib.  Poniente de Hermosillo",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 329,
-    "last_updated": "2026-06-01T19:57:48.985Z",
+    "version": 330,
+    "last_updated": "2026-06-01T19:57:55.234Z",
     "last_updated_by": "JMSS"
   }
 }
