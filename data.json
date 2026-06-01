@@ -17,15 +17,15 @@
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
-      "cliente": null,
+      "cliente": "OMEGA",
       "region": "Centro - Sureste",
-      "estado": null,
+      "estado": "Veracruz",
       "concreto_total": 59,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 2,
       "fecha_update": "2026-06-01",
-      "programa": null,
-      "fecha_arranque": null,
+      "programa": "TBD",
+      "fecha_arranque": "2027-05-01",
       "comentario": "Elab"
     },
     {
@@ -4880,8 +4880,8 @@
     ]
   },
   "_metadata": {
-    "version": 239,
-    "last_updated": "2026-06-01T16:48:45.906Z",
+    "version": 240,
+    "last_updated": "2026-06-01T16:49:42.549Z",
     "last_updated_by": "JMSS"
   }
 }
