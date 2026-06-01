@@ -3687,7 +3687,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "FRB",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "BRT Tampico",
       "subsegmento": "Carreteras y Vialidades",
@@ -5123,8 +5123,8 @@
     ]
   },
   "_metadata": {
-    "version": 316,
-    "last_updated": "2026-06-01T19:42:03.550Z",
+    "version": 317,
+    "last_updated": "2026-06-01T19:42:22.409Z",
     "last_updated_by": "JDDO"
   }
 }
