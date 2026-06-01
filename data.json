@@ -3684,7 +3684,7 @@
     {
       "importante_vale": "No",
       "responsable": "JDDO",
-      "estatus": "10 - Ejecución",
+      "estatus": "05 - Cerrado",
       "proyecto": "Aut. México – Querétaro Cpo. B (Palmillas – Querétaro)",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -4968,8 +4968,8 @@
     ]
   },
   "_metadata": {
-    "version": 248,
-    "last_updated": "2026-06-01T17:03:29.143Z",
+    "version": 249,
+    "last_updated": "2026-06-01T17:03:45.107Z",
     "last_updated_by": "JMSS"
   }
 }
