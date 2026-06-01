@@ -3451,7 +3451,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "04 - Negociación",
       "proyecto": "Lib.  Cd. Mante",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 319,
-    "last_updated": "2026-06-01T19:47:57.187Z",
-    "last_updated_by": "JDDO"
+    "version": 320,
+    "last_updated": "2026-06-01T19:56:40.586Z",
+    "last_updated_by": "JMSS"
   }
 }
