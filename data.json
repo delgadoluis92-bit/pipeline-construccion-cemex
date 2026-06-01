@@ -7,6 +7,11 @@
           "ts": "2026-06-01",
           "text": "Gestión de fabricación de Concretos con agregados reciclados en colaboración con la CDMX.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "Se agendará próxima reunión a mediados de junio 2026 para conocer el plan de operación de las plantas de reciclado de escombro de la CDMX.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "No",
@@ -26,7 +31,7 @@
       "fecha_update": "2026-06-01",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Gestión de fabricación de Concretos con agregados reciclados en colaboración con la CDMX."
+      "comentario": "Se agendará próxima reunión a mediados de junio 2026 para conocer el plan de operación de las plantas de reciclado de escombro de la CDMX."
     },
     {
       "id": "p_mpvggau2vtia",
@@ -5035,8 +5040,8 @@
     ]
   },
   "_metadata": {
-    "version": 293,
-    "last_updated": "2026-06-01T18:22:40.712Z",
+    "version": 294,
+    "last_updated": "2026-06-01T18:25:01.132Z",
     "last_updated_by": "FRB"
   }
 }
