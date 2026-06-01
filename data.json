@@ -3361,7 +3361,7 @@
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
@@ -3371,7 +3371,9 @@
       "pavimento": null,
       "id": "proj_83",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5005,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 269,
-    "last_updated": "2026-06-01T17:34:02.837Z",
+    "version": 270,
+    "last_updated": "2026-06-01T17:34:13.517Z",
     "last_updated_by": "JDDO"
   }
 }
