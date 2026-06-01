@@ -3610,7 +3610,7 @@
       "estado": "Baja California",
       "concreto_total": null,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 362,
-    "last_updated": "2026-06-01T21:24:24.377Z",
+    "version": 363,
+    "last_updated": "2026-06-01T21:24:35.852Z",
     "last_updated_by": "JDDO"
   }
 }
