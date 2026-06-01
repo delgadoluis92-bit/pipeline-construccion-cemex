@@ -3696,7 +3696,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "01 - Prospección",
-      "proyecto": "Lbto.  Sur de la Paz",
+      "proyecto": "Lib.  Sur de la Paz",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "Baja California Sur",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 307,
-    "last_updated": "2026-06-01T19:37:16.654Z",
+    "version": 308,
+    "last_updated": "2026-06-01T19:37:22.517Z",
     "last_updated_by": "JMSS"
   }
 }
