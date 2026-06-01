@@ -3465,7 +3465,7 @@
       "anio": 2025,
       "comentario": null,
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 278,
-    "last_updated": "2026-06-01T18:08:54.804Z",
+    "version": 279,
+    "last_updated": "2026-06-01T18:09:39.014Z",
     "last_updated_by": "JDDO"
   }
 }
