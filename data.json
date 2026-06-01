@@ -285,6 +285,11 @@
           "ts": "2026-05-26",
           "text": "Mayo 2026- Se envió precio paramétrico y propuesta conceptual de prefabricado para licitación de construcción de estructura",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "Ya tienen el fallo HH&A. No tienen nuestro número, darle seguimiento para ver que estructurista van a trabajar y si podemos integrarnos a su proyecto",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -301,10 +306,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-06-01",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Mayo 2026- Se envió precio paramétrico y propuesta conceptual de prefabricado para licitación de construcción de estructura"
+      "comentario": "Ya tienen el fallo HH&A. No tienen nuestro número, darle seguimiento para ver que estructurista van a trabajar y si podemos integrarnos a su proyecto"
     },
     {
       "id": "p_mpn8rq0pq9ei",
@@ -4832,8 +4837,8 @@
     ]
   },
   "_metadata": {
-    "version": 215,
-    "last_updated": "2026-06-01T16:15:22.129Z",
-    "last_updated_by": "JDDO"
+    "version": 216,
+    "last_updated": "2026-06-01T16:15:38.637Z",
+    "last_updated_by": "YATG"
   }
 }
