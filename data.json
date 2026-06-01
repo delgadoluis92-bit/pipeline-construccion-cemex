@@ -691,7 +691,7 @@
       "cliente": "SEMAR",
       "region": "Centro - Sureste",
       "estado": "Ciudad de Mexico",
-      "concreto_total": 0.11,
+      "concreto_total": 0.08,
       "anio": 2026,
       "prioridad": 2,
       "fecha_update": "2026-05-26",
@@ -4764,8 +4764,8 @@
     ]
   },
   "_metadata": {
-    "version": 195,
-    "last_updated": "2026-06-01T15:43:04.470Z",
-    "last_updated_by": "SAAH"
+    "version": 196,
+    "last_updated": "2026-06-01T16:02:57.162Z",
+    "last_updated_by": "MLR"
   }
 }
