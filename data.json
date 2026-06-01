@@ -3579,13 +3579,13 @@
       "estatus": "01 - Prospección",
       "proyecto": "Viaducto Tampico",
       "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Carreteras",
+      "tipo": "Urbanización",
       "cliente": "CALZADA",
       "region": "Norte - Bajío",
       "estado": "Tamaulipas",
       "concreto_total": 50,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 361,
-    "last_updated": "2026-06-01T21:24:05.837Z",
+    "version": 362,
+    "last_updated": "2026-06-01T21:24:24.377Z",
     "last_updated_by": "JDDO"
   }
 }
