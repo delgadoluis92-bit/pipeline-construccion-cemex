@@ -101,13 +101,13 @@
       "estatus": "01 - Prospección",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
-      "cliente": "CX",
+      "cliente": "CX - Atotonilco",
       "region": "Centro - Sureste",
       "estado": "Hidalgo",
       "concreto_total": 7,
-      "anio": 2026,
+      "anio": 2027,
       "prioridad": 3,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2027-03-10",
       "programa": "Proyecto Interno",
       "fecha_arranque": null,
       "comentario": "Se entrego presupuesto paramétrico con concreto hidráulico. \n\nSe solicita apoyo para presupuesto paramétrico  con asfalto."
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 351,
-    "last_updated": "2026-06-01T21:19:52.712Z",
+    "version": 352,
+    "last_updated": "2026-06-01T21:20:30.828Z",
     "last_updated_by": "JDDO"
   }
 }
