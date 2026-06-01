@@ -4110,7 +4110,7 @@
           "text": "STAND BY (MIA rechazada marzo 2026)"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -4766,8 +4766,8 @@
     ]
   },
   "_metadata": {
-    "version": 203,
-    "last_updated": "2026-06-01T16:06:05.007Z",
+    "version": 204,
+    "last_updated": "2026-06-01T16:06:43.689Z",
     "last_updated_by": "LCDC"
   }
 }
