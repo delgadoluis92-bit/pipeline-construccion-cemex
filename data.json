@@ -1527,7 +1527,7 @@
           "text": "Contrato: $4.3M usd\nSlipe - 1km\nWood Hall - 0.6km\nResources - 1km\nLandless - 0.4km"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -4766,8 +4766,8 @@
     ]
   },
   "_metadata": {
-    "version": 200,
-    "last_updated": "2026-06-01T16:05:16.882Z",
+    "version": 201,
+    "last_updated": "2026-06-01T16:05:21.409Z",
     "last_updated_by": "LCDC"
   }
 }
