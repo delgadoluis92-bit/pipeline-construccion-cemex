@@ -3504,7 +3504,7 @@
       "estado": "San Luis Potosi",
       "concreto_total": 880,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos",
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 358,
-    "last_updated": "2026-06-01T21:23:03.599Z",
+    "version": 359,
+    "last_updated": "2026-06-01T21:23:29.849Z",
     "last_updated_by": "JDDO"
   }
 }
