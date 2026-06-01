@@ -3618,7 +3618,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JDDO",
       "estatus": "01 - Prospección",
       "proyecto": "Cd. Mendoza – Córdoba (CMRO)",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 335,
-    "last_updated": "2026-06-01T19:58:21.229Z",
+    "version": 336,
+    "last_updated": "2026-06-01T19:58:25.255Z",
     "last_updated_by": "JMSS"
   }
 }
