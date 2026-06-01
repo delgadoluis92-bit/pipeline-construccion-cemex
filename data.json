@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mpvj71p8z1f4",
+      "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Gestión de proyecto de Reciclaje de escombro y Fabricación de Concretos con materiales reciclados.",
+          "author": "FRB"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": null,
+      "proyecto": "CDMX Mats Reciclados Norma concreto",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "CDMX - DGSUS",
+      "region": "Centro - Sureste",
+      "estado": "Ciudad de Mexico",
+      "concreto_total": null,
+      "anio": 2027,
+      "prioridad": 3,
+      "fecha_update": "2026-06-01",
+      "programa": null,
+      "fecha_arranque": null,
+      "comentario": "Gestión de proyecto de Reciclaje de escombro y Fabricación de Concretos con materiales reciclados."
+    },
+    {
       "id": "p_mpvggau2vtia",
       "history": [],
       "importante_vale": "No",
@@ -5007,8 +5035,8 @@
     ]
   },
   "_metadata": {
-    "version": 285,
-    "last_updated": "2026-06-01T18:13:48.999Z",
-    "last_updated_by": "JDDO"
+    "version": 286,
+    "last_updated": "2026-06-01T18:17:41.468Z",
+    "last_updated_by": "FRB"
   }
 }
