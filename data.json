@@ -3671,7 +3671,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "01 - Prospección",
-      "proyecto": "Lbto.  Poniente de Hermosillo",
+      "proyecto": "Lib.  Poniente de Hermosillo",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "TBD",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 306,
-    "last_updated": "2026-06-01T19:37:09.330Z",
+    "version": 307,
+    "last_updated": "2026-06-01T19:37:16.654Z",
     "last_updated_by": "JMSS"
   }
 }
