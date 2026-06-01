@@ -3360,12 +3360,12 @@
       "cliente": "CONSTRUOBRAS",
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
-      "concreto_total": null,
+      "concreto_total": 107,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 273,
-    "last_updated": "2026-06-01T18:04:28.895Z",
+    "version": 274,
+    "last_updated": "2026-06-01T18:06:27.050Z",
     "last_updated_by": "JDDO"
   }
 }
