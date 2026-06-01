@@ -3517,18 +3517,18 @@
       "importante_vale": "No",
       "responsable": "JDDO",
       "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "Lbto. de Querétaro – La Pitahaya",
+      "proyecto": "Consorcio de libramiento oriente SLP",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
-      "cliente": "VALORAN",
+      "cliente": "Urales y HYCSA",
       "region": "Norte - Bajío",
-      "estado": "Queretaro",
-      "concreto_total": null,
-      "fecha_update": null,
+      "estado": "San Luis Potosi",
+      "concreto_total": 286.2,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
-      "comentario": "PNS en espera de licitación por parte de la SICT",
+      "comentario": "Se entregó propuesta economica el pasado 22 de mayo 2026.\n194.2 K m3 -> Concreto MR\n92.0 K m3 - > Base Cementada\n\nEspesor de losa: 43 cm\nLongitud de pavimentación: 20.00 km\nAncho de Pavimentación: Promedio de 11.50 metros (2 franjas de colado )",
       "programa": null,
-      "prioridad": null,
+      "prioridad": 2,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -3539,8 +3539,15 @@
           "ts": "2026-05-15",
           "author": "IVH / JDDO",
           "text": "PNS en espera de licitación por parte de la SICT"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "Se entregó propuesta economica el pasado 22 de mayo 2026.\n194.2 K m3 -> Concreto MR\n92.0 K m3 - > Base Cementada\n\nEspesor de losa: 43 cm\nLongitud de pavimentación: 20.00 km\nAncho de Pavimentación: Promedio de 11.50 metros (2 franjas de colado )",
+          "author": "JDDO"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": "2027-02-01"
     },
     {
       "importante_vale": "No",
@@ -4825,8 +4832,8 @@
     ]
   },
   "_metadata": {
-    "version": 214,
-    "last_updated": "2026-06-01T16:13:08.809Z",
-    "last_updated_by": "YATG"
+    "version": 215,
+    "last_updated": "2026-06-01T16:15:22.129Z",
+    "last_updated_by": "JDDO"
   }
 }
