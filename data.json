@@ -3321,7 +3321,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "Aut. Peyote – Matehuala",
       "subsegmento": "Carreteras y Vialidades",
@@ -3330,7 +3330,7 @@
       "region": "Norte - Bajío",
       "estado": "San Luis Potosi",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos",
       "programa": null,
@@ -3346,7 +3346,9 @@
           "author": "IVH / JDDO",
           "text": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4979,8 +4981,8 @@
     ]
   },
   "_metadata": {
-    "version": 256,
-    "last_updated": "2026-06-01T17:26:58.368Z",
+    "version": 257,
+    "last_updated": "2026-06-01T17:27:21.452Z",
     "last_updated_by": "JDDO"
   }
 }
