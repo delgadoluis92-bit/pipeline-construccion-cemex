@@ -1483,7 +1483,7 @@
       "anio": 2026,
       "comentario": "GAMI cotiza con planta propia dentro del aeropuerto, y con precios margen 0%,\nSe hace validación de costos con Orlando.\nCercania latente",
       "programa": null,
-      "prioridad": 41,
+      "prioridad": 4,
       "ccr": null,
       "base_estab": 13,
       "pavimento": null,
@@ -4843,8 +4843,8 @@
     ]
   },
   "_metadata": {
-    "version": 223,
-    "last_updated": "2026-06-01T16:21:21.703Z",
-    "last_updated_by": "LCDC"
+    "version": 224,
+    "last_updated": "2026-06-01T16:21:48.583Z",
+    "last_updated_by": "APC"
   }
 }
