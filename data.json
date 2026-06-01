@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mpvg92z79ns6",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "JDDO",
+      "proyecto": "Lib. Imuris - Cananea",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Construplan",
+      "region": "Pacífico",
+      "estado": "Sonora",
+      "concreto_total": 62,
+      "anio": 2027,
+      "prioridad": 2,
+      "fecha_update": "2026-06-01",
+      "programa": null,
+      "fecha_arranque": "2027-01-01"
+    },
+    {
       "id": "p_mpvg43hyg90d",
       "history": [],
       "importante_vale": "No",
@@ -4901,8 +4922,8 @@
     ]
   },
   "_metadata": {
-    "version": 242,
-    "last_updated": "2026-06-01T16:53:58.242Z",
+    "version": 243,
+    "last_updated": "2026-06-01T16:55:17.588Z",
     "last_updated_by": "JMSS"
   }
 }
