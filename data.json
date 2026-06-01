@@ -3582,7 +3582,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "Lbto.  Poniente de Hermosillo",
       "subsegmento": "Carreteras y Vialidades",
@@ -3591,7 +3591,7 @@
       "region": "Pacífico",
       "estado": "Sonora",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
@@ -3601,7 +3601,9 @@
       "pavimento": null,
       "id": "proj_93",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4985,8 +4987,8 @@
     ]
   },
   "_metadata": {
-    "version": 259,
-    "last_updated": "2026-06-01T17:27:49.392Z",
+    "version": 260,
+    "last_updated": "2026-06-01T17:27:56.455Z",
     "last_updated_by": "JDDO"
   }
 }
