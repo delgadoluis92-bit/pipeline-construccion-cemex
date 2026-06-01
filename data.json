@@ -706,6 +706,11 @@
           "ts": "2026-05-26",
           "text": "Proveedor LEDCON manda cotización con un monto de 4.85mdp",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "El proyecto a venta para negociar se entrega en 8mdp",
+          "author": "MLR"
         }
       ],
       "importante_vale": "No",
@@ -722,10 +727,10 @@
       "concreto_total": 0.11,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-06-01",
       "programa": "Contrato adicional a CENCIS",
       "fecha_arranque": "2026-06-26",
-      "comentario": "Proveedor LEDCON manda cotización con un monto de 4.85mdp"
+      "comentario": "El proyecto a venta para negociar se entrega en 8mdp"
     },
     {
       "id": "p_mpmvj67fd5zo",
@@ -4799,8 +4804,8 @@
     ]
   },
   "_metadata": {
-    "version": 212,
-    "last_updated": "2026-06-01T16:11:01.674Z",
+    "version": 213,
+    "last_updated": "2026-06-01T16:11:24.440Z",
     "last_updated_by": "MLR"
   }
 }
