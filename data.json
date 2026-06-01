@@ -3733,9 +3733,9 @@
       "cliente": "Coahuila",
       "region": "Norte - Bajío",
       "estado": "Coahuila",
-      "concreto_total": 0,
+      "concreto_total": null,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 367,
-    "last_updated": "2026-06-01T21:25:37.930Z",
+    "version": 368,
+    "last_updated": "2026-06-01T21:25:48.893Z",
     "last_updated_by": "JDDO"
   }
 }
