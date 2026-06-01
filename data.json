@@ -266,9 +266,9 @@
           "author": "JDDO"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "JMSS",
       "proyecto": "Carr. Tihuatlan - Tuxpan",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 376,
-    "last_updated": "2026-06-01T21:28:27.266Z",
+    "version": 377,
+    "last_updated": "2026-06-01T21:28:58.699Z",
     "last_updated_by": "JDDO"
   }
 }
