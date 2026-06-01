@@ -3487,7 +3487,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "01 - Prospección",
       "proyecto": "Aut. Peyote – Matehuala",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 320,
-    "last_updated": "2026-06-01T19:56:40.586Z",
+    "version": 321,
+    "last_updated": "2026-06-01T19:56:46.834Z",
     "last_updated_by": "JMSS"
   }
 }
