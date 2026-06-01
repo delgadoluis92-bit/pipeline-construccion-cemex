@@ -3918,7 +3918,7 @@
     {
       "importante_vale": "No",
       "responsable": "JMSS",
-      "estatus": "05 - Cerrado",
+      "estatus": "04 - Negociación",
       "proyecto": "Aut. Córdoba - Veracruz",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 373,
-    "last_updated": "2026-06-01T21:27:15.427Z",
+    "version": 374,
+    "last_updated": "2026-06-01T21:28:02.079Z",
     "last_updated_by": "JDDO"
   }
 }
