@@ -3444,7 +3444,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "Cd. Mendoza – Córdoba (CMRO)",
       "subsegmento": "Carreteras y Vialidades",
@@ -3453,7 +3453,7 @@
       "region": "Centro - Sureste",
       "estado": "Veracruz",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
@@ -3463,7 +3463,9 @@
       "pavimento": null,
       "id": "proj_87",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4997,8 +4999,8 @@
     ]
   },
   "_metadata": {
-    "version": 265,
-    "last_updated": "2026-06-01T17:28:32.198Z",
+    "version": 266,
+    "last_updated": "2026-06-01T17:33:45.161Z",
     "last_updated_by": "JDDO"
   }
 }
