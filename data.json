@@ -1435,7 +1435,9 @@
           "author": "LCDC",
           "text": "GAMI cotiza con planta propia dentro del aeropuerto, y con precios margen 0%,\nSe hace validación de costos con Orlando.\nCercania latente"
         }
-      ]
+      ],
+      "highlight": true,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4764,8 +4766,8 @@
     ]
   },
   "_metadata": {
-    "version": 199,
-    "last_updated": "2026-06-01T16:05:08.285Z",
+    "version": 200,
+    "last_updated": "2026-06-01T16:05:16.882Z",
     "last_updated_by": "LCDC"
   }
 }
