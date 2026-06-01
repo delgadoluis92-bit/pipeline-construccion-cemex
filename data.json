@@ -3863,7 +3863,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "04 - Negociación",
-      "proyecto": "Lbto.Norponiente de Saltillo",
+      "proyecto": "Lib.Norponiente de Saltillo",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "ROADIS",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 311,
-    "last_updated": "2026-06-01T19:37:46.467Z",
+    "version": 312,
+    "last_updated": "2026-06-01T19:37:53.702Z",
     "last_updated_by": "JMSS"
   }
 }
