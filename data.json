@@ -3586,13 +3586,13 @@
       "importante_vale": "No",
       "responsable": "JMSS",
       "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "Consorcio de libramiento oriente SLP",
+      "proyecto": "Lib. La Pitahaya",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
-      "cliente": "Urales y HYCSA",
+      "cliente": "Consorcio Lib. Oriente SLP (Urales &HYCSA)",
       "region": "Norte - Bajío",
       "estado": "San Luis Potosi",
-      "concreto_total": 286.2,
+      "concreto_total": 287,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": "Se entregó propuesta economica el pasado 22 de mayo 2026.\n194.2 K m3 -> Concreto MR\n92.0 K m3 - > Base Cementada\n\nEspesor de losa: 43 cm\nLongitud de pavimentación: 20.00 km\nAncho de Pavimentación: Promedio de 11.50 metros (2 franjas de colado )",
@@ -4901,8 +4901,8 @@
     ]
   },
   "_metadata": {
-    "version": 241,
-    "last_updated": "2026-06-01T16:51:24.983Z",
+    "version": 242,
+    "last_updated": "2026-06-01T16:53:58.242Z",
     "last_updated_by": "JMSS"
   }
 }
