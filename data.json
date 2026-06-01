@@ -713,7 +713,7 @@
       "highlight": false,
       "responsable": "MLR",
       "proyecto": "Barda CENCIS",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "04 - Negociación",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
       "cliente": "SEMAR",
@@ -4799,8 +4799,8 @@
     ]
   },
   "_metadata": {
-    "version": 209,
-    "last_updated": "2026-06-01T16:10:22.694Z",
+    "version": 210,
+    "last_updated": "2026-06-01T16:10:33.822Z",
     "last_updated_by": "MLR"
   }
 }
