@@ -3841,7 +3841,7 @@
       "estado": "Oaxaca",
       "concreto_total": null,
       "fecha_update": "2026-06-01",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 371,
-    "last_updated": "2026-06-01T21:26:26.595Z",
+    "version": 372,
+    "last_updated": "2026-06-01T21:26:38.524Z",
     "last_updated_by": "JDDO"
   }
 }
