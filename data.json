@@ -3935,7 +3935,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JDDO",
       "estatus": "09 - Perdido",
       "proyecto": "Corredor 2000",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 326,
-    "last_updated": "2026-06-01T19:57:35.311Z",
+    "version": 327,
+    "last_updated": "2026-06-01T19:57:39.430Z",
     "last_updated_by": "JMSS"
   }
 }
