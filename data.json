@@ -3766,7 +3766,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "04 - Negociación",
       "proyecto": "Lbto.Norponiente de Saltillo",
       "subsegmento": "Carreteras y Vialidades",
@@ -3775,9 +3775,9 @@
       "region": "Norte - Bajío",
       "estado": "Coahuila",
       "concreto_total": 110,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-06-01",
       "anio": 2027,
-      "comentario": "Concesionario: Concesionaria Autopista Monterrey-Saltillo, S.A. de C.V. (CAMS)\nLongitud del segundo cuerpo: 23.56 km \nTramo: desde el entronque con la Carretera a Torreón hasta la intersección en Ojo Caliente con la Autopista Saltillo-Monterrey\nConversión: de carretera tipo A2 (2 carriles) a tipo A4S/A4 (4 carriles en 2 cuerpos)",
+      "comentario": "Este proyecto se actualiza cada Diciembre.",
       "programa": null,
       "prioridad": 3,
       "ccr": null,
@@ -3800,8 +3800,15 @@
           "ts": "2026-05-18",
           "author": "IVH / JDDO",
           "text": "Concesionario: Concesionaria Autopista Monterrey-Saltillo, S.A. de C.V. (CAMS)\nLongitud del segundo cuerpo: 23.56 km \nTramo: desde el entronque con la Carretera a Torreón hasta la intersección en Ojo Caliente con la Autopista Saltillo-Monterrey\nConversión: de carretera tipo A2 (2 carriles) a tipo A4S/A4 (4 carriles en 2 cuerpos)"
+        },
+        {
+          "ts": "2026-06-01",
+          "text": "Este proyecto se actualiza cada Diciembre.",
+          "author": "JDDO"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -4970,8 +4977,8 @@
     ]
   },
   "_metadata": {
-    "version": 254,
-    "last_updated": "2026-06-01T17:25:30.294Z",
+    "version": 255,
+    "last_updated": "2026-06-01T17:26:34.086Z",
     "last_updated_by": "JDDO"
   }
 }
