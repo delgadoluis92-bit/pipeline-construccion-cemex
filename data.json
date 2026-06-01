@@ -3535,12 +3535,12 @@
       "cliente": "Coahuila",
       "region": "Norte - Bajío",
       "estado": "Coahuila",
-      "concreto_total": null,
+      "concreto_total": 87,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 281,
-    "last_updated": "2026-06-01T18:10:52.946Z",
+    "version": 282,
+    "last_updated": "2026-06-01T18:11:19.718Z",
     "last_updated_by": "JDDO"
   }
 }
