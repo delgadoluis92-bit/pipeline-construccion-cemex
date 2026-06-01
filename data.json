@@ -294,9 +294,9 @@
           "author": "JDDO"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "JMSS",
       "proyecto": "Lib. Metropolitano de Querétaro",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 372,
-    "last_updated": "2026-06-01T21:26:38.524Z",
+    "version": 373,
+    "last_updated": "2026-06-01T21:27:15.427Z",
     "last_updated_by": "JDDO"
   }
 }
