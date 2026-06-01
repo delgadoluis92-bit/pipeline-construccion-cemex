@@ -12,7 +12,7 @@
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
-      "responsable": null,
+      "responsable": "JDDO",
       "proyecto": "Acceso Cantera La Loma",
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Carreteras y Vialidades",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 304,
-    "last_updated": "2026-06-01T19:35:57.650Z",
+    "version": 305,
+    "last_updated": "2026-06-01T19:36:07.317Z",
     "last_updated_by": "JDDO"
   }
 }
