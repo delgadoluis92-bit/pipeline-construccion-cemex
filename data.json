@@ -3535,7 +3535,7 @@
       "estado": "Nuevo Leon",
       "concreto_total": 107,
       "fecha_update": "2026-06-01",
-      "anio": 2027,
+      "anio": 2028,
       "comentario": null,
       "programa": null,
       "prioridad": 3,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 392,
-    "last_updated": "2026-06-01T23:32:23.010Z",
+    "version": 393,
+    "last_updated": "2026-06-01T23:32:30.921Z",
     "last_updated_by": "JDDO"
   }
 }
