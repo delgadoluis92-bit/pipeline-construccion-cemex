@@ -3668,7 +3668,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "01 - Prospección",
       "proyecto": "Lib. Monclova-Castaños",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 333,
-    "last_updated": "2026-06-01T19:58:08.726Z",
+    "version": 334,
+    "last_updated": "2026-06-01T19:58:12.584Z",
     "last_updated_by": "JMSS"
   }
 }
