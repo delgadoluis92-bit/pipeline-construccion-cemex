@@ -3565,7 +3565,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "01 - Prospección",
-      "proyecto": "Lbto. Monclova-Castaños",
+      "proyecto": "Lib. Monclova-Castaños",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "Coahuila",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 309,
-    "last_updated": "2026-06-01T19:37:28.887Z",
+    "version": 310,
+    "last_updated": "2026-06-01T19:37:35.747Z",
     "last_updated_by": "JMSS"
   }
 }
