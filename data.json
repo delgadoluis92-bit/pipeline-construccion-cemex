@@ -100,7 +100,7 @@
       "proyecto": "Ave. Del Trabajp",
       "estatus": "01 - Prospección",
       "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Carreteras",
+      "tipo": "Urbanización",
       "cliente": "CX - Atotonilco",
       "region": "Centro - Sureste",
       "estado": "Hidalgo",
@@ -109,7 +109,7 @@
       "prioridad": 3,
       "fecha_update": "2027-03-10",
       "programa": "Proyecto Interno",
-      "fecha_arranque": null,
+      "fecha_arranque": "2027-03-03",
       "comentario": "Se entrego presupuesto paramétrico con concreto hidráulico. \n\nSe solicita apoyo para presupuesto paramétrico  con asfalto."
     },
     {
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 353,
-    "last_updated": "2026-06-01T21:21:29.603Z",
+    "version": 354,
+    "last_updated": "2026-06-01T21:21:58.891Z",
     "last_updated_by": "JDDO"
   }
 }
