@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mpvgbfxd4pm7",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "JMSS",
+      "proyecto": "Carr. Punta Colonet",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "ICA",
+      "region": "Pacífico",
+      "estado": "Baja California",
+      "concreto_total": 72,
+      "anio": 2027,
+      "prioridad": 2,
+      "fecha_update": "2026-06-01",
+      "programa": null,
+      "fecha_arranque": "2027-05-01"
+    },
+    {
       "id": "p_mpvg92z79ns6",
       "history": [],
       "importante_vale": "No",
@@ -4922,8 +4943,8 @@
     ]
   },
   "_metadata": {
-    "version": 244,
-    "last_updated": "2026-06-01T16:55:38.448Z",
+    "version": 245,
+    "last_updated": "2026-06-01T16:57:07.682Z",
     "last_updated_by": "JMSS"
   }
 }
