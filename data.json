@@ -3923,7 +3923,7 @@
     {
       "importante_vale": "No",
       "responsable": "MLR",
-      "estatus": "07 - TBD (Largo Plazo)",
+      "estatus": "09 - Perdido",
       "proyecto": "FAVE 4",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
@@ -4799,8 +4799,8 @@
     ]
   },
   "_metadata": {
-    "version": 208,
-    "last_updated": "2026-06-01T16:09:44.495Z",
-    "last_updated_by": "FRB"
+    "version": 209,
+    "last_updated": "2026-06-01T16:10:22.694Z",
+    "last_updated_by": "MLR"
   }
 }
