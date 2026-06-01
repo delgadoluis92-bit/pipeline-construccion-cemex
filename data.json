@@ -3925,12 +3925,12 @@
       "cliente": "SICT / BANOBRAS",
       "region": "Centro - Sureste",
       "estado": "Veracruz",
-      "concreto_total": null,
+      "concreto_total": 36,
       "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
-      "prioridad": null,
+      "prioridad": 1,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 340,
-    "last_updated": "2026-06-01T21:04:53.956Z",
+    "version": 341,
+    "last_updated": "2026-06-01T21:05:06.487Z",
     "last_updated_by": "JDDO"
   }
 }
