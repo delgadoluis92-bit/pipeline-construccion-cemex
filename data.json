@@ -3334,7 +3334,7 @@
       "anio": 2025,
       "comentario": "Se tuvo un primer acercamiento con Director de Construcción, se ha mantenido en pausa nuevos acercamientos",
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5007,8 +5007,8 @@
     ]
   },
   "_metadata": {
-    "version": 274,
-    "last_updated": "2026-06-01T18:06:27.050Z",
+    "version": 275,
+    "last_updated": "2026-06-01T18:06:34.475Z",
     "last_updated_by": "JDDO"
   }
 }
