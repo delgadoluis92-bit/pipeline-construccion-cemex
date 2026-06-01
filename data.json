@@ -3348,7 +3348,7 @@
       "importante_vale": "No",
       "responsable": null,
       "estatus": "04 - Negociación",
-      "proyecto": "Lbto.  Cd. Mante",
+      "proyecto": "Lib.  Cd. Mante",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "CALZADA",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 305,
-    "last_updated": "2026-06-01T19:36:07.317Z",
-    "last_updated_by": "JDDO"
+    "version": 306,
+    "last_updated": "2026-06-01T19:37:09.330Z",
+    "last_updated_by": "JMSS"
   }
 }
