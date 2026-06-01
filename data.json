@@ -83,7 +83,7 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "JMSS",
-      "proyecto": "Libramiento Metropolitano de Querétaro",
+      "proyecto": "Lib. Metropolitano de Querétaro",
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -4922,8 +4922,8 @@
     ]
   },
   "_metadata": {
-    "version": 243,
-    "last_updated": "2026-06-01T16:55:17.588Z",
+    "version": 244,
+    "last_updated": "2026-06-01T16:55:38.448Z",
     "last_updated_by": "JMSS"
   }
 }
