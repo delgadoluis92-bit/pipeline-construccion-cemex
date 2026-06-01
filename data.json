@@ -3643,7 +3643,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JDDO",
       "estatus": "01 - Prospección",
       "proyecto": "Monclova – Saltillo (CMRO)",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 334,
-    "last_updated": "2026-06-01T19:58:12.584Z",
+    "version": 335,
+    "last_updated": "2026-06-01T19:58:21.229Z",
     "last_updated_by": "JMSS"
   }
 }
