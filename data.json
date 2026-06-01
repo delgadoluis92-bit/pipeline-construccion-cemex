@@ -13,7 +13,7 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": null,
-      "proyecto": "Acceso Cantera La Loa",
+      "proyecto": "Acceso Cantera La Loma",
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -5074,8 +5074,8 @@
     ]
   },
   "_metadata": {
-    "version": 303,
-    "last_updated": "2026-06-01T19:35:44.613Z",
+    "version": 304,
+    "last_updated": "2026-06-01T19:35:57.650Z",
     "last_updated_by": "JDDO"
   }
 }
