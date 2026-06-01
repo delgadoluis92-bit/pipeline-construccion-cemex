@@ -278,7 +278,7 @@
       "region": "Centro - Sureste",
       "estado": "Veracruz",
       "concreto_total": 59,
-      "anio": 2026,
+      "anio": 2027,
       "prioridad": 2,
       "fecha_update": "2026-06-01",
       "programa": "TBD",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 377,
-    "last_updated": "2026-06-01T21:28:58.699Z",
+    "version": 378,
+    "last_updated": "2026-06-01T21:29:15.691Z",
     "last_updated_by": "JDDO"
   }
 }
