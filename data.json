@@ -58,7 +58,13 @@
     },
     {
       "id": "p_mpvm5k0w0i4r",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Se recopila información para poder Licitar con FONATUR.",
+          "author": "FRB"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
@@ -69,13 +75,14 @@
       "tipo": "Urbanización",
       "cliente": "FONATUR",
       "region": "Centro - Sureste",
-      "estado": null,
-      "concreto_total": null,
+      "estado": "Guerrero",
+      "concreto_total": 8,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 2,
       "fecha_update": "2026-06-01",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": "2026-08-03",
+      "comentario": "Se recopila información para poder Licitar con FONATUR."
     },
     {
       "id": "p_mpvm3dyh42j1",
@@ -5179,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 337,
-    "last_updated": "2026-06-01T19:58:29.709Z",
-    "last_updated_by": "JMSS"
+    "version": 338,
+    "last_updated": "2026-06-01T20:09:31.049Z",
+    "last_updated_by": "FRB"
   }
 }
