@@ -3568,7 +3568,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JDDO",
       "estatus": "01 - Prospección",
       "proyecto": "Viaducto Tampico",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 323,
-    "last_updated": "2026-06-01T19:57:04.780Z",
+    "version": 324,
+    "last_updated": "2026-06-01T19:57:22.729Z",
     "last_updated_by": "JMSS"
   }
 }
