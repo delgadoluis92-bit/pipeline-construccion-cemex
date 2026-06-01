@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mpvfiieax40e",
+      "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Elab",
+          "author": "JDDO"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "JMSS",
+      "proyecto": "Carr. Tihuatlan - Tuxpan",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": null,
+      "region": "Centro - Sureste",
+      "estado": null,
+      "concreto_total": 59,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-06-01",
+      "programa": null,
+      "fecha_arranque": null,
+      "comentario": "Elab"
+    },
+    {
       "id": "p_mpvfa1675ude",
       "history": [
         {
@@ -4881,8 +4909,8 @@
     ]
   },
   "_metadata": {
-    "version": 237,
-    "last_updated": "2026-06-01T16:33:46.245Z",
-    "last_updated_by": "LCDC"
+    "version": 238,
+    "last_updated": "2026-06-01T16:34:37.859Z",
+    "last_updated_by": "JDDO"
   }
 }
