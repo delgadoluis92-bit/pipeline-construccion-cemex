@@ -945,9 +945,9 @@
       "cliente": "MARINA",
       "region": "Centro - Sureste",
       "estado": "Ciudad de Mexico",
-      "concreto_total": 35,
+      "concreto_total": 1,
       "fecha_update": "2026-05-19",
-      "anio": 2028,
+      "anio": 2027,
       "comentario": null,
       "programa": null,
       "prioridad": 1,
@@ -4837,8 +4837,8 @@
     ]
   },
   "_metadata": {
-    "version": 218,
-    "last_updated": "2026-06-01T16:16:49.501Z",
-    "last_updated_by": "APC"
+    "version": 219,
+    "last_updated": "2026-06-01T16:17:23.355Z",
+    "last_updated_by": "FRB"
   }
 }
