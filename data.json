@@ -4012,7 +4012,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JDDO",
       "estatus": "09 - Perdido",
       "proyecto": "Aut. Atlacomulco - Polotitlán",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 325,
-    "last_updated": "2026-06-01T19:57:30.445Z",
+    "version": 326,
+    "last_updated": "2026-06-01T19:57:35.311Z",
     "last_updated_by": "JMSS"
   }
 }
