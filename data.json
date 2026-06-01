@@ -3751,7 +3751,7 @@
       "fecha_arranque": "2027-02-01"
     },
     {
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "responsable": "JMSS",
       "estatus": "05 - Cerrado",
       "proyecto": "Aut. México – Querétaro Cpo. B (Palmillas – Querétaro)",
@@ -3797,7 +3797,7 @@
       "id": "proj_99",
       "conversion_tecnica": false,
       "history": [],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5046,8 +5046,8 @@
     ]
   },
   "_metadata": {
-    "version": 300,
-    "last_updated": "2026-06-01T19:32:25.002Z",
+    "version": 302,
+    "last_updated": "2026-06-01T19:32:28.458Z",
     "last_updated_by": "JMSS"
   }
 }
