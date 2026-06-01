@@ -3718,7 +3718,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JMSS",
       "estatus": "01 - Prospección",
       "proyecto": "Ampliación Puente Piedras Negras",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 331,
-    "last_updated": "2026-06-01T19:57:59.205Z",
+    "version": 332,
+    "last_updated": "2026-06-01T19:58:04.735Z",
     "last_updated_by": "JMSS"
   }
 }
