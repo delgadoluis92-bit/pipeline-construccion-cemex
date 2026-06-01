@@ -3824,7 +3824,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "JDDO",
       "estatus": "01 - Prospección",
       "proyecto": "Lib.  Sur de Oaxaca",
       "subsegmento": "Carreteras y Vialidades",
@@ -5179,8 +5179,8 @@
     ]
   },
   "_metadata": {
-    "version": 327,
-    "last_updated": "2026-06-01T19:57:39.430Z",
+    "version": 328,
+    "last_updated": "2026-06-01T19:57:44.087Z",
     "last_updated_by": "JMSS"
   }
 }
