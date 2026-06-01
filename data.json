@@ -3610,7 +3610,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": null,
+      "responsable": "FRB",
       "estatus": "01 - Prospección",
       "proyecto": "BRT Tampico",
       "subsegmento": "Carreteras y Vialidades",
@@ -3618,18 +3618,24 @@
       "cliente": "Tamaulipas",
       "region": "Norte - Bajío",
       "estado": "Tamaulipas",
-      "concreto_total": null,
+      "concreto_total": 20,
       "fecha_update": "2026-06-01",
       "anio": 2025,
-      "comentario": null,
+      "comentario": "Etapa de Anteproyecto.",
       "programa": null,
-      "prioridad": null,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
       "id": "proj_92",
       "conversion_tecnica": false,
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Etapa de Anteproyecto.",
+          "author": "JDDO"
+        }
+      ],
       "highlight": false,
       "fecha_arranque": null
     },
@@ -5040,8 +5046,8 @@
     ]
   },
   "_metadata": {
-    "version": 294,
-    "last_updated": "2026-06-01T18:25:01.132Z",
-    "last_updated_by": "FRB"
+    "version": 295,
+    "last_updated": "2026-06-01T19:21:53.102Z",
+    "last_updated_by": "JDDO"
   }
 }
