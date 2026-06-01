@@ -2256,7 +2256,7 @@
         }
       ],
       "highlight": false,
-      "fecha_arranque": null
+      "fecha_arranque": "2026-07-01"
     },
     {
       "importante_vale": "No",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 342,
-    "last_updated": "2026-06-01T21:05:40.052Z",
+    "version": 343,
+    "last_updated": "2026-06-01T21:11:57.872Z",
     "last_updated_by": "JDDO"
   }
 }
