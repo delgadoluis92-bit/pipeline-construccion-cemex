@@ -3398,7 +3398,7 @@
     },
     {
       "importante_vale": "No",
-      "responsable": "JDDO",
+      "responsable": null,
       "estatus": "01 - Prospección",
       "proyecto": "Viaducto Tampico",
       "subsegmento": "Carreteras y Vialidades",
@@ -3407,7 +3407,7 @@
       "region": "Norte - Bajío",
       "estado": "Tamaulipas",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-01",
       "anio": 2025,
       "comentario": null,
       "programa": null,
@@ -3417,7 +3417,9 @@
       "pavimento": null,
       "id": "proj_85",
       "conversion_tecnica": false,
-      "history": []
+      "history": [],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5001,8 +5003,8 @@
     ]
   },
   "_metadata": {
-    "version": 267,
-    "last_updated": "2026-06-01T17:33:53.002Z",
+    "version": 268,
+    "last_updated": "2026-06-01T17:33:58.229Z",
     "last_updated_by": "JDDO"
   }
 }
