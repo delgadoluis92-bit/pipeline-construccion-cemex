@@ -129,13 +129,13 @@
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
-      "cliente": "CX",
+      "cliente": "CX - Industriales",
       "region": "Centro - Sureste",
       "estado": "Queretaro",
       "concreto_total": null,
-      "anio": 2026,
+      "anio": 2027,
       "prioridad": 2,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2027-01-01",
       "programa": "Proyecto Interno",
       "fecha_arranque": null,
       "comentario": "Diseño, ingeniería y viabilidad del proyecto ante la CEI (Comisión Estatal de Infraestructura)"
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 352,
-    "last_updated": "2026-06-01T21:20:30.828Z",
+    "version": 353,
+    "last_updated": "2026-06-01T21:21:29.603Z",
     "last_updated_by": "JDDO"
   }
 }
