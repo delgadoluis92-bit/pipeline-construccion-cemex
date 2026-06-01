@@ -946,9 +946,9 @@
       "region": "Centro - Sureste",
       "estado": "Ciudad de Mexico",
       "concreto_total": 1,
-      "fecha_update": "2026-05-19",
+      "fecha_update": "2026-06-01",
       "anio": 2028,
-      "comentario": null,
+      "comentario": "Reuniones periódicas con el equipo técnico para monitorear cimentación.",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -956,7 +956,13 @@
       "pavimento": null,
       "id": "proj_4",
       "conversion_tecnica": true,
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-01",
+          "text": "Reuniones periódicas con el equipo técnico para monitorear cimentación.",
+          "author": "FRB"
+        }
+      ],
       "highlight": false,
       "fecha_arranque": null
     },
@@ -4837,8 +4843,8 @@
     ]
   },
   "_metadata": {
-    "version": 221,
-    "last_updated": "2026-06-01T16:19:09.829Z",
-    "last_updated_by": "LCDC"
+    "version": 222,
+    "last_updated": "2026-06-01T16:20:08.502Z",
+    "last_updated_by": "FRB"
   }
 }
