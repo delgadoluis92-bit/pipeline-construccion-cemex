@@ -1100,7 +1100,7 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Roderas - DRT Campeche",
-      "estatus": "01 - Prospección",
+      "estatus": "04 - Negociación",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "Mota Engil México (MEM)",
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 379,
-    "last_updated": "2026-06-01T21:29:57.240Z",
+    "version": 380,
+    "last_updated": "2026-06-01T21:30:20.751Z",
     "last_updated_by": "JDDO"
   }
 }
