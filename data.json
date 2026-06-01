@@ -40,10 +40,10 @@
       "tipo": "Carreteras",
       "cliente": "CX",
       "region": "Centro - Sureste",
-      "estado": null,
-      "concreto_total": null,
+      "estado": "Hidalgo",
+      "concreto_total": 7,
       "anio": 2026,
-      "prioridad": null,
+      "prioridad": 3,
       "fecha_update": "2026-06-01",
       "programa": "Proyecto Interno",
       "fecha_arranque": null,
@@ -5123,8 +5123,8 @@
     ]
   },
   "_metadata": {
-    "version": 315,
-    "last_updated": "2026-06-01T19:40:30.753Z",
-    "last_updated_by": "FRB"
+    "version": 316,
+    "last_updated": "2026-06-01T19:42:03.550Z",
+    "last_updated_by": "JDDO"
   }
 }
