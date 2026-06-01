@@ -3866,7 +3866,7 @@
       "estado": "San Luis Potosi",
       "concreto_total": 287,
       "fecha_update": "2026-06-01",
-      "anio": 2027,
+      "anio": 2028,
       "comentario": "Se entregó propuesta economica el pasado 22 de mayo 2026.\n194.2 K m3 -> Concreto MR\n92.0 K m3 - > Base Cementada\n\nEspesor de losa: 43 cm\nLongitud de pavimentación: 20.00 km\nAncho de Pavimentación: Promedio de 11.50 metros (2 franjas de colado )",
       "programa": null,
       "prioridad": 2,
@@ -5186,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 385,
-    "last_updated": "2026-06-01T23:22:30.122Z",
+    "version": 386,
+    "last_updated": "2026-06-01T23:22:38.002Z",
     "last_updated_by": "JDDO"
   }
 }
