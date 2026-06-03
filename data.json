@@ -2223,9 +2223,9 @@
       "region": "Centro - Sureste",
       "estado": "Oaxaca",
       "concreto_total": 276,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-03",
       "anio": 2027,
-      "comentario": "Diferimiento de fallo para el 01 de junio a las 5pm",
+      "comentario": "Fallo a GAMI",
       "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
       "prioridad": 1,
       "ccr": 150,
@@ -2252,6 +2252,11 @@
         {
           "ts": "2026-06-01",
           "text": "Diferimiento de fallo para el 01 de junio a las 5pm",
+          "author": "SAAH"
+        },
+        {
+          "ts": "2026-06-03",
+          "text": "Fallo a GAMI",
           "author": "SAAH"
         }
       ],
@@ -5186,8 +5191,8 @@
     ]
   },
   "_metadata": {
-    "version": 393,
-    "last_updated": "2026-06-01T23:32:30.921Z",
-    "last_updated_by": "JDDO"
+    "version": 394,
+    "last_updated": "2026-06-03T01:28:35.947Z",
+    "last_updated_by": "SAAH"
   }
 }
