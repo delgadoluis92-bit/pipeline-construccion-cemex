@@ -4677,9 +4677,9 @@
       "region": "Pacífico",
       "estado": "Baja California",
       "concreto_total": 80,
-      "fecha_update": "2026-05-27",
+      "fecha_update": "2026-06-04",
       "anio": 2025,
-      "comentario": "Diferimiento de fallo para 03 de junio",
+      "comentario": "Fallo a ACCIONA + LA PENINSULAR",
       "programa": null,
       "prioridad": 2,
       "ccr": null,
@@ -4711,6 +4711,11 @@
         {
           "ts": "2026-05-27",
           "text": "Diferimiento de fallo para 03 de junio",
+          "author": "SAAH"
+        },
+        {
+          "ts": "2026-06-04",
+          "text": "Fallo a ACCIONA + LA PENINSULAR",
           "author": "SAAH"
         }
       ],
@@ -5196,8 +5201,8 @@
     ]
   },
   "_metadata": {
-    "version": 395,
-    "last_updated": "2026-06-04T17:37:56.729Z",
-    "last_updated_by": "MLR"
+    "version": 396,
+    "last_updated": "2026-06-04T22:27:34.304Z",
+    "last_updated_by": "SAAH"
   }
 }
