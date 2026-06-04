@@ -3146,9 +3146,9 @@
       "region": "Pacífico",
       "estado": "Colima",
       "concreto_total": 550,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-06-04",
       "anio": 2025,
-      "comentario": "sept 24 - publican reglas de operación del puerto \nsep25 a mayo26 - Prepación de terrenos \nago 25 Inicio de dragado (Issues ambientales denunciado sin permiso SEMARNAT) En curso\njulio 26 Licitación primera terminal privada",
+      "comentario": "COTECON - Grupo ICTSI\nEn México es el unico puerto que tienen concecionado, el otro en amaeria se localiza en:\n1) Operadora Portuaria Centroamericana, SA de CV - San Pedro Sula, Honduras\n2) Sociedad Puerto Industrial de Aguadulce SA - Puerto Aguadulce, Puerto de Buenaventura, Colombia\n3) Contecon Guayaquil SA - Contecon Guayaquil, Ecuador\n4) 3 puertos en Brazil\n5) 1 puerto a Argentina mas de plata",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -3171,6 +3171,11 @@
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "sept 24 - publican reglas de operación del puerto \nsep25 a mayo26 - Prepación de terrenos \nago 25 Inicio de dragado (Issues ambientales denunciado sin permiso SEMARNAT) En curso\njulio 26 Licitación primera terminal privada"
+        },
+        {
+          "ts": "2026-06-04",
+          "text": "COTECON - Grupo ICTSI\nEn México es el unico puerto que tienen concecionado, el otro en amaeria se localiza en:\n1) Operadora Portuaria Centroamericana, SA de CV - San Pedro Sula, Honduras\n2) Sociedad Puerto Industrial de Aguadulce SA - Puerto Aguadulce, Puerto de Buenaventura, Colombia\n3) Contecon Guayaquil SA - Contecon Guayaquil, Ecuador\n4) 3 puertos en Brazil\n5) 1 puerto a Argentina mas de plata",
+          "author": "MLR"
         }
       ],
       "highlight": false,
@@ -5191,8 +5196,8 @@
     ]
   },
   "_metadata": {
-    "version": 394,
-    "last_updated": "2026-06-03T01:28:35.947Z",
-    "last_updated_by": "SAAH"
+    "version": 395,
+    "last_updated": "2026-06-04T17:37:56.729Z",
+    "last_updated_by": "MLR"
   }
 }
