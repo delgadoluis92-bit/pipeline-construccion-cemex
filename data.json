@@ -2542,7 +2542,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "04 - Negociación",
+      "estatus": "07 - TBD (Largo Plazo)",
       "proyecto": "Saguaro Energia  - Planta Gas LNG",
       "subsegmento": "Energía",
       "tipo": "Gas natural",
@@ -2581,7 +2581,9 @@
           "author": "LCDC",
           "text": "Etapa 1 - condicionado por el Limited Notice to Proceed (LNTP), firmado, se estima el arranque de las actividades entre 15 ~ 17 meses después.\nEtapa 2 - Dependerá de la definición del FID (Final Investment Decision) y que los trabajos previos tengan un avance considerable."
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5206,8 +5208,8 @@
     ]
   },
   "_metadata": {
-    "version": 426,
-    "last_updated": "2026-06-05T20:37:17.099Z",
+    "version": 427,
+    "last_updated": "2026-06-05T20:37:20.875Z",
     "last_updated_by": "LCDC"
   }
 }
