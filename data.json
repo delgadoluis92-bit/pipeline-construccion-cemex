@@ -1216,9 +1216,9 @@
       "region": "Internacional",
       "estado": null,
       "concreto_total": 25,
-      "fecha_update": "2026-05-19",
+      "fecha_update": "2026-06-05",
       "anio": 2026,
-      "comentario": "Negociación con UNICO\nImposibilidad de localizar barras pasajuntas\nPropuesta en concjunto con PREMIX de concreto y colocación CEMEX",
+      "comentario": "Descartado, UNICO opta por hacer su colocación con doble armado de acero, esto debido a que PREMIX se retracta de formular un MR en su planta al no tener prensa para el test de las vigas, donde no podría llevar seguimiento y control",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -1231,6 +1231,11 @@
           "ts": "2026-05-19",
           "author": "LCDC",
           "text": "Negociación con UNICO\nImposibilidad de localizar barras pasajuntas\nPropuesta en concjunto con PREMIX de concreto y colocación CEMEX"
+        },
+        {
+          "ts": "2026-06-05",
+          "text": "Descartado, UNICO opta por hacer su colocación con doble armado de acero, esto debido a que PREMIX se retracta de formular un MR en su planta al no tener prensa para el test de las vigas, donde no podría llevar seguimiento y control",
+          "author": "LCDC"
         }
       ],
       "highlight": false,
@@ -5199,8 +5204,8 @@
     ]
   },
   "_metadata": {
-    "version": 423,
-    "last_updated": "2026-06-05T20:34:00.797Z",
+    "version": 424,
+    "last_updated": "2026-06-05T20:36:31.526Z",
     "last_updated_by": "LCDC"
   }
 }
