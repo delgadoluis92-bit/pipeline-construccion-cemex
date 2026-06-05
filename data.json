@@ -4760,10 +4760,10 @@
       "estado": "Sinaloa",
       "concreto_total": 2,
       "fecha_update": "2025-04-14",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": "9 km",
       "programa": null,
-      "prioridad": 1,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -4775,7 +4775,9 @@
           "author": "LCDC",
           "text": "9 km"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5195,8 +5197,8 @@
     ]
   },
   "_metadata": {
-    "version": 417,
-    "last_updated": "2026-06-05T20:11:34.307Z",
+    "version": 418,
+    "last_updated": "2026-06-05T20:12:00.113Z",
     "last_updated_by": "LCDC"
   }
 }
