@@ -376,7 +376,13 @@
     },
     {
       "id": "p_mprdxv2z0zup",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-05",
+          "text": "Proyecto en gestión con el despacho Alba y el CID.\nViabilizad de indagar para obtener información adicional",
+          "author": "LCDC"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
@@ -391,9 +397,10 @@
       "concreto_total": null,
       "anio": 2027,
       "prioridad": 3,
-      "fecha_update": "2026-05-29",
+      "fecha_update": "2026-06-05",
       "programa": null,
-      "fecha_arranque": "2027-07-29"
+      "fecha_arranque": "2027-07-29",
+      "comentario": "Proyecto en gestión con el despacho Alba y el CID.\nViabilizad de indagar para obtener información adicional"
     },
     {
       "id": "p_mpr4psevaxrx",
@@ -5186,8 +5193,8 @@
     ]
   },
   "_metadata": {
-    "version": 414,
-    "last_updated": "2026-06-05T20:09:59.683Z",
+    "version": 415,
+    "last_updated": "2026-06-05T20:10:58.665Z",
     "last_updated_by": "LCDC"
   }
 }
