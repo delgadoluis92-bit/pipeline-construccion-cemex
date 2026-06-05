@@ -912,7 +912,7 @@
     {
       "id": "p_mpn8ogdltx09",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5208,8 +5208,8 @@
     ]
   },
   "_metadata": {
-    "version": 405,
-    "last_updated": "2026-06-05T00:25:41.408Z",
+    "version": 406,
+    "last_updated": "2026-06-05T00:25:52.525Z",
     "last_updated_by": "YATG"
   }
 }
