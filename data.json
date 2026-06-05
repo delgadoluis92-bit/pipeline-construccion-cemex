@@ -4663,7 +4663,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "LCDC",
-      "estatus": "03 - Licitación",
+      "estatus": "04 - Negociación",
       "proyecto": "Planta Desalinizadora Rosarito",
       "subsegmento": "Hidráulica",
       "tipo": "Tratamiento de Agua",
@@ -5199,8 +5199,8 @@
     ]
   },
   "_metadata": {
-    "version": 422,
-    "last_updated": "2026-06-05T20:14:41.500Z",
+    "version": 423,
+    "last_updated": "2026-06-05T20:34:00.797Z",
     "last_updated_by": "LCDC"
   }
 }
