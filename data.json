@@ -1208,7 +1208,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "LCDC",
-      "estatus": "04 - Negociación",
+      "estatus": "08 - Descartado / Inviable",
       "proyecto": "UNICO Hotel - Short slabs MoBay",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Urbanización",
@@ -5204,8 +5204,8 @@
     ]
   },
   "_metadata": {
-    "version": 424,
-    "last_updated": "2026-06-05T20:36:31.526Z",
+    "version": 425,
+    "last_updated": "2026-06-05T20:36:38.625Z",
     "last_updated_by": "LCDC"
   }
 }
