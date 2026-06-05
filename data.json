@@ -63,6 +63,11 @@
           "ts": "2026-06-01",
           "text": "Se recopila información para poder Licitar con FONATUR.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-05",
+          "text": "EL JUEVES 04 DE JUNIO SE SUBE AL PORTAL COMPRAS.MX LA PROPUESTA DE CEMEX, EN ESPERA DE CONFIRMACIÓN DE FALLO.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "No",
@@ -78,11 +83,11 @@
       "estado": "Guerrero",
       "concreto_total": 8,
       "anio": 2026,
-      "prioridad": 2,
-      "fecha_update": "2026-06-01",
+      "prioridad": 1,
+      "fecha_update": "2026-06-05",
       "programa": null,
       "fecha_arranque": "2026-08-03",
-      "comentario": "Se recopila información para poder Licitar con FONATUR."
+      "comentario": "EL JUEVES 04 DE JUNIO SE SUBE AL PORTAL COMPRAS.MX LA PROPUESTA DE CEMEX, EN ESPERA DE CONFIRMACIÓN DE FALLO."
     },
     {
       "id": "p_mpvm3dyh42j1",
@@ -5177,8 +5182,8 @@
     ]
   },
   "_metadata": {
-    "version": 411,
-    "last_updated": "2026-06-05T00:32:03.771Z",
-    "last_updated_by": "YATG"
+    "version": 412,
+    "last_updated": "2026-06-05T19:26:06.823Z",
+    "last_updated_by": "FRB"
   }
 }
