@@ -315,7 +315,13 @@
     },
     {
       "id": "p_mpveqvrcsv4q",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-05",
+          "text": "Detenido. Tentativo reactivarse en junio/julio 2026\nVenta: $389 MM",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
@@ -327,12 +333,13 @@
       "cliente": "NET",
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
-      "concreto_total": null,
+      "concreto_total": 12,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-06-01",
+      "prioridad": 2,
+      "fecha_update": "2026-06-05",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Detenido. Tentativo reactivarse en junio/julio 2026\nVenta: $389 MM"
     },
     {
       "id": "p_mpvejq9a84xl",
@@ -5201,8 +5208,8 @@
     ]
   },
   "_metadata": {
-    "version": 397,
-    "last_updated": "2026-06-04T23:27:56.185Z",
-    "last_updated_by": "MLR"
+    "version": 398,
+    "last_updated": "2026-06-05T00:24:38.413Z",
+    "last_updated_by": "YATG"
   }
 }
