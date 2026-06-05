@@ -4164,37 +4164,6 @@
     {
       "importante_vale": "No",
       "responsable": "YATG",
-      "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "Estacionamiento Estructurado UANL: Proyecto",
-      "subsegmento": "Edificación Pública",
-      "tipo": null,
-      "cliente": "NET CX",
-      "region": "Norte - Bajío",
-      "estado": "Nuevo Leon",
-      "concreto_total": null,
-      "fecha_update": "2026-05-26",
-      "anio": 2025,
-      "comentario": "Edificio de estacionamiento de 6 niveles con 1,650 cajones",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_106",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-15",
-          "author": "YATG",
-          "text": "Edificio de estacionamiento de 6 niveles con 1,650 cajones"
-        }
-      ],
-      "highlight": false,
-      "fecha_arranque": null
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "YATG",
       "estatus": "09 - Perdido",
       "proyecto": "CECI - UMF",
       "subsegmento": "Edificación Pública",
@@ -5208,8 +5177,8 @@
     ]
   },
   "_metadata": {
-    "version": 408,
-    "last_updated": "2026-06-05T00:25:55.034Z",
+    "version": 409,
+    "last_updated": "2026-06-05T00:26:19.612Z",
     "last_updated_by": "YATG"
   }
 }
