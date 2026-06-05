@@ -3383,10 +3383,10 @@
       "estado": "Tamaulipas",
       "concreto_total": 3.5,
       "fecha_update": "2025-04-14",
-      "anio": 2025,
+      "anio": 2027,
       "comentario": "15 km",
       "programa": null,
-      "prioridad": 1,
+      "prioridad": 3,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -3398,7 +3398,9 @@
           "author": "LCDC",
           "text": "15 km"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5197,8 +5199,8 @@
     ]
   },
   "_metadata": {
-    "version": 418,
-    "last_updated": "2026-06-05T20:12:00.113Z",
+    "version": 419,
+    "last_updated": "2026-06-05T20:12:08.054Z",
     "last_updated_by": "LCDC"
   }
 }
