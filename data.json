@@ -950,7 +950,7 @@
       "cliente": "API",
       "region": "Norte - Bajío",
       "estado": "Tamaulipas",
-      "concreto_total": null,
+      "concreto_total": 15.7,
       "anio": 2026,
       "prioridad": 3,
       "fecha_update": "2026-05-28",
@@ -5177,8 +5177,8 @@
     ]
   },
   "_metadata": {
-    "version": 409,
-    "last_updated": "2026-06-05T00:26:19.612Z",
+    "version": 410,
+    "last_updated": "2026-06-05T00:31:54.184Z",
     "last_updated_by": "YATG"
   }
 }
