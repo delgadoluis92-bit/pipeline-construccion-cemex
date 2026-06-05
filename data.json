@@ -4881,10 +4881,10 @@
       "estado": "San Luis Potosi",
       "concreto_total": 70,
       "fecha_update": "2026-05-18",
-      "anio": 2026,
+      "anio": 2027,
       "comentario": "Se presenta diseño de pista en pavimento rígido en zona de umbral aproximación a punto de visada, similar a LMM o TIJ",
       "programa": null,
-      "prioridad": null,
+      "prioridad": 2,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -4911,7 +4911,9 @@
           "author": "LCDC",
           "text": "Se presenta diseño de pista en pavimento rígido en zona de umbral aproximación a punto de visada, similar a LMM o TIJ"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5184,8 +5186,8 @@
     ]
   },
   "_metadata": {
-    "version": 413,
-    "last_updated": "2026-06-05T20:07:40.443Z",
+    "version": 414,
+    "last_updated": "2026-06-05T20:09:59.683Z",
     "last_updated_by": "LCDC"
   }
 }
