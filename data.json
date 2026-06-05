@@ -1351,7 +1351,7 @@
       "estado": "Yucatán",
       "concreto_total": 10,
       "fecha_update": "2026-05-19",
-      "anio": 2026,
+      "anio": 2027,
       "comentario": "Se estima $250m",
       "programa": null,
       "prioridad": 2,
@@ -1366,7 +1366,9 @@
           "author": "LCDC",
           "text": "Se estima $250m"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5193,8 +5195,8 @@
     ]
   },
   "_metadata": {
-    "version": 416,
-    "last_updated": "2026-06-05T20:11:14.582Z",
+    "version": 417,
+    "last_updated": "2026-06-05T20:11:34.307Z",
     "last_updated_by": "LCDC"
   }
 }
