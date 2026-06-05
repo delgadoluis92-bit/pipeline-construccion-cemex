@@ -2109,7 +2109,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
+      "estatus": "11 - Obra Terminada",
       "proyecto": "Terminal Usos Múltiples II Puerto de Altamira Etapa I, Fase 2 y Fase 3",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
@@ -2133,7 +2133,9 @@
           "author": "LCDC",
           "text": "Visita al sitio"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5182,8 +5184,8 @@
     ]
   },
   "_metadata": {
-    "version": 412,
-    "last_updated": "2026-06-05T19:26:06.823Z",
-    "last_updated_by": "FRB"
+    "version": 413,
+    "last_updated": "2026-06-05T20:07:40.443Z",
+    "last_updated_by": "LCDC"
   }
 }
