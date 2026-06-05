@@ -1849,7 +1849,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "01 - Prospección",
+      "estatus": "11 - Obra Terminada",
       "proyecto": "GDL - Rehab. de pavimentos T1",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
@@ -5193,8 +5193,8 @@
     ]
   },
   "_metadata": {
-    "version": 415,
-    "last_updated": "2026-06-05T20:10:58.665Z",
+    "version": 416,
+    "last_updated": "2026-06-05T20:11:14.582Z",
     "last_updated_by": "LCDC"
   }
 }
