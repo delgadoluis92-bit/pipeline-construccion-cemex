@@ -2501,7 +2501,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "04 - Negociación",
+      "estatus": "07 - TBD (Largo Plazo)",
       "proyecto": "Saguaro Energia  - Soilmixing",
       "subsegmento": "Energía",
       "tipo": "Gas natural",
@@ -2535,7 +2535,9 @@
           "author": "LCDC",
           "text": "Etapa 1 de estabilización de suelos: CEO Juan Baez"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -5204,8 +5206,8 @@
     ]
   },
   "_metadata": {
-    "version": 425,
-    "last_updated": "2026-06-05T20:36:38.625Z",
+    "version": 426,
+    "last_updated": "2026-06-05T20:37:17.099Z",
     "last_updated_by": "LCDC"
   }
 }
