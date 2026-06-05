@@ -891,7 +891,7 @@
     {
       "id": "p_mpn8osldn7oc",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5208,8 +5208,8 @@
     ]
   },
   "_metadata": {
-    "version": 406,
-    "last_updated": "2026-06-05T00:25:52.525Z",
+    "version": 407,
+    "last_updated": "2026-06-05T00:25:53.879Z",
     "last_updated_by": "YATG"
   }
 }
