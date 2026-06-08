@@ -1825,7 +1825,7 @@
           "text": "Presupuesto base $120M\nDirección de Mantenimiento del aeropuerto (No Florencio)"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": "2026-11-28"
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 458,
-    "last_updated": "2026-06-08T15:42:00.972Z",
+    "version": 459,
+    "last_updated": "2026-06-08T15:42:02.477Z",
     "last_updated_by": "APC"
   }
 }
