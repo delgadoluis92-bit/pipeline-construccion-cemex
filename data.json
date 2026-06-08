@@ -4276,7 +4276,7 @@
       "estado": "Nuevo Leon",
       "concreto_total": null,
       "fecha_update": "2026-05-26",
-      "anio": 2025,
+      "anio": 2026,
       "comentario": "Parque público para la comunidad",
       "programa": null,
       "prioridad": null,
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 495,
-    "last_updated": "2026-06-08T16:35:44.103Z",
+    "version": 496,
+    "last_updated": "2026-06-08T16:36:11.191Z",
     "last_updated_by": "APC"
   }
 }
