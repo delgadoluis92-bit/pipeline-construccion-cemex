@@ -1043,7 +1043,7 @@
       "history": [],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "YATG",
       "proyecto": "API: Edificio(s) aduana(s)",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 484,
-    "last_updated": "2026-06-08T16:18:51.947Z",
+    "version": 485,
+    "last_updated": "2026-06-08T16:19:05.770Z",
     "last_updated_by": "JMSS"
   }
 }
