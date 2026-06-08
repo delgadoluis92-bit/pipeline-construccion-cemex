@@ -1212,6 +1212,11 @@
           "ts": "2026-06-01",
           "text": "El proyecto a venta para negociar se entrega en 8mdp",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "El importe final a licitar es de  $6,432,072.48 sin iva,  $7,461,204.08 iva incluido",
+          "author": "MLR"
         }
       ],
       "importante_vale": "Sí",
@@ -1228,10 +1233,10 @@
       "concreto_total": 0.11,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-08",
       "programa": "Contrato adicional a CENCIS",
       "fecha_arranque": "2026-06-26",
-      "comentario": "El proyecto a venta para negociar se entrega en 8mdp"
+      "comentario": "El importe final a licitar es de  $6,432,072.48 sin iva,  $7,461,204.08 iva incluido"
     },
     {
       "id": "p_mpmvj67fd5zo",
@@ -5346,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 479,
-    "last_updated": "2026-06-08T16:03:11.976Z",
-    "last_updated_by": "APC"
+    "version": 480,
+    "last_updated": "2026-06-08T16:03:58.476Z",
+    "last_updated_by": "MLR"
   }
 }
