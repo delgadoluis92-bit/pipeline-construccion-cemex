@@ -828,6 +828,11 @@
           "ts": "2026-05-28",
           "text": "Desarrollando propuesta paramétrica de proyecto.\nProyecto 2 torres de consultorios médicos + hospital. 14 niveles cada torre.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "8 Junio 2026: Se envía propuesta paramétrica.\nPrecio de venta : 233 MM",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -835,7 +840,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Fifty Doctors",
-      "estatus": "01 - Prospección",
+      "estatus": "03 - Licitación",
       "subsegmento": "Edificación Pública",
       "tipo": "Salud",
       "cliente": "GRUPO ÁGUILA / SOLUCIONES",
@@ -844,10 +849,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-06-08",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Desarrollando propuesta paramétrica de proyecto.\nProyecto 2 torres de consultorios médicos + hospital. 14 niveles cada torre."
+      "comentario": "8 Junio 2026: Se envía propuesta paramétrica.\nPrecio de venta : 233 MM"
     },
     {
       "id": "p_mpn8ra3td6qm",
@@ -5389,8 +5394,8 @@
     ]
   },
   "_metadata": {
-    "version": 503,
-    "last_updated": "2026-06-08T17:08:27.423Z",
-    "last_updated_by": "MLR"
+    "version": 504,
+    "last_updated": "2026-06-08T18:55:12.848Z",
+    "last_updated_by": "YATG"
   }
 }
