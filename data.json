@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mq59tqq0cqf2",
+      "history": [
+        {
+          "ts": "2026-06-08",
+          "text": "SE RECIBIÓ INFORMACION GENERAL Y SE ESTÁ EN ESPERA DE REALIZAR RECORRIDO EN SITIO.",
+          "author": "FRB"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "FRB",
+      "proyecto": "Rehabilitación Puente Distribuidor Vial Tianguistengo",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Urbanización",
+      "cliente": "ESTADO DE MÉXICO",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 3,
+      "fecha_update": "2026-06-08",
+      "programa": null,
+      "fecha_arranque": null,
+      "comentario": "SE RECIBIÓ INFORMACION GENERAL Y SE ESTÁ EN ESPERA DE REALIZAR RECORRIDO EN SITIO."
+    },
+    {
       "id": "p_mq59sjzxzo3j",
       "history": [
         {
@@ -5292,8 +5320,8 @@
     ]
   },
   "_metadata": {
-    "version": 430,
-    "last_updated": "2026-06-08T13:52:10.558Z",
+    "version": 431,
+    "last_updated": "2026-06-08T13:53:05.928Z",
     "last_updated_by": "FRB"
   }
 }
