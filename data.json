@@ -4772,7 +4772,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Presa Los Naranjos",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 470,
-    "last_updated": "2026-06-08T15:44:11.526Z",
+    "version": 471,
+    "last_updated": "2026-06-08T15:44:15.002Z",
     "last_updated_by": "APC"
   }
 }
