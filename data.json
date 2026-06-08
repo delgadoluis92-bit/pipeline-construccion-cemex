@@ -1021,7 +1021,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "CEDIS Coripasa",
       "estatus": "01 - Prospección",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 486,
-    "last_updated": "2026-06-08T16:21:20.884Z",
+    "version": 487,
+    "last_updated": "2026-06-08T16:22:44.727Z",
     "last_updated_by": "JMSS"
   }
 }
