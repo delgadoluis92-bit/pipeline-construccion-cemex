@@ -734,6 +734,11 @@
           "ts": "2026-06-01",
           "text": "Ya tienen el fallo HH&A. No tienen nuestro número, darle seguimiento para ver que estructurista van a trabajar y si podemos integrarnos a su proyecto",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "Importe de venta: \n-Cimentación: $460.92\n-Estructura prefabricada: $452.26",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -750,10 +755,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-08",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Ya tienen el fallo HH&A. No tienen nuestro número, darle seguimiento para ver que estructurista van a trabajar y si podemos integrarnos a su proyecto"
+      "comentario": "Importe de venta: \n-Cimentación: $460.92\n-Estructura prefabricada: $452.26"
     },
     {
       "id": "p_mpn8rq0pq9ei",
@@ -5320,8 +5325,8 @@
     ]
   },
   "_metadata": {
-    "version": 432,
-    "last_updated": "2026-06-08T15:16:36.213Z",
+    "version": 433,
+    "last_updated": "2026-06-08T15:21:18.864Z",
     "last_updated_by": "YATG"
   }
 }
