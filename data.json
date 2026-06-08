@@ -1216,7 +1216,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "MLR",
       "proyecto": "Barda CENCIS",
       "estatus": "03 - Licitación",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 439,
-    "last_updated": "2026-06-08T15:38:36.926Z",
+    "version": 440,
+    "last_updated": "2026-06-08T15:38:53.797Z",
     "last_updated_by": "MLR"
   }
 }
