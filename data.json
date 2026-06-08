@@ -3410,7 +3410,7 @@
       ]
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "APC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "API: Puerto del Norte",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 468,
-    "last_updated": "2026-06-08T15:44:05.681Z",
+    "version": 469,
+    "last_updated": "2026-06-08T15:44:07.114Z",
     "last_updated_by": "APC"
   }
 }
