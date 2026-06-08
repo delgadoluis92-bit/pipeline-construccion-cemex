@@ -490,7 +490,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "FRB",
       "proyecto": "Conexión Puente 2 y 3 con Proyecto Lineal",
       "estatus": "01 - Prospección",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 434,
-    "last_updated": "2026-06-08T15:23:24.887Z",
-    "last_updated_by": "YATG"
+    "version": 435,
+    "last_updated": "2026-06-08T15:26:47.377Z",
+    "last_updated_by": "FRB"
   }
 }
