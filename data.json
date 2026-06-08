@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mq5d1w0ne01k",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Barda RUBA",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-06-08",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mq59tqq0cqf2",
       "history": [
         {
@@ -5325,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 433,
-    "last_updated": "2026-06-08T15:21:18.864Z",
+    "version": 434,
+    "last_updated": "2026-06-08T15:23:24.887Z",
     "last_updated_by": "YATG"
   }
 }
