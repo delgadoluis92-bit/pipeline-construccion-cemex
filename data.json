@@ -2110,7 +2110,7 @@
           "text": "RADA Rural roads negociation, budget $2MUSD\nOption to move WR1000 from Puerto Rico\nGarnet Edmondson CEO"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 453,
-    "last_updated": "2026-06-08T15:41:36.760Z",
+    "version": 454,
+    "last_updated": "2026-06-08T15:41:39.212Z",
     "last_updated_by": "APC"
   }
 }
