@@ -1762,7 +1762,7 @@
       ]
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "GDL - Nuevo estacionamiento",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 465,
-    "last_updated": "2026-06-08T15:43:56.012Z",
+    "version": 466,
+    "last_updated": "2026-06-08T15:43:59.413Z",
     "last_updated_by": "APC"
   }
 }
