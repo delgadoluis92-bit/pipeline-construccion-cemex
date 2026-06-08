@@ -2426,7 +2426,7 @@
           "author": "SAAH"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": "2027-03-01"
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 448,
-    "last_updated": "2026-06-08T15:40:23.488Z",
+    "version": 449,
+    "last_updated": "2026-06-08T15:40:37.690Z",
     "last_updated_by": "APC"
   }
 }
