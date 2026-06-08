@@ -3452,7 +3452,7 @@
           "text": "8,500MDP"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": "2027-03-28"
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 446,
-    "last_updated": "2026-06-08T15:40:19.603Z",
+    "version": 447,
+    "last_updated": "2026-06-08T15:40:21.490Z",
     "last_updated_by": "APC"
   }
 }
