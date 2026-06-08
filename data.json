@@ -2386,7 +2386,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "APC",
-      "estatus": "03 - Licitación",
+      "estatus": "04 - Negociación",
       "proyecto": "Presa Mujer Solteca (Margarita Maza)",
       "subsegmento": "Hidráulica",
       "tipo": "Presas",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 483,
-    "last_updated": "2026-06-08T16:18:08.827Z",
+    "version": 484,
+    "last_updated": "2026-06-08T16:18:51.947Z",
     "last_updated_by": "JMSS"
   }
 }
