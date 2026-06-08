@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mq5lnguan3ts",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "LCDC",
+      "proyecto": "SJD - Conversión vialidad ingreso apto",
+      "estatus": "02 - Desarrollo Ingenierías",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Carreteras",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Baja California Sur",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 1,
+      "fecha_update": "2026-06-08",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mq5d1w0ne01k",
       "history": [],
       "importante_vale": "No",
@@ -5394,8 +5415,8 @@
     ]
   },
   "_metadata": {
-    "version": 504,
-    "last_updated": "2026-06-08T18:55:12.848Z",
-    "last_updated_by": "YATG"
+    "version": 505,
+    "last_updated": "2026-06-08T19:24:08.579Z",
+    "last_updated_by": "LCDC"
   }
 }
