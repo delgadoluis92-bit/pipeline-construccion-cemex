@@ -376,7 +376,13 @@
     },
     {
       "id": "p_mpvg43hyg90d",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-08",
+          "text": "Importe: $490 mdp, EBITDA: $49 MDP (10%)",
+          "author": "JMSS"
+        }
+      ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
@@ -391,9 +397,10 @@
       "concreto_total": 90,
       "anio": 2027,
       "prioridad": 1,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-08",
       "programa": null,
-      "fecha_arranque": "2027-05-01"
+      "fecha_arranque": "2027-05-01",
+      "comentario": "Importe: $490 mdp, EBITDA: $49 MDP (10%)"
     },
     {
       "id": "p_mpvfiieax40e",
@@ -5361,8 +5368,8 @@
     ]
   },
   "_metadata": {
-    "version": 498,
-    "last_updated": "2026-06-08T16:38:42.560Z",
+    "version": 499,
+    "last_updated": "2026-06-08T16:42:02.676Z",
     "last_updated_by": "JMSS"
   }
 }
