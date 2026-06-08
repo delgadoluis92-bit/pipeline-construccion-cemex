@@ -4298,9 +4298,9 @@
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-06-08",
       "anio": 2026,
-      "comentario": "Parque público para la comunidad",
+      "comentario": "Importe: $16 mdp, EBITDA: $1.3 mdp EBIT: $0.3 mdp (2%)",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -4313,6 +4313,11 @@
           "ts": "2026-05-15",
           "author": "YATG",
           "text": "Parque público para la comunidad"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "Importe: $16 mdp, EBITDA: $1.3 mdp EBIT: $0.3 mdp (2%)",
+          "author": "JMSS"
         }
       ],
       "highlight": true,
@@ -5379,8 +5384,8 @@
     ]
   },
   "_metadata": {
-    "version": 501,
-    "last_updated": "2026-06-08T16:46:03.061Z",
+    "version": 502,
+    "last_updated": "2026-06-08T16:59:01.783Z",
     "last_updated_by": "JMSS"
   }
 }
