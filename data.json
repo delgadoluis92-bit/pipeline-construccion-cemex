@@ -4584,7 +4584,7 @@
           "text": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 443,
-    "last_updated": "2026-06-08T15:39:24.899Z",
+    "version": 444,
+    "last_updated": "2026-06-08T15:40:09.298Z",
     "last_updated_by": "APC"
   }
 }
