@@ -1288,7 +1288,7 @@
       "estado": "Chiapas",
       "concreto_total": 54,
       "fecha_update": "2026-05-28",
-      "anio": 2026,
+      "anio": 2027,
       "comentario": "Proyecto de núcleo intermodal: férreo, aéreo y vial.\nSe entrega diseño preliminar de plataformas categoria D (Carga) y patio de contenedores",
       "programa": null,
       "prioridad": 1,
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 494,
-    "last_updated": "2026-06-08T16:35:17.162Z",
+    "version": 495,
+    "last_updated": "2026-06-08T16:35:44.103Z",
     "last_updated_by": "APC"
   }
 }
