@@ -316,7 +316,7 @@
       "history": [],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "JMSS",
       "proyecto": "Viaducto Monterrey",
       "estatus": "04 - Negociación",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 480,
-    "last_updated": "2026-06-08T16:03:58.476Z",
-    "last_updated_by": "MLR"
+    "version": 481,
+    "last_updated": "2026-06-08T16:16:33.149Z",
+    "last_updated_by": "JMSS"
   }
 }
