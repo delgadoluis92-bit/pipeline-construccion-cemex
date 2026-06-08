@@ -2385,10 +2385,10 @@
       "proyecto": "Presa Mujer Solteca (Margarita Maza)",
       "subsegmento": "Hidráulica",
       "tipo": "Presas",
-      "cliente": "CONAGUA",
+      "cliente": "GAMI / DYCUSA",
       "region": "Centro - Sureste",
       "estado": "Oaxaca",
-      "concreto_total": 276,
+      "concreto_total": 290,
       "fecha_update": "2026-06-03",
       "anio": 2027,
       "comentario": "Fallo a GAMI",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 449,
-    "last_updated": "2026-06-08T15:40:37.690Z",
+    "version": 450,
+    "last_updated": "2026-06-08T15:41:19.113Z",
     "last_updated_by": "APC"
   }
 }
