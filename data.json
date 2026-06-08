@@ -2153,7 +2153,7 @@
       ]
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "04 - Negociación",
       "proyecto": "GDL - Plataforma Volaris",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 469,
-    "last_updated": "2026-06-08T15:44:07.114Z",
+    "version": 470,
+    "last_updated": "2026-06-08T15:44:11.526Z",
     "last_updated_by": "APC"
   }
 }
