@@ -2226,7 +2226,7 @@
           "author": "SAAH"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 450,
-    "last_updated": "2026-06-08T15:41:19.113Z",
+    "version": 451,
+    "last_updated": "2026-06-08T15:41:28.180Z",
     "last_updated_by": "APC"
   }
 }
