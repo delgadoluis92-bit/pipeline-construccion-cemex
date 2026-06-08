@@ -2083,7 +2083,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "04 - Negociación",
       "proyecto": "Agricultural Roads - Unilayer solution",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 466,
-    "last_updated": "2026-06-08T15:43:59.413Z",
+    "version": 467,
+    "last_updated": "2026-06-08T15:44:01.188Z",
     "last_updated_by": "APC"
   }
 }
