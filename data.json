@@ -4554,14 +4554,14 @@
     {
       "importante_vale": "Sí",
       "responsable": "APC",
-      "estatus": "04 - Negociación",
+      "estatus": "05 - Cerrado",
       "proyecto": "Presa El Novillo",
       "subsegmento": "Hidráulica",
       "tipo": "Presas",
       "cliente": "CONAGUA",
       "region": "Pacífico",
       "estado": "Baja California Sur",
-      "concreto_total": 202,
+      "concreto_total": 255,
       "fecha_update": "2026-05-18",
       "anio": 2025,
       "comentario": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 475,
-    "last_updated": "2026-06-08T15:44:58.046Z",
+    "version": 476,
+    "last_updated": "2026-06-08T15:47:54.972Z",
     "last_updated_by": "APC"
   }
 }
