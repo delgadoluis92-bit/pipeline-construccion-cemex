@@ -3306,7 +3306,7 @@
       ]
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "01 - Prospección",
       "proyecto": "Nuevo Puerto de Manzanillo (Cuyutlan)",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 467,
-    "last_updated": "2026-06-08T15:44:01.188Z",
+    "version": 468,
+    "last_updated": "2026-06-08T15:44:05.681Z",
     "last_updated_by": "APC"
   }
 }
