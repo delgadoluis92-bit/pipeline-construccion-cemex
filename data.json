@@ -4572,9 +4572,9 @@
       "region": "Pacífico",
       "estado": "Baja California Sur",
       "concreto_total": 255,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-06-08",
       "anio": 2026,
-      "comentario": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso",
+      "comentario": "Importe de venta de $396 mdp, EBITDA: $93 (23%), EBIT: $71 (18%)",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -4592,6 +4592,11 @@
           "ts": "2026-05-18",
           "author": "sin asignar",
           "text": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "Importe de venta de $396 mdp, EBITDA: $93 (23%), EBIT: $71 (18%)",
+          "author": "JMSS"
         }
       ],
       "highlight": true,
@@ -5356,8 +5361,8 @@
     ]
   },
   "_metadata": {
-    "version": 497,
-    "last_updated": "2026-06-08T16:36:52.062Z",
+    "version": 498,
+    "last_updated": "2026-06-08T16:38:42.560Z",
     "last_updated_by": "JMSS"
   }
 }
