@@ -3732,7 +3732,7 @@
       "id": "proj_83",
       "conversion_tecnica": false,
       "history": [],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 481,
-    "last_updated": "2026-06-08T16:16:33.149Z",
+    "version": 482,
+    "last_updated": "2026-06-08T16:16:36.991Z",
     "last_updated_by": "JMSS"
   }
 }
