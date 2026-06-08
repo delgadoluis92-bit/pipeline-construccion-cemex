@@ -848,7 +848,7 @@
           "author": "YATG"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5320,8 +5320,8 @@
     ]
   },
   "_metadata": {
-    "version": 431,
-    "last_updated": "2026-06-08T13:53:05.928Z",
-    "last_updated_by": "FRB"
+    "version": 432,
+    "last_updated": "2026-06-08T15:16:36.213Z",
+    "last_updated_by": "YATG"
   }
 }
