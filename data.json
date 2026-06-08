@@ -4287,7 +4287,7 @@
           "text": "Parque público para la comunidad"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 435,
-    "last_updated": "2026-06-08T15:26:47.377Z",
-    "last_updated_by": "FRB"
+    "version": 436,
+    "last_updated": "2026-06-08T15:29:09.911Z",
+    "last_updated_by": "YATG"
   }
 }
