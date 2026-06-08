@@ -2,9 +2,15 @@
   "projects": [
     {
       "id": "p_mq5lnguan3ts",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-08",
+          "text": "Por parte de Florencio, se transmite el detalle próximo de proyecto y se pide hacer la conversión a fin de licitar en CNC",
+          "author": "LCDC"
+        }
+      ],
       "importante_vale": "No",
-      "conversion_tecnica": false,
+      "conversion_tecnica": true,
       "highlight": false,
       "responsable": "LCDC",
       "proyecto": "SJD - Conversión vialidad ingreso apto",
@@ -14,12 +20,13 @@
       "cliente": "GAP",
       "region": "Pacífico",
       "estado": "Baja California Sur",
-      "concreto_total": null,
+      "concreto_total": 24,
       "anio": 2026,
       "prioridad": 1,
       "fecha_update": "2026-06-08",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Por parte de Florencio, se transmite el detalle próximo de proyecto y se pide hacer la conversión a fin de licitar en CNC"
     },
     {
       "id": "p_mq5d1w0ne01k",
@@ -5415,8 +5422,8 @@
     ]
   },
   "_metadata": {
-    "version": 505,
-    "last_updated": "2026-06-08T19:24:08.579Z",
+    "version": 506,
+    "last_updated": "2026-06-08T19:34:47.348Z",
     "last_updated_by": "LCDC"
   }
 }
