@@ -4074,7 +4074,7 @@
           "author": "JDDO"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": "2027-02-01"
     },
     {
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 487,
-    "last_updated": "2026-06-08T16:22:44.727Z",
+    "version": 488,
+    "last_updated": "2026-06-08T16:23:11.398Z",
     "last_updated_by": "JMSS"
   }
 }
