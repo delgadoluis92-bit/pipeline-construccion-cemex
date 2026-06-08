@@ -937,7 +937,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Remodelación oficinas PLANTA MTY",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 437,
-    "last_updated": "2026-06-08T15:29:16.941Z",
+    "version": 438,
+    "last_updated": "2026-06-08T15:29:21.380Z",
     "last_updated_by": "YATG"
   }
 }
