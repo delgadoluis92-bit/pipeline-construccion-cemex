@@ -1219,7 +1219,7 @@
       "highlight": false,
       "responsable": "MLR",
       "proyecto": "Barda CENCIS",
-      "estatus": "04 - Negociación",
+      "estatus": "03 - Licitación",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
       "cliente": "SEMAR",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 438,
-    "last_updated": "2026-06-08T15:29:21.380Z",
-    "last_updated_by": "YATG"
+    "version": 439,
+    "last_updated": "2026-06-08T15:38:36.926Z",
+    "last_updated_by": "MLR"
   }
 }
