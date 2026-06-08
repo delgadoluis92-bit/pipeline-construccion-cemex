@@ -2406,9 +2406,9 @@
       "region": "Centro - Sureste",
       "estado": "Oaxaca",
       "concreto_total": 290,
-      "fecha_update": "2026-06-03",
+      "fecha_update": "2026-06-08",
       "anio": 2027,
-      "comentario": "Fallo a GAMI",
+      "comentario": "Importe: $730 mdp, EBITDA: $135 mdp (18%), EBIT: $93 mdp (12%)",
       "programa": "17 Proyectos Prioritarios Plan Nacional Hídrico 2025-2030",
       "prioridad": 1,
       "ccr": 150,
@@ -2441,6 +2441,11 @@
           "ts": "2026-06-03",
           "text": "Fallo a GAMI",
           "author": "SAAH"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "Importe: $730 mdp, EBITDA: $135 mdp (18%), EBIT: $93 mdp (12%)",
+          "author": "JMSS"
         }
       ],
       "highlight": true,
@@ -5368,8 +5373,8 @@
     ]
   },
   "_metadata": {
-    "version": 499,
-    "last_updated": "2026-06-08T16:42:02.676Z",
+    "version": 500,
+    "last_updated": "2026-06-08T16:44:33.372Z",
     "last_updated_by": "JMSS"
   }
 }
