@@ -945,6 +945,11 @@
           "ts": "2026-05-28",
           "text": "Actualmente realizando proyecto ejecutivo in house. Este proyecto fue contratado por la planta por un monto de $88 mil pesos.\n28 de mayo- se presenta presupuesto paramétrico. Pendiente por definir capex para arrancar proyecto. \n\n-Se continuará a cerrar proyecto ejecutivo",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "Precio de venta 1.4 mdp \nCon un EBITDA de 15%",
+          "author": "MLR"
         }
       ],
       "importante_vale": "Sí",
@@ -961,10 +966,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-06-08",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Actualmente realizando proyecto ejecutivo in house. Este proyecto fue contratado por la planta por un monto de $88 mil pesos.\n28 de mayo- se presenta presupuesto paramétrico. Pendiente por definir capex para arrancar proyecto. \n\n-Se continuará a cerrar proyecto ejecutivo"
+      "comentario": "Precio de venta 1.4 mdp \nCon un EBITDA de 15%"
     },
     {
       "id": "p_mpn8q6q14jkf",
@@ -5384,8 +5389,8 @@
     ]
   },
   "_metadata": {
-    "version": 502,
-    "last_updated": "2026-06-08T16:59:01.783Z",
-    "last_updated_by": "JMSS"
+    "version": 503,
+    "last_updated": "2026-06-08T17:08:27.423Z",
+    "last_updated_by": "MLR"
   }
 }
