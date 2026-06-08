@@ -432,7 +432,7 @@
           "author": "JDDO"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "JMSS",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 471,
-    "last_updated": "2026-06-08T15:44:15.002Z",
+    "version": 472,
+    "last_updated": "2026-06-08T15:44:18.802Z",
     "last_updated_by": "APC"
   }
 }
