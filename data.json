@@ -1140,7 +1140,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Planta Ruiz Cortines",
       "estatus": "01 - Prospección",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 482,
-    "last_updated": "2026-06-08T16:16:36.991Z",
+    "version": 483,
+    "last_updated": "2026-06-08T16:18:08.827Z",
     "last_updated_by": "JMSS"
   }
 }
