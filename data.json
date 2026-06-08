@@ -4563,7 +4563,7 @@
       "estado": "Baja California Sur",
       "concreto_total": 255,
       "fecha_update": "2026-05-18",
-      "anio": 2025,
+      "anio": 2026,
       "comentario": "Fase de proyecto ejecutivo (ingeniería de detalle) + exploraciones geológicas y geofísicas en curso",
       "programa": null,
       "prioridad": 1,
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 476,
-    "last_updated": "2026-06-08T15:47:54.972Z",
+    "version": 477,
+    "last_updated": "2026-06-08T15:48:02.593Z",
     "last_updated_by": "APC"
   }
 }
