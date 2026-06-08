@@ -2555,7 +2555,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "Distritos de Riego 011 Alto Rio Lerma (Coria)",
@@ -5422,8 +5422,8 @@
     ]
   },
   "_metadata": {
-    "version": 513,
-    "last_updated": "2026-06-08T19:42:45.487Z",
+    "version": 514,
+    "last_updated": "2026-06-08T19:45:58.142Z",
     "last_updated_by": "LCDC"
   }
 }
