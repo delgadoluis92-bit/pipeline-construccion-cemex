@@ -404,7 +404,7 @@
           "author": "JDDO"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "JMSS",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 491,
-    "last_updated": "2026-06-08T16:25:59.884Z",
+    "version": 492,
+    "last_updated": "2026-06-08T16:26:12.693Z",
     "last_updated_by": "JMSS"
   }
 }
