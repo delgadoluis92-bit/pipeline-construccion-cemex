@@ -377,7 +377,7 @@
     {
       "id": "p_mpvg43hyg90d",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "JMSS",
@@ -5351,8 +5351,8 @@
     ]
   },
   "_metadata": {
-    "version": 492,
-    "last_updated": "2026-06-08T16:26:12.693Z",
+    "version": 493,
+    "last_updated": "2026-06-08T16:26:41.008Z",
     "last_updated_by": "JMSS"
   }
 }
