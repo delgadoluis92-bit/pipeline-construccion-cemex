@@ -1399,7 +1399,7 @@
       "fecha_arranque": "2026-06-30"
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "08 - Descartado / Inviable",
       "proyecto": "UNICO Hotel - Short slabs MoBay",
@@ -5422,8 +5422,8 @@
     ]
   },
   "_metadata": {
-    "version": 507,
-    "last_updated": "2026-06-08T19:34:54.508Z",
+    "version": 508,
+    "last_updated": "2026-06-08T19:35:02.714Z",
     "last_updated_by": "LCDC"
   }
 }
