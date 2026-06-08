@@ -486,6 +486,11 @@
           "ts": "2026-06-01",
           "text": "Elaboración del Proyecto en curso para obtener datos para presupuestar.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-08",
+          "text": "Precio de venta tentativo de $150 mdp",
+          "author": "JMSS"
         }
       ],
       "importante_vale": "Sí",
@@ -502,10 +507,10 @@
       "concreto_total": 1.2,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-08",
       "programa": "Obra Pública",
       "fecha_arranque": "2026-08-03",
-      "comentario": "Elaboración del Proyecto en curso para obtener datos para presupuestar."
+      "comentario": "Precio de venta tentativo de $150 mdp"
     },
     {
       "id": "p_mprdxv2z0zup",
@@ -5351,8 +5356,8 @@
     ]
   },
   "_metadata": {
-    "version": 496,
-    "last_updated": "2026-06-08T16:36:11.191Z",
-    "last_updated_by": "APC"
+    "version": 497,
+    "last_updated": "2026-06-08T16:36:52.062Z",
+    "last_updated_by": "JMSS"
   }
 }
