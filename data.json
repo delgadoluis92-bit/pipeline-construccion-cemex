@@ -4130,9 +4130,9 @@
       "region": "Centro - Sureste",
       "estado": "Veracruz",
       "concreto_total": 36,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-08",
       "anio": 2026,
-      "comentario": null,
+      "comentario": "Sin Agregados, agua ni acarreos:\nImporte: $171 mdp, EBITDA: $30 MDP (17%) EBIT: $21 MDP (12%)",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -4140,7 +4140,13 @@
       "pavimento": null,
       "id": "proj_99",
       "conversion_tecnica": false,
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-08",
+          "text": "Sin Agregados, agua ni acarreos:\nImporte: $171 mdp, EBITDA: $30 MDP (17%) EBIT: $21 MDP (12%)",
+          "author": "JMSS"
+        }
+      ],
       "highlight": true,
       "fecha_arranque": null
     },
@@ -5373,8 +5379,8 @@
     ]
   },
   "_metadata": {
-    "version": 500,
-    "last_updated": "2026-06-08T16:44:33.372Z",
+    "version": 501,
+    "last_updated": "2026-06-08T16:46:03.061Z",
     "last_updated_by": "JMSS"
   }
 }
