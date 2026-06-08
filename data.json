@@ -2180,7 +2180,7 @@
           "text": "En espera de firma de contrato entre Volaris y GMI"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 452,
-    "last_updated": "2026-06-08T15:41:31.698Z",
+    "version": 453,
+    "last_updated": "2026-06-08T15:41:36.760Z",
     "last_updated_by": "APC"
   }
 }
