@@ -1254,7 +1254,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "JDDO",
       "proyecto": "Roderas - DRT Campeche",
       "estatus": "04 - Negociación",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 461,
-    "last_updated": "2026-06-08T15:42:18.065Z",
+    "version": 462,
+    "last_updated": "2026-06-08T15:42:20.116Z",
     "last_updated_by": "APC"
   }
 }
