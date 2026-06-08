@@ -698,7 +698,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Distrito CEMEX",
       "estatus": "01 - Prospección",
@@ -5346,8 +5346,8 @@
     ]
   },
   "_metadata": {
-    "version": 441,
-    "last_updated": "2026-06-08T15:39:17.756Z",
+    "version": 442,
+    "last_updated": "2026-06-08T15:39:23.546Z",
     "last_updated_by": "APC"
   }
 }
