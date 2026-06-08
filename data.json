@@ -1540,7 +1540,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "01 - Prospección",
+      "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "MID - Reconstrucción Plataforma Comercial",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
@@ -5422,8 +5422,8 @@
     ]
   },
   "_metadata": {
-    "version": 512,
-    "last_updated": "2026-06-08T19:35:52.166Z",
+    "version": 513,
+    "last_updated": "2026-06-08T19:42:45.487Z",
     "last_updated_by": "LCDC"
   }
 }
