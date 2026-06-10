@@ -5116,9 +5116,9 @@
       "region": "Norte - Bajío",
       "estado": "San Luis Potosi",
       "concreto_total": 70,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-06-10",
       "anio": 2027,
-      "comentario": "Se presenta diseño de pista en pavimento rígido en zona de umbral aproximación a punto de visada, similar a LMM o TIJ",
+      "comentario": "Se presentará un parametrico para estacionamiento de 700m2 (chico) pero puesta de entrada al proyecto, será una conversióny apoyo técnico",
       "programa": null,
       "prioridad": 2,
       "ccr": null,
@@ -5146,6 +5146,11 @@
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "Se presenta diseño de pista en pavimento rígido en zona de umbral aproximación a punto de visada, similar a LMM o TIJ"
+        },
+        {
+          "ts": "2026-06-10",
+          "text": "Se presentará un parametrico para estacionamiento de 700m2 (chico) pero puesta de entrada al proyecto, será una conversióny apoyo técnico",
+          "author": "LCDC"
         }
       ],
       "highlight": false,
@@ -5422,8 +5427,8 @@
     ]
   },
   "_metadata": {
-    "version": 515,
-    "last_updated": "2026-06-08T19:47:21.680Z",
+    "version": 516,
+    "last_updated": "2026-06-10T18:15:19.927Z",
     "last_updated_by": "LCDC"
   }
 }
