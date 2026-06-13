@@ -70,7 +70,7 @@
       "proyecto": "Rehabilitación Puente Distribuidor Vial Tianguistengo Coatepec.",
       "estatus": "01 - Prospección",
       "subsegmento": "Edificación Pública",
-      "tipo": "Urbanización",
+      "tipo": "Otros",
       "cliente": "ESTADO DE MÉXICO",
       "region": "Centro - Sureste",
       "estado": "Estado de Mexico",
@@ -5442,8 +5442,8 @@
     ]
   },
   "_metadata": {
-    "version": 520,
-    "last_updated": "2026-06-13T01:29:34.428Z",
+    "version": 521,
+    "last_updated": "2026-06-13T01:29:57.935Z",
     "last_updated_by": "FRB"
   }
 }
