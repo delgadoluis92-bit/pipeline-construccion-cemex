@@ -546,6 +546,11 @@
           "ts": "2026-06-08",
           "text": "Precio de venta tentativo de $150 mdp",
           "author": "JMSS"
+        },
+        {
+          "ts": "2026-06-13",
+          "text": "SE REALIZA CONTRATACIÓN DE ESTUDIOS Y LABORATORIOS PARA OBTENCIÓN DE INFORMACIÓN PARA PROYECTO.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "Sí",
@@ -562,10 +567,10 @@
       "concreto_total": 1.2,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-06-13",
       "programa": "Obra Pública",
       "fecha_arranque": "2026-08-03",
-      "comentario": "Precio de venta tentativo de $150 mdp"
+      "comentario": "SE REALIZA CONTRATACIÓN DE ESTUDIOS Y LABORATORIOS PARA OBTENCIÓN DE INFORMACIÓN PARA PROYECTO."
     },
     {
       "id": "p_mprdxv2z0zup",
@@ -5447,8 +5452,8 @@
     ]
   },
   "_metadata": {
-    "version": 523,
-    "last_updated": "2026-06-13T01:31:09.531Z",
+    "version": 524,
+    "last_updated": "2026-06-13T01:32:07.285Z",
     "last_updated_by": "FRB"
   }
 }
