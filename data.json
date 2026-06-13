@@ -244,6 +244,11 @@
           "ts": "2026-06-05",
           "text": "EL JUEVES 04 DE JUNIO SE SUBE AL PORTAL COMPRAS.MX LA PROPUESTA DE CEMEX, EN ESPERA DE CONFIRMACIÓN DE FALLO.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-13",
+          "text": "EL VIERNES 12 DE JUNIO DEL 2026 SE GANA LA LICITACIÓN PARA SUMINISTRO DE MATERIALES.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "No",
@@ -251,7 +256,7 @@
       "highlight": false,
       "responsable": "FRB",
       "proyecto": "Acapulco Mejoramiento Urbano Bachetón",
-      "estatus": "01 - Prospección",
+      "estatus": "05 - Cerrado",
       "subsegmento": "Edificación Pública",
       "tipo": "Urbanización",
       "cliente": "FONATUR",
@@ -260,10 +265,10 @@
       "concreto_total": 8,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-05",
+      "fecha_update": "2026-06-13",
       "programa": null,
       "fecha_arranque": "2026-08-03",
-      "comentario": "EL JUEVES 04 DE JUNIO SE SUBE AL PORTAL COMPRAS.MX LA PROPUESTA DE CEMEX, EN ESPERA DE CONFIRMACIÓN DE FALLO."
+      "comentario": "EL VIERNES 12 DE JUNIO DEL 2026 SE GANA LA LICITACIÓN PARA SUMINISTRO DE MATERIALES."
     },
     {
       "id": "p_mpvm3dyh42j1",
@@ -5442,8 +5447,8 @@
     ]
   },
   "_metadata": {
-    "version": 522,
-    "last_updated": "2026-06-13T01:30:06.560Z",
+    "version": 523,
+    "last_updated": "2026-06-13T01:31:09.531Z",
     "last_updated_by": "FRB"
   }
 }
