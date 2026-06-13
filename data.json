@@ -84,13 +84,18 @@
           "ts": "2026-06-08",
           "text": "SE RECIBIÓ INFORMACION GENERAL Y SE ESTÁ EN ESPERA DE REALIZAR RECORRIDO EN SITIO.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-13",
+          "text": "SE REALIZA EL RECORRIDO AL SITIO DE LOS TRABAJOS EL MIÉRCOLES 10 DE JUNIO 2026 Y SE TOMA NOTA PARA PRESENTAR PROPUESTA DE NECESIDADES DE INFORMACIÓN PARA EMPEZAR A TRABAJAR PROPUESTA TÉCNICA-ECONÓMICA PARAMÉTRICA.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "FRB",
-      "proyecto": "Rehabilitación Puente en Tianguistengo",
+      "proyecto": "Rehabilitación Puente en Tianguistengo Río Acalote",
       "estatus": "01 - Prospección",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Urbanización",
@@ -100,10 +105,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-06-13",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "SE RECIBIÓ INFORMACION GENERAL Y SE ESTÁ EN ESPERA DE REALIZAR RECORRIDO EN SITIO."
+      "comentario": "SE REALIZA EL RECORRIDO AL SITIO DE LOS TRABAJOS EL MIÉRCOLES 10 DE JUNIO 2026 Y SE TOMA NOTA PARA PRESENTAR PROPUESTA DE NECESIDADES DE INFORMACIÓN PARA EMPEZAR A TRABAJAR PROPUESTA TÉCNICA-ECONÓMICA PARAMÉTRICA."
     },
     {
       "id": "p_mq59r8r1qmcb",
@@ -5432,8 +5437,8 @@
     ]
   },
   "_metadata": {
-    "version": 518,
-    "last_updated": "2026-06-13T01:28:23.693Z",
+    "version": 519,
+    "last_updated": "2026-06-13T01:28:59.638Z",
     "last_updated_by": "FRB"
   }
 }
