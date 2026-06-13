@@ -103,7 +103,7 @@
       "proyecto": "Rehabilitación Puente en Tianguistengo Río Acalote",
       "estatus": "01 - Prospección",
       "subsegmento": "Carreteras y Vialidades",
-      "tipo": "Urbanización",
+      "tipo": "Otros",
       "cliente": "ESTADO DE MÉXICO",
       "region": "Centro - Sureste",
       "estado": "Estado de Mexico",
@@ -5442,8 +5442,8 @@
     ]
   },
   "_metadata": {
-    "version": 521,
-    "last_updated": "2026-06-13T01:29:57.935Z",
+    "version": 522,
+    "last_updated": "2026-06-13T01:30:06.560Z",
     "last_updated_by": "FRB"
   }
 }
