@@ -283,7 +283,7 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "JDDO",
-      "proyecto": "Ave. Del Trabajp",
+      "proyecto": "Ave. Del Trabajo",
       "estatus": "01 - Prospección",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Urbanización",
@@ -5452,8 +5452,8 @@
     ]
   },
   "_metadata": {
-    "version": 524,
-    "last_updated": "2026-06-13T01:32:07.285Z",
-    "last_updated_by": "FRB"
+    "version": 525,
+    "last_updated": "2026-06-15T15:57:17.517Z",
+    "last_updated_by": "JMSS"
   }
 }
