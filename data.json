@@ -1186,7 +1186,7 @@
     {
       "id": "p_mpn8ny3cc5gm",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5452,8 +5452,8 @@
     ]
   },
   "_metadata": {
-    "version": 533,
-    "last_updated": "2026-06-15T16:02:40.431Z",
+    "version": 534,
+    "last_updated": "2026-06-15T16:02:45.158Z",
     "last_updated_by": "YATG"
   }
 }
