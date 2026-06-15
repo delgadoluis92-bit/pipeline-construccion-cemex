@@ -4231,7 +4231,7 @@
           "author": "JMSS"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -5473,8 +5473,8 @@
     ]
   },
   "_metadata": {
-    "version": 542,
-    "last_updated": "2026-06-15T16:11:15.212Z",
-    "last_updated_by": "YATG"
+    "version": 543,
+    "last_updated": "2026-06-15T16:15:45.272Z",
+    "last_updated_by": "JMSS"
   }
 }
