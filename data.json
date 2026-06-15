@@ -480,7 +480,7 @@
           "author": "JDDO"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "JMSS",
@@ -5473,8 +5473,8 @@
     ]
   },
   "_metadata": {
-    "version": 545,
-    "last_updated": "2026-06-15T16:17:52.124Z",
+    "version": 546,
+    "last_updated": "2026-06-15T16:17:53.743Z",
     "last_updated_by": "JMSS"
   }
 }
