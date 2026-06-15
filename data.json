@@ -4204,9 +4204,9 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "JMSS",
-      "estatus": "04 - Negociación",
+      "estatus": "09 - Perdido",
       "proyecto": "Aut. Córdoba - Veracruz",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
@@ -5473,8 +5473,8 @@
     ]
   },
   "_metadata": {
-    "version": 543,
-    "last_updated": "2026-06-15T16:15:45.272Z",
+    "version": 544,
+    "last_updated": "2026-06-15T16:16:06.579Z",
     "last_updated_by": "JMSS"
   }
 }
