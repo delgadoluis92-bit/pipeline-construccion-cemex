@@ -4930,7 +4930,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "04 - Negociación",
       "proyecto": "Planta Desalinizadora Rosarito",
@@ -5473,8 +5473,8 @@
     ]
   },
   "_metadata": {
-    "version": 546,
-    "last_updated": "2026-06-15T16:17:53.743Z",
-    "last_updated_by": "JMSS"
+    "version": 547,
+    "last_updated": "2026-06-15T16:23:07.107Z",
+    "last_updated_by": "LCDC"
   }
 }
