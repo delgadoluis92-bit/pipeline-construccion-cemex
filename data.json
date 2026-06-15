@@ -888,7 +888,7 @@
           "author": "YATG"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5452,8 +5452,8 @@
     ]
   },
   "_metadata": {
-    "version": 535,
-    "last_updated": "2026-06-15T16:03:20.351Z",
+    "version": 536,
+    "last_updated": "2026-06-15T16:03:24.567Z",
     "last_updated_by": "YATG"
   }
 }
