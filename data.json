@@ -406,7 +406,7 @@
       "history": [],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Lib. Imuris - Cananea",
       "estatus": "01 - Prospección",
@@ -5452,8 +5452,8 @@
     ]
   },
   "_metadata": {
-    "version": 525,
-    "last_updated": "2026-06-15T15:57:17.517Z",
+    "version": 526,
+    "last_updated": "2026-06-15T15:57:59.391Z",
     "last_updated_by": "JMSS"
   }
 }
