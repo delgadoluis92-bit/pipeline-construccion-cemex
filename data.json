@@ -3094,7 +3094,7 @@
       "fecha_update": "2026-05-29",
       "anio": 2026,
       "comentario": "No objeción entregada por parte de la JCAA",
-      "programa": null,
+      "programa": "Contrato por $51.8 M USD ~ $980MDP",
       "prioridad": 1,
       "ccr": null,
       "base_estab": null,
@@ -5478,8 +5478,8 @@
     ]
   },
   "_metadata": {
-    "version": 550,
-    "last_updated": "2026-06-16T16:37:48.236Z",
-    "last_updated_by": "SAAH"
+    "version": 551,
+    "last_updated": "2026-06-16T23:16:36.863Z",
+    "last_updated_by": "LCDC"
   }
 }
