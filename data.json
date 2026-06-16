@@ -7,9 +7,9 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
-      "proyecto": "Estacionamiento empleados- GAP",
+      "proyecto": "GDL - Estacionamiento empleados",
       "estatus": "02 - Desarrollo Ingenierías",
-      "subsegmento": "Edificación Pública",
+      "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Urbanización",
       "cliente": "GAP",
       "region": "Pacífico",
@@ -5483,8 +5483,8 @@
     ]
   },
   "_metadata": {
-    "version": 552,
-    "last_updated": "2026-06-16T23:17:07.494Z",
+    "version": 553,
+    "last_updated": "2026-06-16T23:24:07.590Z",
     "last_updated_by": "LCDC"
   }
 }
