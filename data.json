@@ -3091,9 +3091,9 @@
       "region": "Internacional",
       "estado": null,
       "concreto_total": 67,
-      "fecha_update": "2026-05-29",
+      "fecha_update": "2026-06-16",
       "anio": 2026,
-      "comentario": "No objeción entregada por parte de la JCAA",
+      "comentario": "Inicio de demolisión de proyecto con evento de KickOff",
       "programa": "Contrato por $51.8 M USD ~ $980MDP",
       "prioridad": 1,
       "ccr": null,
@@ -3115,6 +3115,11 @@
         {
           "ts": "2026-05-29",
           "text": "No objeción entregada por parte de la JCAA",
+          "author": "LCDC"
+        },
+        {
+          "ts": "2026-06-16",
+          "text": "Inicio de demolisión de proyecto con evento de KickOff",
           "author": "LCDC"
         }
       ],
@@ -5478,8 +5483,8 @@
     ]
   },
   "_metadata": {
-    "version": 551,
-    "last_updated": "2026-06-16T23:16:36.863Z",
+    "version": 552,
+    "last_updated": "2026-06-16T23:17:07.494Z",
     "last_updated_by": "LCDC"
   }
 }
