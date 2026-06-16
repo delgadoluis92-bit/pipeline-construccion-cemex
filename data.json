@@ -2295,9 +2295,9 @@
       "region": "Pacífico",
       "estado": "Baja California",
       "concreto_total": 10,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-16",
       "anio": 2026,
-      "comentario": "Ppto paramétrico 10 de Junio",
+      "comentario": "Ppto paramétrico $194MDP - 6 meses de ejecución",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -2324,6 +2324,11 @@
         {
           "ts": "2026-06-01",
           "text": "Ppto paramétrico 10 de Junio",
+          "author": "SAAH"
+        },
+        {
+          "ts": "2026-06-16",
+          "text": "Ppto paramétrico $194MDP - 6 meses de ejecución",
           "author": "SAAH"
         }
       ],
@@ -5473,8 +5478,8 @@
     ]
   },
   "_metadata": {
-    "version": 549,
-    "last_updated": "2026-06-15T16:26:23.715Z",
-    "last_updated_by": "LCDC"
+    "version": 550,
+    "last_updated": "2026-06-16T16:37:48.236Z",
+    "last_updated_by": "SAAH"
   }
 }
