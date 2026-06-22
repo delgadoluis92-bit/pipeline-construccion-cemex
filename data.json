@@ -934,7 +934,7 @@
       "cliente": "GRUPO ÁGUILA / SOLUCIONES",
       "region": "Norte - Bajío",
       "estado": "Tamaulipas",
-      "concreto_total": null,
+      "concreto_total": 13.773,
       "anio": 2026,
       "prioridad": 2,
       "fecha_update": "2026-06-08",
@@ -5497,8 +5497,8 @@
     ]
   },
   "_metadata": {
-    "version": 558,
-    "last_updated": "2026-06-22T15:24:38.442Z",
+    "version": 559,
+    "last_updated": "2026-06-22T15:27:20.598Z",
     "last_updated_by": "YATG"
   }
 }
