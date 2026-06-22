@@ -668,6 +668,11 @@
           "ts": "2026-05-27",
           "text": "Licitación debe publicarse aprox 10 Junio",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-06-22",
+          "text": "Visita de obra 23 junio 10am",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "No",
@@ -684,10 +689,10 @@
       "concreto_total": 10,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-05-27",
+      "fecha_update": "2026-06-22",
       "programa": null,
       "fecha_arranque": "2026-08-01",
-      "comentario": "Licitación debe publicarse aprox 10 Junio"
+      "comentario": "Visita de obra 23 junio 10am"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -5507,8 +5512,8 @@
     ]
   },
   "_metadata": {
-    "version": 570,
-    "last_updated": "2026-06-22T16:19:38.864Z",
-    "last_updated_by": "YATG"
+    "version": 571,
+    "last_updated": "2026-06-22T16:21:26.084Z",
+    "last_updated_by": "LCDC"
   }
 }
