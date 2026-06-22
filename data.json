@@ -58,24 +58,31 @@
     },
     {
       "id": "p_mq5d1w0ne01k",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-22",
+          "text": "Se compartió propuesta paramétrica de costo por ml .",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Barda RUBA",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "RUBA",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-06-08",
+      "prioridad": 3,
+      "fecha_update": "2026-06-22",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Se compartió propuesta paramétrica de costo por ml ."
     },
     {
       "id": "p_mq59tqq0cqf2",
@@ -5490,8 +5497,8 @@
     ]
   },
   "_metadata": {
-    "version": 556,
-    "last_updated": "2026-06-22T15:19:03.200Z",
+    "version": 557,
+    "last_updated": "2026-06-22T15:20:52.200Z",
     "last_updated_by": "YATG"
   }
 }
