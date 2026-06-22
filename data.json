@@ -59,7 +59,7 @@
     {
       "id": "p_mq5d1w0ne01k",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5490,8 +5490,8 @@
     ]
   },
   "_metadata": {
-    "version": 555,
-    "last_updated": "2026-06-22T15:15:36.328Z",
+    "version": 556,
+    "last_updated": "2026-06-22T15:19:03.200Z",
     "last_updated_by": "YATG"
   }
 }
