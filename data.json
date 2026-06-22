@@ -3110,7 +3110,7 @@
       ]
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "05 - Cerrado",
       "proyecto": "NMIA Apron Reconstruction",
@@ -5512,8 +5512,8 @@
     ]
   },
   "_metadata": {
-    "version": 573,
-    "last_updated": "2026-06-22T16:22:17.206Z",
-    "last_updated_by": "YATG"
+    "version": 574,
+    "last_updated": "2026-06-22T16:22:23.731Z",
+    "last_updated_by": "LCDC"
   }
 }
