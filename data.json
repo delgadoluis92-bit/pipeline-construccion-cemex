@@ -873,7 +873,7 @@
       "cliente": "HH&A/ ISSSTE",
       "region": "Centro - Sureste",
       "estado": "Estado de Mexico",
-      "concreto_total": null,
+      "concreto_total": 12.5,
       "anio": 2026,
       "prioridad": 2,
       "fecha_update": "2026-06-08",
@@ -5497,8 +5497,8 @@
     ]
   },
   "_metadata": {
-    "version": 557,
-    "last_updated": "2026-06-22T15:20:52.200Z",
+    "version": 558,
+    "last_updated": "2026-06-22T15:24:38.442Z",
     "last_updated_by": "YATG"
   }
 }
