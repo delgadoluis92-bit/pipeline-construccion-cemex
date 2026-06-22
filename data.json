@@ -2,7 +2,13 @@
   "projects": [
     {
       "id": "p_mqfeudfv4cby",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-22",
+          "text": "Se compartió el layout v1 del estacionamiento en el nuevo terreno. Propuesta cuenta con 126 cajones + 15 cajones de discapacitados + 6 espacios de moto.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
@@ -17,9 +23,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-15",
+      "fecha_update": "2026-06-22",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Se compartió el layout v1 del estacionamiento en el nuevo terreno. Propuesta cuenta con 126 cajones + 15 cajones de discapacitados + 6 espacios de moto."
     },
     {
       "id": "p_mq5lnguan3ts",
@@ -5483,8 +5490,8 @@
     ]
   },
   "_metadata": {
-    "version": 554,
-    "last_updated": "2026-06-22T15:03:21.837Z",
+    "version": 555,
+    "last_updated": "2026-06-22T15:15:36.328Z",
     "last_updated_by": "YATG"
   }
 }
