@@ -794,6 +794,11 @@
           "ts": "2026-05-26",
           "text": "Abril 2026- Visita a sitio \n\nMayo 2026- Se contrató Cal y Mayor para estudio de movilidad de las operaciones de la planta y bodegas.\nNos encontramos realizando conceptual y estudio de movilidad para presentar v01 en Junio 2026",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-22",
+          "text": "Presentación v1 de conceptual con Hector y equipo de Operaciones",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -809,11 +814,11 @@
       "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 1,
-      "fecha_update": "2026-05-26",
+      "prioridad": 2,
+      "fecha_update": "2026-06-22",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Abril 2026- Visita a sitio \n\nMayo 2026- Se contrató Cal y Mayor para estudio de movilidad de las operaciones de la planta y bodegas.\nNos encontramos realizando conceptual y estudio de movilidad para presentar v01 en Junio 2026"
+      "comentario": "Presentación v1 de conceptual con Hector y equipo de Operaciones"
     },
     {
       "id": "p_mpn8s6nljvta",
@@ -5502,8 +5507,8 @@
     ]
   },
   "_metadata": {
-    "version": 568,
-    "last_updated": "2026-06-22T15:39:08.419Z",
+    "version": 569,
+    "last_updated": "2026-06-22T15:39:44.205Z",
     "last_updated_by": "YATG"
   }
 }
