@@ -4408,12 +4408,12 @@
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "100+ Acceso",
       "subsegmento": "Edificación Pública",
-      "tipo": null,
+      "tipo": "Otros",
       "cliente": "CEMEX SAB",
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-06-22",
       "anio": 2025,
       "comentario": "Acceso de Parque. Conchello. Incluye una caseta de acceso y estacionamiento de 45 cajones",
       "programa": null,
@@ -4429,7 +4429,9 @@
           "author": "YATG",
           "text": "Acceso de Parque. Conchello. Incluye una caseta de acceso y estacionamiento de 45 cajones"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "Sí",
@@ -5533,8 +5535,8 @@
     ]
   },
   "_metadata": {
-    "version": 582,
-    "last_updated": "2026-06-22T16:40:05.648Z",
-    "last_updated_by": "LCDC"
+    "version": 583,
+    "last_updated": "2026-06-22T21:23:04.546Z",
+    "last_updated_by": "YATG"
   }
 }
