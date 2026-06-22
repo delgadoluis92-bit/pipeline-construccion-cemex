@@ -3,7 +3,7 @@
     {
       "id": "p_mqfeudfv4cby",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5483,8 +5483,8 @@
     ]
   },
   "_metadata": {
-    "version": 553,
-    "last_updated": "2026-06-16T23:24:07.590Z",
-    "last_updated_by": "LCDC"
+    "version": 554,
+    "last_updated": "2026-06-22T15:03:21.837Z",
+    "last_updated_by": "YATG"
   }
 }
