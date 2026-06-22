@@ -3112,7 +3112,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "05 - Cerrado",
+      "estatus": "10 - Ejecución",
       "proyecto": "NMIA Apron Reconstruction",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
@@ -5512,8 +5512,8 @@
     ]
   },
   "_metadata": {
-    "version": 574,
-    "last_updated": "2026-06-22T16:22:23.731Z",
+    "version": 575,
+    "last_updated": "2026-06-22T16:22:38.944Z",
     "last_updated_by": "LCDC"
   }
 }
