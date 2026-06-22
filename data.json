@@ -1026,7 +1026,7 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
-      "proyecto": "PECH Puebla",
+      "proyecto": "PECP Puebla",
       "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Edificación Pública",
       "tipo": "Urbanización",
@@ -5507,8 +5507,8 @@
     ]
   },
   "_metadata": {
-    "version": 569,
-    "last_updated": "2026-06-22T15:39:44.205Z",
+    "version": 570,
+    "last_updated": "2026-06-22T16:19:38.864Z",
     "last_updated_by": "YATG"
   }
 }
