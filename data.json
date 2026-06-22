@@ -962,7 +962,7 @@
       "cliente": "HERMOSILLO/PREPA TEC",
       "region": "Pacífico",
       "estado": "Sonora",
-      "concreto_total": null,
+      "concreto_total": 2.07,
       "anio": 2026,
       "prioridad": 2,
       "fecha_update": "2026-05-28",
@@ -5497,8 +5497,8 @@
     ]
   },
   "_metadata": {
-    "version": 561,
-    "last_updated": "2026-06-22T15:29:59.475Z",
+    "version": 562,
+    "last_updated": "2026-06-22T15:32:21.955Z",
     "last_updated_by": "YATG"
   }
 }
