@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mqpfeedbiz6f",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": null,
+      "proyecto": "Escuelas Garza Ponce",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Educación",
+      "cliente": "Garza Ponce",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 2,
+      "fecha_update": "2026-06-22",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mqfeudfv4cby",
       "history": [
         {
@@ -5512,8 +5533,8 @@
     ]
   },
   "_metadata": {
-    "version": 578,
-    "last_updated": "2026-06-22T16:23:35.015Z",
+    "version": 579,
+    "last_updated": "2026-06-22T16:24:31.295Z",
     "last_updated_by": "YATG"
   }
 }
