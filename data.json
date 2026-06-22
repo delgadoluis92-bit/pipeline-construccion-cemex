@@ -4401,7 +4401,7 @@
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "100+ Bosque Conchello",
       "subsegmento": "Edificación Pública",
-      "tipo": null,
+      "tipo": "Urbanización",
       "cliente": "CEMEX SAB",
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
@@ -4410,7 +4410,7 @@
       "anio": 2026,
       "comentario": "Importe: $16 mdp, EBITDA: $1.3 mdp EBIT: $0.3 mdp (2%)",
       "programa": null,
-      "prioridad": null,
+      "prioridad": 1,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -5497,8 +5497,8 @@
     ]
   },
   "_metadata": {
-    "version": 559,
-    "last_updated": "2026-06-22T15:27:20.598Z",
+    "version": 560,
+    "last_updated": "2026-06-22T15:29:53.715Z",
     "last_updated_by": "YATG"
   }
 }
