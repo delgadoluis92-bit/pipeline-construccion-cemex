@@ -675,7 +675,7 @@
           "author": "LCDC"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "LCDC",
@@ -5512,8 +5512,8 @@
     ]
   },
   "_metadata": {
-    "version": 575,
-    "last_updated": "2026-06-22T16:22:38.944Z",
+    "version": 576,
+    "last_updated": "2026-06-22T16:22:59.539Z",
     "last_updated_by": "LCDC"
   }
 }
