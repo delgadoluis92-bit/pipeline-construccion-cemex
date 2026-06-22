@@ -700,7 +700,7 @@
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "LCDC",
-      "proyecto": "GDL - Nueva Vialidad Interterminales",
+      "proyecto": "GDL - Sistema Vial NET GDL (SC-00095247)",
       "estatus": "03 - Licitación",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Viaductos",
@@ -5533,8 +5533,8 @@
     ]
   },
   "_metadata": {
-    "version": 581,
-    "last_updated": "2026-06-22T16:36:33.551Z",
+    "version": 582,
+    "last_updated": "2026-06-22T16:40:05.648Z",
     "last_updated_by": "LCDC"
   }
 }
