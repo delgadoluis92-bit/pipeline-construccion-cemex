@@ -989,7 +989,7 @@
           "author": "YATG"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5512,8 +5512,8 @@
     ]
   },
   "_metadata": {
-    "version": 571,
-    "last_updated": "2026-06-22T16:21:26.084Z",
-    "last_updated_by": "LCDC"
+    "version": 572,
+    "last_updated": "2026-06-22T16:22:12.573Z",
+    "last_updated_by": "YATG"
   }
 }
