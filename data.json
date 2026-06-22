@@ -4604,7 +4604,7 @@
     {
       "importante_vale": "No",
       "responsable": "YATG",
-      "estatus": "01 - Prospección",
+      "estatus": "08 - Descartado / Inviable",
       "proyecto": "Parque Ecologico",
       "subsegmento": "Edificación Pública",
       "tipo": "Urbanización",
@@ -5535,8 +5535,8 @@
     ]
   },
   "_metadata": {
-    "version": 584,
-    "last_updated": "2026-06-22T21:28:05.010Z",
+    "version": 585,
+    "last_updated": "2026-06-22T22:35:23.507Z",
     "last_updated_by": "YATG"
   }
 }
