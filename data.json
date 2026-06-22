@@ -1010,6 +1010,11 @@
           "ts": "2026-05-28",
           "text": "Se está evaluando realizar proyecto en terreno en Puebla. Pendiente siguientes pasos por parque equipo de Comercial",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-22",
+          "text": "Se está trabajando el plan de trabajo junto con el proyectista para arranque de proyecto.",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1017,7 +1022,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "PECH Puebla",
-      "estatus": "01 - Prospección",
+      "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Edificación Pública",
       "tipo": "Urbanización",
       "cliente": "SEMARNAT",
@@ -1025,11 +1030,11 @@
       "estado": "Puebla",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 3,
-      "fecha_update": "2026-05-28",
+      "prioridad": 2,
+      "fecha_update": "2026-06-22",
       "programa": null,
-      "fecha_arranque": null,
-      "comentario": "Se está evaluando realizar proyecto en terreno en Puebla. Pendiente siguientes pasos por parque equipo de Comercial"
+      "fecha_arranque": "2026-07-15",
+      "comentario": "Se está trabajando el plan de trabajo junto con el proyectista para arranque de proyecto."
     },
     {
       "id": "p_mpn8qg55hqnl",
@@ -5497,8 +5502,8 @@
     ]
   },
   "_metadata": {
-    "version": 562,
-    "last_updated": "2026-06-22T15:32:21.955Z",
+    "version": 563,
+    "last_updated": "2026-06-22T15:33:28.635Z",
     "last_updated_by": "YATG"
   }
 }
