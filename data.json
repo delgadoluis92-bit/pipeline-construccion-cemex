@@ -1149,6 +1149,11 @@
           "ts": "2026-05-28",
           "text": "25 Mayo- presentación con JLL sobre construcción prefabricados",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-24",
+          "text": "Volumen de concreto:\nAuditorio- 2.7\nEstacionamiento- 2.99",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1165,10 +1170,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-06-24",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "25 Mayo- presentación con JLL sobre construcción prefabricados"
+      "comentario": "Volumen de concreto:\nAuditorio- 2.7\nEstacionamiento- 2.99"
     },
     {
       "id": "p_mpn8pyi1cmpp",
@@ -5577,8 +5582,8 @@
     ]
   },
   "_metadata": {
-    "version": 587,
-    "last_updated": "2026-06-24T00:06:28.591Z",
+    "version": 588,
+    "last_updated": "2026-06-24T14:56:18.082Z",
     "last_updated_by": "YATG"
   }
 }
