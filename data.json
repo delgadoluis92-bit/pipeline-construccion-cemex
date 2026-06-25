@@ -736,6 +736,11 @@
           "ts": "2026-06-22",
           "text": "Visita de obra 23 junio 10am",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-06-25",
+          "text": "Entrega de propuesta 02 julio 09am",
+          "author": "SAAH"
         }
       ],
       "importante_vale": "Sí",
@@ -752,10 +757,10 @@
       "concreto_total": 10,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-22",
+      "fecha_update": "2026-06-25",
       "programa": null,
       "fecha_arranque": "2026-08-01",
-      "comentario": "Visita de obra 23 junio 10am"
+      "comentario": "Entrega de propuesta 02 julio 09am"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -5582,8 +5587,8 @@
     ]
   },
   "_metadata": {
-    "version": 590,
-    "last_updated": "2026-06-25T13:22:33.431Z",
-    "last_updated_by": "LCDC"
+    "version": 591,
+    "last_updated": "2026-06-25T22:21:50.744Z",
+    "last_updated_by": "SAAH"
   }
 }
