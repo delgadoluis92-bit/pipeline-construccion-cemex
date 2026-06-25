@@ -759,7 +759,7 @@
       "prioridad": 1,
       "fecha_update": "2026-06-25",
       "programa": null,
-      "fecha_arranque": "2026-08-01",
+      "fecha_arranque": "2026-09-08",
       "comentario": "Entrega de propuesta 02 julio 09am"
     },
     {
@@ -5587,8 +5587,8 @@
     ]
   },
   "_metadata": {
-    "version": 591,
-    "last_updated": "2026-06-25T22:21:50.744Z",
+    "version": 592,
+    "last_updated": "2026-06-25T22:28:34.364Z",
     "last_updated_by": "SAAH"
   }
 }
