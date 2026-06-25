@@ -3561,7 +3561,7 @@
           "author": "MLR"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -5582,8 +5582,8 @@
     ]
   },
   "_metadata": {
-    "version": 588,
-    "last_updated": "2026-06-24T14:56:18.082Z",
-    "last_updated_by": "YATG"
+    "version": 589,
+    "last_updated": "2026-06-25T13:22:22.632Z",
+    "last_updated_by": "LCDC"
   }
 }
