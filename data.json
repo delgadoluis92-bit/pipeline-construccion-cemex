@@ -268,6 +268,11 @@
           "ts": "2026-06-08",
           "text": "SE RECIBIÓ INFORMACION GENERAL Y SE ESTÁ EN ESPERA DE REALIZAR RECORRIDO EN SITIO.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "SE PRESENTÓ PROPUESTA CONCEPTUAL DE CONSTRUCCIÓN Y ECONÓMICA EN COLABORACIÓN CON EL EQUIPO DE LA SECRETARÍA ESTATAL DE INFRAESTRUCTURA.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "No",
@@ -284,10 +289,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "SE RECIBIÓ INFORMACION GENERAL Y SE ESTÁ EN ESPERA DE REALIZAR RECORRIDO EN SITIO."
+      "comentario": "SE PRESENTÓ PROPUESTA CONCEPTUAL DE CONSTRUCCIÓN Y ECONÓMICA EN COLABORACIÓN CON EL EQUIPO DE LA SECRETARÍA ESTATAL DE INFRAESTRUCTURA."
     },
     {
       "id": "p_mpvmf4huyri8",
@@ -5602,8 +5607,8 @@
     ]
   },
   "_metadata": {
-    "version": 595,
-    "last_updated": "2026-06-29T13:47:56.507Z",
+    "version": 596,
+    "last_updated": "2026-06-29T13:48:08.665Z",
     "last_updated_by": "FRB"
   }
 }
