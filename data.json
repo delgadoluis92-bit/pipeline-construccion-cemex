@@ -5092,7 +5092,7 @@
           "text": "Apoyo a Pablo Amaro con alcances y especificaciones de concreto, así como constructivas"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -5639,8 +5639,8 @@
     ]
   },
   "_metadata": {
-    "version": 612,
-    "last_updated": "2026-06-29T16:22:18.021Z",
+    "version": 613,
+    "last_updated": "2026-06-29T16:22:20.081Z",
     "last_updated_by": "LCDC"
   }
 }
