@@ -669,6 +669,11 @@
           "ts": "2026-06-13",
           "text": "SE REALIZA CONTRATACIÓN DE ESTUDIOS Y LABORATORIOS PARA OBTENCIÓN DE INFORMACIÓN PARA PROYECTO.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "EL AVANCE DEL PROYECTO GEOTÉCNICO Y LA REVISIÓN DE LA ESTRUCTURA DEL PUENTE DOS, ARROJÓ RESULTADOS POSITIVOS PERMITIENDO NO MODIFICAR LA CIMENTACIÓN DEL APOYO 9,10 Y 11.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "Sí",
@@ -685,10 +690,10 @@
       "concreto_total": 1.2,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-13",
+      "fecha_update": "2026-06-29",
       "programa": "Obra Pública",
       "fecha_arranque": "2026-08-03",
-      "comentario": "SE REALIZA CONTRATACIÓN DE ESTUDIOS Y LABORATORIOS PARA OBTENCIÓN DE INFORMACIÓN PARA PROYECTO."
+      "comentario": "EL AVANCE DEL PROYECTO GEOTÉCNICO Y LA REVISIÓN DE LA ESTRUCTURA DEL PUENTE DOS, ARROJÓ RESULTADOS POSITIVOS PERMITIENDO NO MODIFICAR LA CIMENTACIÓN DEL APOYO 9,10 Y 11."
     },
     {
       "id": "p_mprdxv2z0zup",
@@ -5607,8 +5612,8 @@
     ]
   },
   "_metadata": {
-    "version": 596,
-    "last_updated": "2026-06-29T13:48:08.665Z",
+    "version": 597,
+    "last_updated": "2026-06-29T13:49:37.078Z",
     "last_updated_by": "FRB"
   }
 }
