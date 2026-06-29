@@ -22,27 +22,6 @@
       "fecha_arranque": null
     },
     {
-      "id": "p_mqrbbz5s9hpd",
-      "history": [],
-      "importante_vale": "No",
-      "conversion_tecnica": false,
-      "highlight": false,
-      "responsable": "YATG",
-      "proyecto": "Museo mérida",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
-      "concreto_total": null,
-      "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-06-24",
-      "programa": null,
-      "fecha_arranque": null
-    },
-    {
       "id": "p_mqpfeedbiz6f",
       "history": [],
       "importante_vale": "No",
@@ -5612,8 +5591,8 @@
     ]
   },
   "_metadata": {
-    "version": 597,
-    "last_updated": "2026-06-29T13:49:37.078Z",
-    "last_updated_by": "FRB"
+    "version": 598,
+    "last_updated": "2026-06-29T15:29:11.515Z",
+    "last_updated_by": "YATG"
   }
 }
