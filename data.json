@@ -11,7 +11,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "LCDC",
       "proyecto": "CUN - Plataforma y Rodajes Sur",
       "estatus": "03 - Licitación",
@@ -5639,8 +5639,8 @@
     ]
   },
   "_metadata": {
-    "version": 608,
-    "last_updated": "2026-06-29T16:21:25.899Z",
+    "version": 609,
+    "last_updated": "2026-06-29T16:21:43.503Z",
     "last_updated_by": "LCDC"
   }
 }
