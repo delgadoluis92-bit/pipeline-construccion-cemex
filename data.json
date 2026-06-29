@@ -1079,6 +1079,11 @@
           "ts": "2026-06-08",
           "text": "8 Junio 2026: Se envía propuesta paramétrica.\nPrecio de venta : 233 MM",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Se tuvo reunión de presentación con cliente. Mencionan que ellos les cotizaron 100 millones con concreto y construcción por los 40,000 m2. Entonces este precio de referencia está muy abajo del precio mercado. De igual forma vamos a revisar la cotización",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1095,10 +1100,10 @@
       "concreto_total": 13.773,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "8 Junio 2026: Se envía propuesta paramétrica.\nPrecio de venta : 233 MM"
+      "comentario": "Se tuvo reunión de presentación con cliente. Mencionan que ellos les cotizaron 100 millones con concreto y construcción por los 40,000 m2. Entonces este precio de referencia está muy abajo del precio mercado. De igual forma vamos a revisar la cotización"
     },
     {
       "id": "p_mpn8ra3td6qm",
@@ -5672,8 +5677,8 @@
     ]
   },
   "_metadata": {
-    "version": 617,
-    "last_updated": "2026-06-29T16:25:40.646Z",
-    "last_updated_by": "LCDC"
+    "version": 618,
+    "last_updated": "2026-06-29T16:26:52.660Z",
+    "last_updated_by": "YATG"
   }
 }
