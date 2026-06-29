@@ -610,6 +610,11 @@
           "ts": "2026-06-05",
           "text": "Detenido. Tentativo reactivarse en junio/julio 2026\nVenta: $389 MM",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Rodrigo comenta que posiblemente se reactivará en septiembre el proyecto",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -626,10 +631,10 @@
       "concreto_total": 12,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-05",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Detenido. Tentativo reactivarse en junio/julio 2026\nVenta: $389 MM"
+      "comentario": "Rodrigo comenta que posiblemente se reactivará en septiembre el proyecto"
     },
     {
       "id": "p_mpvejq9a84xl",
@@ -5591,8 +5596,8 @@
     ]
   },
   "_metadata": {
-    "version": 601,
-    "last_updated": "2026-06-29T15:29:37.364Z",
+    "version": 602,
+    "last_updated": "2026-06-29T15:30:14.019Z",
     "last_updated_by": "YATG"
   }
 }
