@@ -9,7 +9,7 @@
           "author": "LCDC"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "LCDC",
@@ -5644,8 +5644,8 @@
     ]
   },
   "_metadata": {
-    "version": 614,
-    "last_updated": "2026-06-29T16:23:51.678Z",
-    "last_updated_by": "YATG"
+    "version": 615,
+    "last_updated": "2026-06-29T16:24:27.073Z",
+    "last_updated_by": "LCDC"
   }
 }
