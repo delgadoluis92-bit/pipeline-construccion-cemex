@@ -985,6 +985,11 @@
           "ts": "2026-06-08",
           "text": "Importe de venta: \n-Cimentación: $460.92\n-Estructura prefabricada: $452.26",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Comentario cliente: \"El ISSSTE nos pidió que replanteáramos la propuesta arquitectónica de la licitación y en eso estamos, ya presentamos un previo pero no está terminado\"",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1001,10 +1006,10 @@
       "concreto_total": 12.5,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Importe de venta: \n-Cimentación: $460.92\n-Estructura prefabricada: $452.26"
+      "comentario": "Comentario cliente: \"El ISSSTE nos pidió que replanteáramos la propuesta arquitectónica de la licitación y en eso estamos, ya presentamos un previo pero no está terminado\""
     },
     {
       "id": "p_mpn8rq0pq9ei",
@@ -5639,8 +5644,8 @@
     ]
   },
   "_metadata": {
-    "version": 613,
-    "last_updated": "2026-06-29T16:22:20.081Z",
-    "last_updated_by": "LCDC"
+    "version": 614,
+    "last_updated": "2026-06-29T16:23:51.678Z",
+    "last_updated_by": "YATG"
   }
 }
