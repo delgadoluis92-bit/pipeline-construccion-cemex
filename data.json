@@ -159,6 +159,11 @@
           "ts": "2026-06-13",
           "text": "SE REALIZA EL RECORRIDO AL SITIO DE LOS TRABAJOS EL MIÉRCOLES 10 DE JUNIO 2026 Y SE TOMA NOTA PARA PRESENTAR PROPUESTA DE NECESIDADES DE INFORMACIÓN PARA EMPEZAR A TRABAJAR PROPUESTA TÉCNICA-ECONÓMICA PARAMÉTRICA.",
           "author": "FRB"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "SE PRESENTÓ PROPUESTA CONCEPTUAL DE CONSTRUCCIÓN Y ECONÓMICA EN COLABORACIÓN CON EL EQUIPO DE LA SECRETARÍA ESTATAL DE INFRAESTRUCTURA.",
+          "author": "FRB"
         }
       ],
       "importante_vale": "No",
@@ -175,10 +180,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-13",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "SE REALIZA EL RECORRIDO AL SITIO DE LOS TRABAJOS EL MIÉRCOLES 10 DE JUNIO 2026 Y SE TOMA NOTA PARA PRESENTAR PROPUESTA DE NECESIDADES DE INFORMACIÓN PARA EMPEZAR A TRABAJAR PROPUESTA TÉCNICA-ECONÓMICA PARAMÉTRICA."
+      "comentario": "SE PRESENTÓ PROPUESTA CONCEPTUAL DE CONSTRUCCIÓN Y ECONÓMICA EN COLABORACIÓN CON EL EQUIPO DE LA SECRETARÍA ESTATAL DE INFRAESTRUCTURA."
     },
     {
       "id": "p_mq59sjzxzo3j",
@@ -5587,8 +5592,8 @@
     ]
   },
   "_metadata": {
-    "version": 592,
-    "last_updated": "2026-06-25T22:28:34.364Z",
-    "last_updated_by": "SAAH"
+    "version": 593,
+    "last_updated": "2026-06-29T13:47:33.356Z",
+    "last_updated_by": "FRB"
   }
 }
