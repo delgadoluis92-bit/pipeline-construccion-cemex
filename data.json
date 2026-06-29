@@ -1571,6 +1571,11 @@
           "ts": "2026-05-28",
           "text": "Se valida la rodera de 60 cm de ancho con cortes a cada 1.30 m. SI Centro Sur, esta trabajando la propueta.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Estamos en espera de VoBo de Joao (MEM)",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -1586,11 +1591,11 @@
       "estado": "Campeche",
       "concreto_total": 0.405,
       "anio": 2026,
-      "prioridad": 1,
-      "fecha_update": "2026-05-28",
+      "prioridad": 3,
+      "fecha_update": "2026-06-29",
       "programa": "DRT Campeche",
       "fecha_arranque": "2026-06-15",
-      "comentario": "Se valida la rodera de 60 cm de ancho con cortes a cada 1.30 m. SI Centro Sur, esta trabajando la propueta."
+      "comentario": "Estamos en espera de VoBo de Joao (MEM)"
     },
     {
       "importante_vale": "No",
@@ -5705,8 +5710,8 @@
     ]
   },
   "_metadata": {
-    "version": 620,
-    "last_updated": "2026-06-29T16:50:00.506Z",
+    "version": 621,
+    "last_updated": "2026-06-29T16:50:57.001Z",
     "last_updated_by": "JDDO"
   }
 }
