@@ -3,7 +3,7 @@
     {
       "id": "p_mqrbcbu7qq9x",
       "history": [],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -5591,8 +5591,8 @@
     ]
   },
   "_metadata": {
-    "version": 598,
-    "last_updated": "2026-06-29T15:29:11.515Z",
+    "version": 599,
+    "last_updated": "2026-06-29T15:29:13.547Z",
     "last_updated_by": "YATG"
   }
 }
