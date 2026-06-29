@@ -582,7 +582,13 @@
     },
     {
       "id": "p_mpvg92z79ns6",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-06-29",
+          "text": "Estamos en espera de retroalimentación por parte de Soluciones Integrales Pácifico.",
+          "author": "JDDO"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
@@ -597,9 +603,10 @@
       "concreto_total": 62,
       "anio": 2027,
       "prioridad": 2,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-06-29",
       "programa": null,
-      "fecha_arranque": "2027-01-01"
+      "fecha_arranque": "2027-01-01",
+      "comentario": "Estamos en espera de retroalimentación por parte de Soluciones Integrales Pácifico."
     },
     {
       "id": "p_mpvg43hyg90d",
@@ -5698,8 +5705,8 @@
     ]
   },
   "_metadata": {
-    "version": 619,
-    "last_updated": "2026-06-29T16:40:20.313Z",
-    "last_updated_by": "JMSS"
+    "version": 620,
+    "last_updated": "2026-06-29T16:50:00.506Z",
+    "last_updated_by": "JDDO"
   }
 }
