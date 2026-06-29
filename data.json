@@ -1145,6 +1145,11 @@
           "ts": "2026-06-08",
           "text": "Precio de venta 1.4 mdp \nCon un EBITDA de 15%",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Se compartió el presupuesto de remodelación con un total de $1,419,456",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1161,10 +1166,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Precio de venta 1.4 mdp \nCon un EBITDA de 15%"
+      "comentario": "Se compartió el presupuesto de remodelación con un total de $1,419,456"
     },
     {
       "id": "p_mpn8q6q14jkf",
@@ -5606,8 +5611,8 @@
     ]
   },
   "_metadata": {
-    "version": 606,
-    "last_updated": "2026-06-29T15:32:13.611Z",
+    "version": 607,
+    "last_updated": "2026-06-29T15:46:09.425Z",
     "last_updated_by": "YATG"
   }
 }
