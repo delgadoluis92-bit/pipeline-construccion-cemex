@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mqzg1pax3bq8",
+      "history": [],
+      "importante_vale": "Sí",
+      "conversion_tecnica": false,
+      "highlight": true,
+      "responsable": "JMSS",
+      "proyecto": "Aut. México – Querétaro Cpo. B (Ampliación Carriles laterales Tepotzotlán - Jorobas)",
+      "estatus": "03 - Licitación",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "BANOBRAS",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
+      "concreto_total": 38,
+      "anio": 2026,
+      "prioridad": 1,
+      "fecha_update": "2026-06-29",
+      "programa": "Obra Pública",
+      "fecha_arranque": "2027-03-01"
+    },
+    {
       "id": "p_mqzfioy4hs2n",
       "history": [
         {
@@ -5677,8 +5698,8 @@
     ]
   },
   "_metadata": {
-    "version": 618,
-    "last_updated": "2026-06-29T16:26:52.660Z",
-    "last_updated_by": "YATG"
+    "version": 619,
+    "last_updated": "2026-06-29T16:40:20.313Z",
+    "last_updated_by": "JMSS"
   }
 }
