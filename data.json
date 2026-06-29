@@ -3454,7 +3454,7 @@
       "importante_vale": "Sí",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "MTY - Nueva Plataforma Comercial",
+      "proyecto": "MTY - Nueva Plataforma de Carga",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Pistas y rodajes",
       "cliente": "OMA / ALVES RIBEIRO",
@@ -5639,8 +5639,8 @@
     ]
   },
   "_metadata": {
-    "version": 609,
-    "last_updated": "2026-06-29T16:21:43.503Z",
-    "last_updated_by": "LCDC"
+    "version": 610,
+    "last_updated": "2026-06-29T16:22:00.395Z",
+    "last_updated_by": "ESRA"
   }
 }
