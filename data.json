@@ -1132,7 +1132,7 @@
           "author": "MLR"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "YATG",
@@ -5591,8 +5591,8 @@
     ]
   },
   "_metadata": {
-    "version": 600,
-    "last_updated": "2026-06-29T15:29:16.235Z",
+    "version": 601,
+    "last_updated": "2026-06-29T15:29:37.364Z",
     "last_updated_by": "YATG"
   }
 }
