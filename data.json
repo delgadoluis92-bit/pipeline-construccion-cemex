@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mqzfioy4hs2n",
+      "history": [
+        {
+          "ts": "2026-06-29",
+          "text": "Monto por asignarse de manera directa por la diferencia entre contrato de Adolf Horn.",
+          "author": "LCDC"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": true,
+      "responsable": "LCDC",
+      "proyecto": "GDL - Estacionamiento Sindicato",
+      "estatus": "04 - Negociación",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Plataformas",
+      "cliente": "GAP",
+      "region": "Pacífico",
+      "estado": "Jalisco",
+      "concreto_total": 1,
+      "anio": 2026,
+      "prioridad": 1,
+      "fecha_update": "2026-06-29",
+      "programa": null,
+      "fecha_arranque": null,
+      "comentario": "Monto por asignarse de manera directa por la diferencia entre contrato de Adolf Horn."
+    },
+    {
       "id": "p_mqzfddzfzxzb",
       "history": [
         {
@@ -5644,8 +5672,8 @@
     ]
   },
   "_metadata": {
-    "version": 615,
-    "last_updated": "2026-06-29T16:24:27.073Z",
+    "version": 616,
+    "last_updated": "2026-06-29T16:25:33.388Z",
     "last_updated_by": "LCDC"
   }
 }
