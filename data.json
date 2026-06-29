@@ -105,6 +105,11 @@
           "ts": "2026-06-22",
           "text": "Se compartió propuesta paramétrica de costo por ml .",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Visita a sitio con cliente. Se trabajará en propuesta aterrizada y a la par una propuesta de diseño en prefabricado con PREFAMOVIL",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -121,10 +126,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-22",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se compartió propuesta paramétrica de costo por ml ."
+      "comentario": "Visita a sitio con cliente. Se trabajará en propuesta aterrizada y a la par una propuesta de diseño en prefabricado con PREFAMOVIL"
     },
     {
       "id": "p_mq59tqq0cqf2",
@@ -5601,8 +5606,8 @@
     ]
   },
   "_metadata": {
-    "version": 604,
-    "last_updated": "2026-06-29T15:31:18.806Z",
-    "last_updated_by": "SAAH"
+    "version": 605,
+    "last_updated": "2026-06-29T15:31:40.115Z",
+    "last_updated_by": "YATG"
   }
 }
