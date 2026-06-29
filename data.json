@@ -750,6 +750,11 @@
           "ts": "2026-06-25",
           "text": "Entrega de propuesta 02 julio 09am",
           "author": "SAAH"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Prórroga para entrega de propuesta al 15 de Julio",
+          "author": "SAAH"
         }
       ],
       "importante_vale": "Sí",
@@ -766,10 +771,10 @@
       "concreto_total": 10,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-25",
+      "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": "2026-09-08",
-      "comentario": "Entrega de propuesta 02 julio 09am"
+      "comentario": "Prórroga para entrega de propuesta al 15 de Julio"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -5596,8 +5601,8 @@
     ]
   },
   "_metadata": {
-    "version": 603,
-    "last_updated": "2026-06-29T15:30:18.955Z",
-    "last_updated_by": "YATG"
+    "version": 604,
+    "last_updated": "2026-06-29T15:31:18.806Z",
+    "last_updated_by": "SAAH"
   }
 }
