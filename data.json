@@ -1587,7 +1587,7 @@
           "author": "LCDC"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -5672,8 +5672,8 @@
     ]
   },
   "_metadata": {
-    "version": 616,
-    "last_updated": "2026-06-29T16:25:33.388Z",
+    "version": 617,
+    "last_updated": "2026-06-29T16:25:40.646Z",
     "last_updated_by": "LCDC"
   }
 }
