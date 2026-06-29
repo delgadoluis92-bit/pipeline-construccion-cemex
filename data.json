@@ -56,6 +56,11 @@
           "ts": "2026-06-29",
           "text": "Propuesta en desarrollo, se presenta a ASUR el 15 julio, a ASFGDL el 10",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-06-29",
+          "text": "Presentar oferta también a GIA",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -75,7 +80,7 @@
       "fecha_update": "2026-06-29",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Propuesta en desarrollo, se presenta a ASUR el 15 julio, a ASFGDL el 10"
+      "comentario": "Presentar oferta también a GIA"
     },
     {
       "id": "p_mqrbcbu7qq9x",
@@ -5710,8 +5715,8 @@
     ]
   },
   "_metadata": {
-    "version": 621,
-    "last_updated": "2026-06-29T16:50:57.001Z",
-    "last_updated_by": "JDDO"
+    "version": 622,
+    "last_updated": "2026-06-29T17:10:11.821Z",
+    "last_updated_by": "LCDC"
   }
 }
