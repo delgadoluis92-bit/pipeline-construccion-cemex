@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mqzfddzfzxzb",
+      "history": [
+        {
+          "ts": "2026-06-29",
+          "text": "Propuesta en desarrollo, se presenta a ASUR el 15 julio, a ASFGDL el 10",
+          "author": "LCDC"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "LCDC",
+      "proyecto": "CUN - Plataforma y Rodajes Sur",
+      "estatus": "03 - Licitación",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Pistas y rodajes",
+      "cliente": "Asfaltos Guadalajara",
+      "region": "Centro - Sureste",
+      "estado": "Quintana Roo",
+      "concreto_total": 15,
+      "anio": 2026,
+      "prioridad": 1,
+      "fecha_update": "2026-06-29",
+      "programa": null,
+      "fecha_arranque": null,
+      "comentario": "Propuesta en desarrollo, se presenta a ASUR el 15 julio, a ASFGDL el 10"
+    },
+    {
       "id": "p_mqrbcbu7qq9x",
       "history": [],
       "importante_vale": "Sí",
@@ -5611,8 +5639,8 @@
     ]
   },
   "_metadata": {
-    "version": 607,
-    "last_updated": "2026-06-29T15:46:09.425Z",
-    "last_updated_by": "YATG"
+    "version": 608,
+    "last_updated": "2026-06-29T16:21:25.899Z",
+    "last_updated_by": "LCDC"
   }
 }
