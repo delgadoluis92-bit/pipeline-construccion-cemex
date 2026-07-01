@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mr2gmpdsun2a",
+      "history": [
+        {
+          "ts": "2026-07-01",
+          "text": "Se envía correo de presentacion para darnos de alta como proveedor directo",
+          "author": "MLR"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "MLR",
+      "proyecto": "ampliación de TEA SSA",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Aeropuertos y Puertos",
+      "tipo": "Puertos Marinos",
+      "cliente": "SSA Marine México",
+      "region": "Pacífico",
+      "estado": "Michoacan",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 2,
+      "fecha_update": "2026-07-01",
+      "programa": "ampliación de TEA SSA",
+      "fecha_arranque": "2026-07-01",
+      "comentario": "Se envía correo de presentacion para darnos de alta como proveedor directo"
+    },
+    {
       "id": "p_mr2gk8n4l182",
       "history": [
         {
@@ -5829,8 +5857,8 @@
     ]
   },
   "_metadata": {
-    "version": 634,
-    "last_updated": "2026-07-01T19:18:39.032Z",
+    "version": 635,
+    "last_updated": "2026-07-01T19:19:58.720Z",
     "last_updated_by": "MLR"
   }
 }
