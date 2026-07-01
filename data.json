@@ -7,6 +7,11 @@
           "ts": "2026-07-01",
           "text": "Construcción de 350 m. de muelle y 28.33 Has de patios",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-07-01",
+          "text": "Se envía correo de presentacion para darnos de alta como proveedor directo",
+          "author": "MLR"
         }
       ],
       "importante_vale": "No",
@@ -26,7 +31,7 @@
       "fecha_update": "2026-07-01",
       "programa": "Patios y muelle TEC I",
       "fecha_arranque": "2026-07-01",
-      "comentario": "Construcción de 350 m. de muelle y 28.33 Has de patios"
+      "comentario": "Se envía correo de presentacion para darnos de alta como proveedor directo"
     },
     {
       "id": "p_mr2di28e7i64",
@@ -5791,8 +5796,8 @@
     ]
   },
   "_metadata": {
-    "version": 631,
-    "last_updated": "2026-07-01T19:16:22.331Z",
+    "version": 632,
+    "last_updated": "2026-07-01T19:16:48.017Z",
     "last_updated_by": "MLR"
   }
 }
