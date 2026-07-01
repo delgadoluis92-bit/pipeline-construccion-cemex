@@ -108,9 +108,9 @@
           "author": "MLR"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "MLR",
       "proyecto": "Desarrollo de la Isla de la Palma",
       "estatus": "01 - Prospección",
@@ -5857,8 +5857,8 @@
     ]
   },
   "_metadata": {
-    "version": 640,
-    "last_updated": "2026-07-01T19:20:26.935Z",
+    "version": 642,
+    "last_updated": "2026-07-01T19:20:28.287Z",
     "last_updated_by": "MLR"
   }
 }
