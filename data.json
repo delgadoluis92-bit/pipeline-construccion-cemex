@@ -140,7 +140,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "GDL - Estacionamiento empleados",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -5725,8 +5725,8 @@
     ]
   },
   "_metadata": {
-    "version": 626,
-    "last_updated": "2026-07-01T17:46:33.267Z",
+    "version": 627,
+    "last_updated": "2026-07-01T17:46:39.275Z",
     "last_updated_by": "YATG"
   }
 }
