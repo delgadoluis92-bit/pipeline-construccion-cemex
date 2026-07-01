@@ -980,6 +980,11 @@
           "ts": "2026-06-22",
           "text": "Presentación v1 de conceptual con Hector y equipo de Operaciones",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-01",
+          "text": "Presentación V2 a Hector y Miguel, director de operaciones, Ya se estan revisando estos comentarios junto a Cal y Mayor",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -996,10 +1001,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-22",
+      "fecha_update": "2026-07-01",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Presentación v1 de conceptual con Hector y equipo de Operaciones"
+      "comentario": "Presentación V2 a Hector y Miguel, director de operaciones, Ya se estan revisando estos comentarios junto a Cal y Mayor"
     },
     {
       "id": "p_mpn8s6nljvta",
@@ -5715,8 +5720,8 @@
     ]
   },
   "_metadata": {
-    "version": 622,
-    "last_updated": "2026-06-29T17:10:11.821Z",
-    "last_updated_by": "LCDC"
+    "version": 623,
+    "last_updated": "2026-07-01T17:44:59.611Z",
+    "last_updated_by": "YATG"
   }
 }
