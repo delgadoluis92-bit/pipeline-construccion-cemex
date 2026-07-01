@@ -7,6 +7,11 @@
           "ts": "2026-07-01",
           "text": "Se envía correo de presentacion para darnos de alta como proveedor directo",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-07-01",
+          "text": "Construcción de patios de almacenamiento de comntenedores",
+          "author": "MLR"
         }
       ],
       "importante_vale": "No",
@@ -26,7 +31,7 @@
       "fecha_update": "2026-07-01",
       "programa": "Patios y muelle TEC III",
       "fecha_arranque": "2026-07-01",
-      "comentario": "Se envía correo de presentacion para darnos de alta como proveedor directo"
+      "comentario": "Construcción de patios de almacenamiento de comntenedores"
     },
     {
       "id": "p_mr2gi2eyh6ft",
@@ -5824,8 +5829,8 @@
     ]
   },
   "_metadata": {
-    "version": 633,
-    "last_updated": "2026-07-01T19:18:03.713Z",
+    "version": 634,
+    "last_updated": "2026-07-01T19:18:39.032Z",
     "last_updated_by": "MLR"
   }
 }
