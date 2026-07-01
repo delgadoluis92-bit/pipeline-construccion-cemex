@@ -11,7 +11,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "MLR",
       "proyecto": "Ampliación de TEA SSA",
       "estatus": "01 - Prospección",
@@ -5857,8 +5857,8 @@
     ]
   },
   "_metadata": {
-    "version": 636,
-    "last_updated": "2026-07-01T19:20:04.584Z",
+    "version": 637,
+    "last_updated": "2026-07-01T19:20:19.833Z",
     "last_updated_by": "MLR"
   }
 }
