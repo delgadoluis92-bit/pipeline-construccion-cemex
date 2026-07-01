@@ -13,7 +13,7 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "MLR",
-      "proyecto": "ampliación de TEA SSA",
+      "proyecto": "Ampliación de TEA SSA",
       "estatus": "01 - Prospección",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
@@ -5857,8 +5857,8 @@
     ]
   },
   "_metadata": {
-    "version": 635,
-    "last_updated": "2026-07-01T19:19:58.720Z",
+    "version": 636,
+    "last_updated": "2026-07-01T19:20:04.584Z",
     "last_updated_by": "MLR"
   }
 }
