@@ -77,7 +77,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "MLR",
       "proyecto": "Ampliación de TEC I HUTCHINSON PORTS LC.",
       "estatus": "01 - Prospección",
@@ -5857,8 +5857,8 @@
     ]
   },
   "_metadata": {
-    "version": 638,
-    "last_updated": "2026-07-01T19:20:21.135Z",
+    "version": 639,
+    "last_updated": "2026-07-01T19:20:23.104Z",
     "last_updated_by": "MLR"
   }
 }
