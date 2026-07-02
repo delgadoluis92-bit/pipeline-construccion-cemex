@@ -603,6 +603,11 @@
           "ts": "2026-07-02",
           "text": "Se presentará el proyecto a un DRO de Tijuana para que presente el estudio a la autoridad. \nContinuamos con la cotización del llave en mano en asfalto por parte de industriales.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-02",
+          "text": "Se hizo entrega de presupuesto de asfalto y concreto. La Gerente de Riesgos de Manufactura y Crisis, presentará al Municipip y evaluar las alternativas. CEMEX Consrucción Infraestructura, manifesto el interes de participar en la licitación, sin embargo, no hay mucho interés por parte de la operación de hacer la vialidad.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -610,7 +615,7 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Ave. Del Trabajo",
-      "estatus": "01 - Prospección",
+      "estatus": "08 - Descartado / Inviable",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Urbanización",
       "cliente": "CX - Atotonilco",
@@ -622,7 +627,7 @@
       "fecha_update": "2026-07-02",
       "programa": "Proyecto Interno",
       "fecha_arranque": "2027-03-03",
-      "comentario": "Se presentará el proyecto a un DRO de Tijuana para que presente el estudio a la autoridad. \nContinuamos con la cotización del llave en mano en asfalto por parte de industriales."
+      "comentario": "Se hizo entrega de presupuesto de asfalto y concreto. La Gerente de Riesgos de Manufactura y Crisis, presentará al Municipip y evaluar las alternativas. CEMEX Consrucción Infraestructura, manifesto el interes de participar en la licitación, sin embargo, no hay mucho interés por parte de la operación de hacer la vialidad."
     },
     {
       "id": "p_mpvlzf8l9bc5",
@@ -5877,8 +5882,8 @@
     ]
   },
   "_metadata": {
-    "version": 649,
-    "last_updated": "2026-07-02T17:30:25.232Z",
+    "version": 650,
+    "last_updated": "2026-07-02T17:30:44.948Z",
     "last_updated_by": "JDDO"
   }
 }
