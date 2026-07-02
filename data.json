@@ -70,7 +70,7 @@
           "author": "MLR"
         }
       ],
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "MLR",
@@ -5917,8 +5917,8 @@
     ]
   },
   "_metadata": {
-    "version": 656,
-    "last_updated": "2026-07-02T23:57:17.725Z",
+    "version": 657,
+    "last_updated": "2026-07-02T23:57:20.117Z",
     "last_updated_by": "MLR"
   }
 }
