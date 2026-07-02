@@ -211,24 +211,31 @@
     },
     {
       "id": "p_mqrbcbu7qq9x",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-07-02",
+          "text": "Se compartió propuesta con venta $8.5 MDP. considerando 3 meses de trabajo.",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Tanque",
-      "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "estatus": "03 - Licitación",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Otros",
+      "cliente": "kks-fujita.com",
+      "region": "Centro - Sureste",
+      "estado": "Guanajuato",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-06-24",
+      "prioridad": 2,
+      "fecha_update": "2026-07-02",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Se compartió propuesta con venta $8.5 MDP. considerando 3 meses de trabajo."
     },
     {
       "id": "p_mqpfeedbiz6f",
@@ -5882,8 +5889,8 @@
     ]
   },
   "_metadata": {
-    "version": 652,
-    "last_updated": "2026-07-02T17:31:19.757Z",
-    "last_updated_by": "JDDO"
+    "version": 653,
+    "last_updated": "2026-07-02T20:44:22.358Z",
+    "last_updated_by": "YATG"
   }
 }
