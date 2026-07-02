@@ -734,6 +734,11 @@
           "ts": "2026-06-29",
           "text": "Estamos en espera de retroalimentación por parte de Soluciones Integrales Pácifico.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-02",
+          "text": "El proyect se puso en Standby. \nSe tuvo retroalimentación de parte del cliente y lamentablemente no pudieron llegar a un acuerdo con la dependencia.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -741,7 +746,7 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Lib. Imuris - Cananea",
-      "estatus": "01 - Prospección",
+      "estatus": "07 - TBD (Largo Plazo)",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "Construplan",
@@ -749,11 +754,11 @@
       "estado": "Sonora",
       "concreto_total": 62,
       "anio": 2027,
-      "prioridad": 2,
-      "fecha_update": "2026-06-29",
+      "prioridad": 3,
+      "fecha_update": "2026-07-02",
       "programa": null,
       "fecha_arranque": "2027-01-01",
-      "comentario": "Estamos en espera de retroalimentación por parte de Soluciones Integrales Pácifico."
+      "comentario": "El proyect se puso en Standby. \nSe tuvo retroalimentación de parte del cliente y lamentablemente no pudieron llegar a un acuerdo con la dependencia."
     },
     {
       "id": "p_mpvg43hyg90d",
@@ -5867,8 +5872,8 @@
     ]
   },
   "_metadata": {
-    "version": 647,
-    "last_updated": "2026-07-02T17:26:35.846Z",
+    "version": 648,
+    "last_updated": "2026-07-02T17:29:22.041Z",
     "last_updated_by": "JDDO"
   }
 }
