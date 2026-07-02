@@ -3859,9 +3859,9 @@
       "region": "Pacífico",
       "estado": "Colima",
       "concreto_total": 550,
-      "fecha_update": "2026-07-01",
+      "fecha_update": "2026-07-02",
       "anio": 2027,
-      "comentario": "Actualmente el proyecto de la expansión a la laguna Cuyutlán se encuentra DETENIDOpor protestas sociales (pesqueros) y condicionado por la SEMARNAT",
+      "comentario": "Se manda correo para dar de alta a CEMEX como proveedor. Ellos contestan con un correo de bienvenida y emitiendo el correo al área de proveedores correspondientes\n ogonzalez@cmsa.ictsi.com",
       "programa": "proyecto de la expansión a la laguna Cuyutlán",
       "prioridad": 1,
       "ccr": null,
@@ -3893,6 +3893,11 @@
         {
           "ts": "2026-07-01",
           "text": "Actualmente el proyecto de la expansión a la laguna Cuyutlán se encuentra DETENIDOpor protestas sociales (pesqueros) y condicionado por la SEMARNAT",
+          "author": "MLR"
+        },
+        {
+          "ts": "2026-07-02",
+          "text": "Se manda correo para dar de alta a CEMEX como proveedor. Ellos contestan con un correo de bienvenida y emitiendo el correo al área de proveedores correspondientes\n ogonzalez@cmsa.ictsi.com",
           "author": "MLR"
         }
       ],
@@ -5917,8 +5922,8 @@
     ]
   },
   "_metadata": {
-    "version": 660,
-    "last_updated": "2026-07-02T23:57:44.734Z",
+    "version": 661,
+    "last_updated": "2026-07-02T23:58:21.095Z",
     "last_updated_by": "MLR"
   }
 }
