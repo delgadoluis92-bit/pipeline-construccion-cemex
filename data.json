@@ -593,6 +593,11 @@
           "ts": "2026-06-01",
           "text": "Se entrego presupuesto paramétrico con concreto hidráulico. \n\nSe solicita apoyo para presupuesto paramétrico  con asfalto.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-02",
+          "text": "Se hizo entrega de presupuesto de asfalto y concreto. La Gerente de Riesgos de Manufactura y Crisis, presentará al Municipip y evaluar las alternativas. CEMEX Consrucción Infraestructura, manifesto el interes de participar en la licitación, sin embargo, no hay mucho interés por parte de la operación de hacer la vialidad.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -609,10 +614,10 @@
       "concreto_total": 7,
       "anio": 2027,
       "prioridad": 3,
-      "fecha_update": "2027-03-10",
+      "fecha_update": "2026-07-02",
       "programa": "Proyecto Interno",
       "fecha_arranque": "2027-03-03",
-      "comentario": "Se entrego presupuesto paramétrico con concreto hidráulico. \n\nSe solicita apoyo para presupuesto paramétrico  con asfalto."
+      "comentario": "Se hizo entrega de presupuesto de asfalto y concreto. La Gerente de Riesgos de Manufactura y Crisis, presentará al Municipip y evaluar las alternativas. CEMEX Consrucción Infraestructura, manifesto el interes de participar en la licitación, sin embargo, no hay mucho interés por parte de la operación de hacer la vialidad."
     },
     {
       "id": "p_mpvlzf8l9bc5",
@@ -5857,8 +5862,8 @@
     ]
   },
   "_metadata": {
-    "version": 645,
-    "last_updated": "2026-07-01T19:20:33.961Z",
-    "last_updated_by": "MLR"
+    "version": 646,
+    "last_updated": "2026-07-02T17:23:25.023Z",
+    "last_updated_by": "JDDO"
   }
 }
