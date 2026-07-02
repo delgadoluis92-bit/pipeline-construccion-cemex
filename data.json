@@ -1747,7 +1747,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Roderas - DRT Campeche",
       "estatus": "06 - TBD (Corto Plazo)",
@@ -5882,8 +5882,8 @@
     ]
   },
   "_metadata": {
-    "version": 651,
-    "last_updated": "2026-07-02T17:31:15.369Z",
+    "version": 652,
+    "last_updated": "2026-07-02T17:31:19.757Z",
     "last_updated_by": "JDDO"
   }
 }
