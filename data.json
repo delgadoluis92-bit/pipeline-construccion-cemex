@@ -3821,7 +3821,7 @@
       ]
     },
     {
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "responsable": "MLR",
       "estatus": "01 - Prospección",
       "proyecto": "Nuevo Puerto de Manzanillo (Cuyutlan)",
@@ -5894,8 +5894,8 @@
     ]
   },
   "_metadata": {
-    "version": 662,
-    "last_updated": "2026-07-02T23:58:32.226Z",
+    "version": 663,
+    "last_updated": "2026-07-02T23:58:39.816Z",
     "last_updated_by": "MLR"
   }
 }
