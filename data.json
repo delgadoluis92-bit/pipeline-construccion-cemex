@@ -631,6 +631,11 @@
           "ts": "2026-06-01",
           "text": "Diseño, ingeniería y viabilidad del proyecto ante la CEI (Comisión Estatal de Infraestructura)",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-02",
+          "text": "Se presentará el proyecto a un DRO de Tijuana para que presente el estudio a la autoridad. Continuamos con la cotización del llave en mano en asfalto por parte de industriales.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -647,10 +652,10 @@
       "concreto_total": null,
       "anio": 2027,
       "prioridad": 2,
-      "fecha_update": "2027-01-01",
+      "fecha_update": "2026-07-02",
       "programa": "Proyecto Interno",
       "fecha_arranque": null,
-      "comentario": "Diseño, ingeniería y viabilidad del proyecto ante la CEI (Comisión Estatal de Infraestructura)"
+      "comentario": "Se presentará el proyecto a un DRO de Tijuana para que presente el estudio a la autoridad. Continuamos con la cotización del llave en mano en asfalto por parte de industriales."
     },
     {
       "id": "p_mpvjaeqtmw7b",
@@ -5872,8 +5877,8 @@
     ]
   },
   "_metadata": {
-    "version": 648,
-    "last_updated": "2026-07-02T17:29:22.041Z",
+    "version": 649,
+    "last_updated": "2026-07-02T17:30:25.232Z",
     "last_updated_by": "JDDO"
   }
 }
