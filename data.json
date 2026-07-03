@@ -518,7 +518,7 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Evaluación de Pavimento Concepción Pardiñas",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "08 - Descartado / Inviable",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Urbanización",
       "cliente": "CX - Tepeaca",
@@ -5899,8 +5899,8 @@
     ]
   },
   "_metadata": {
-    "version": 664,
-    "last_updated": "2026-07-03T00:58:46.805Z",
+    "version": 665,
+    "last_updated": "2026-07-03T00:58:57.576Z",
     "last_updated_by": "JDDO"
   }
 }
