@@ -20,7 +20,7 @@
       "cliente": "Cliente Soluciones Integrales",
       "region": "Pacífico",
       "estado": "Sonora",
-      "concreto_total": 0,
+      "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
       "fecha_update": "2026-07-03",
@@ -5927,8 +5927,8 @@
     ]
   },
   "_metadata": {
-    "version": 667,
-    "last_updated": "2026-07-03T01:13:30.869Z",
+    "version": 668,
+    "last_updated": "2026-07-03T01:17:26.992Z",
     "last_updated_by": "JDDO"
   }
 }
