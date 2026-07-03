@@ -506,6 +506,11 @@
           "ts": "2026-06-01",
           "text": "Evaluación de pavimento y elaboración de justificación técnica.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-03",
+          "text": "Se hizo la presentación a Director de Continuidad Operativa. Se dio la justificación de que el pavimento esta en buenas condiciones  y no es necesario hacer una rehabilitación del pavimento adoquinado existente. Solo esta pendiente la elaboración de oficio a gobierno Municipal.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -522,10 +527,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-01",
+      "fecha_update": "2026-07-03",
       "programa": "Proyecto Interno",
       "fecha_arranque": null,
-      "comentario": "Evaluación de pavimento y elaboración de justificación técnica."
+      "comentario": "Se hizo la presentación a Director de Continuidad Operativa. Se dio la justificación de que el pavimento esta en buenas condiciones  y no es necesario hacer una rehabilitación del pavimento adoquinado existente. Solo esta pendiente la elaboración de oficio a gobierno Municipal."
     },
     {
       "id": "p_mpvmbw5ptmxd",
@@ -5894,8 +5899,8 @@
     ]
   },
   "_metadata": {
-    "version": 663,
-    "last_updated": "2026-07-02T23:58:39.816Z",
-    "last_updated_by": "MLR"
+    "version": 664,
+    "last_updated": "2026-07-03T00:58:46.805Z",
+    "last_updated_by": "JDDO"
   }
 }
