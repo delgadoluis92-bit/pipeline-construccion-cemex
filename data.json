@@ -4810,9 +4810,9 @@
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": "2026-06-22",
+      "fecha_update": "2026-07-06",
       "anio": 2025,
-      "comentario": "Acceso de Parque. Conchello. Incluye una caseta de acceso y estacionamiento de 45 cajones",
+      "comentario": "Presentación final de proyecto conceptual. Se presenta a equipo Operaciones monto de proyecto ejecutivo para arranque de proyecto.",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -4825,6 +4825,11 @@
           "ts": "2026-05-15",
           "author": "YATG",
           "text": "Acceso de Parque. Conchello. Incluye una caseta de acceso y estacionamiento de 45 cajones"
+        },
+        {
+          "ts": "2026-07-06",
+          "text": "Presentación final de proyecto conceptual. Se presenta a equipo Operaciones monto de proyecto ejecutivo para arranque de proyecto.",
+          "author": "YATG"
         }
       ],
       "highlight": false,
@@ -5932,8 +5937,8 @@
     ]
   },
   "_metadata": {
-    "version": 672,
-    "last_updated": "2026-07-06T15:29:35.925Z",
+    "version": 673,
+    "last_updated": "2026-07-06T15:31:29.276Z",
     "last_updated_by": "YATG"
   }
 }
