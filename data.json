@@ -1413,6 +1413,11 @@
           "ts": "2026-06-22",
           "text": "Se está trabajando el plan de trabajo junto con el proyectista para arranque de proyecto.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-06",
+          "text": "Se envia correo a Elda para autorización de FIJOS de gente de proyecto para trabajar durante 6 meses",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1429,10 +1434,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-22",
+      "fecha_update": "2026-07-06",
       "programa": null,
       "fecha_arranque": "2026-07-15",
-      "comentario": "Se está trabajando el plan de trabajo junto con el proyectista para arranque de proyecto."
+      "comentario": "Se envia correo a Elda para autorización de FIJOS de gente de proyecto para trabajar durante 6 meses"
     },
     {
       "id": "p_mpn8qg55hqnl",
@@ -5937,8 +5942,8 @@
     ]
   },
   "_metadata": {
-    "version": 673,
-    "last_updated": "2026-07-06T15:31:29.276Z",
+    "version": 674,
+    "last_updated": "2026-07-06T15:32:17.765Z",
     "last_updated_by": "YATG"
   }
 }
