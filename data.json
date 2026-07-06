@@ -1620,6 +1620,11 @@
           "ts": "2026-05-28",
           "text": "Abril 2026- Se presentó propuesta concepctual adacuada con predimensionamiento estructural. En espera de comentarios de cliente y firma de cierre de conceptual para continuar con proyecto ejecutivo.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-06",
+          "text": "Se revisaron fijos con Alex Treviño",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1636,10 +1641,10 @@
       "concreto_total": 15.7,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-07-06",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Abril 2026- Se presentó propuesta concepctual adacuada con predimensionamiento estructural. En espera de comentarios de cliente y firma de cierre de conceptual para continuar con proyecto ejecutivo."
+      "comentario": "Se revisaron fijos con Alex Treviño"
     },
     {
       "id": "p_mpn8ny3cc5gm",
@@ -5947,8 +5952,8 @@
     ]
   },
   "_metadata": {
-    "version": 678,
-    "last_updated": "2026-07-06T15:33:48.461Z",
+    "version": 679,
+    "last_updated": "2026-07-06T15:34:40.180Z",
     "last_updated_by": "YATG"
   }
 }
