@@ -1347,6 +1347,11 @@
           "ts": "2026-05-28",
           "text": "Propuesta paramétrica de fachada y estructura prefabricada enviada el 26 de mayo.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-06",
+          "text": "Reunión de seguimiento/ presentación de propuesta con cliente. \nComenta- Proyecto en etapas finales de asignación. Comenta los primeros 6 meses en obras inducidas. La estructura del edificio se iniciará hasta enero 2027. Estructura Enero- terminar en Junio 2026. Fachada Junio-Agosto 2027. \nPresupuesto actual proyectado al triple. Tenemos que ver la forma de evaluar un sistema hibrido para lograr más eficiencias.",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1362,11 +1367,11 @@
       "estado": "Sonora",
       "concreto_total": 2.07,
       "anio": 2026,
-      "prioridad": 2,
-      "fecha_update": "2026-05-28",
+      "prioridad": 3,
+      "fecha_update": "2026-07-06",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Propuesta paramétrica de fachada y estructura prefabricada enviada el 26 de mayo."
+      "comentario": "Reunión de seguimiento/ presentación de propuesta con cliente. \nComenta- Proyecto en etapas finales de asignación. Comenta los primeros 6 meses en obras inducidas. La estructura del edificio se iniciará hasta enero 2027. Estructura Enero- terminar en Junio 2026. Fachada Junio-Agosto 2027. \nPresupuesto actual proyectado al triple. Tenemos que ver la forma de evaluar un sistema hibrido para lograr más eficiencias."
     },
     {
       "id": "p_mpn8r12x4kwt",
@@ -5959,8 +5964,8 @@
     ]
   },
   "_metadata": {
-    "version": 680,
-    "last_updated": "2026-07-06T15:34:52.437Z",
+    "version": 681,
+    "last_updated": "2026-07-06T23:52:11.814Z",
     "last_updated_by": "YATG"
   }
 }
