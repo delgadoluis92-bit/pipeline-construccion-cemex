@@ -1573,7 +1573,13 @@
     },
     {
       "id": "p_mpn8osldn7oc",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-07-06",
+          "text": "Se revisaron fijos con Alex Treviño",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
@@ -1588,9 +1594,10 @@
       "concreto_total": 12.45,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-05-26",
+      "fecha_update": "2026-07-06",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Se revisaron fijos con Alex Treviño"
     },
     {
       "id": "p_mpn8ogdltx09",
@@ -5952,8 +5959,8 @@
     ]
   },
   "_metadata": {
-    "version": 679,
-    "last_updated": "2026-07-06T15:34:40.180Z",
+    "version": 680,
+    "last_updated": "2026-07-06T15:34:52.437Z",
     "last_updated_by": "YATG"
   }
 }
