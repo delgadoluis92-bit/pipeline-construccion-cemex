@@ -1451,6 +1451,11 @@
           "ts": "2026-06-29",
           "text": "Se compartió el presupuesto de remodelación con un total de $1,419,456",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-06",
+          "text": "Se comparte con cliente proyecto ejecutivo. De igual manera se envió proyecto a abastos para licitación de obra",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1467,10 +1472,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-07-06",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se compartió el presupuesto de remodelación con un total de $1,419,456"
+      "comentario": "Se comparte con cliente proyecto ejecutivo. De igual manera se envió proyecto a abastos para licitación de obra"
     },
     {
       "id": "p_mpn8q6q14jkf",
@@ -5927,8 +5932,8 @@
     ]
   },
   "_metadata": {
-    "version": 670,
-    "last_updated": "2026-07-03T01:17:59.520Z",
-    "last_updated_by": "JDDO"
+    "version": 671,
+    "last_updated": "2026-07-06T15:27:34.894Z",
+    "last_updated_by": "YATG"
   }
 }
