@@ -1051,6 +1051,11 @@
           "ts": "2026-06-29",
           "text": "Prórroga para entrega de propuesta al 15 de Julio",
           "author": "SAAH"
+        },
+        {
+          "ts": "2026-07-09",
+          "text": "Se amplia catalogo, se incluyen  dos rodajes de asfalto y uno en concreto, se delimita el LEED boundary,  nueva fecha 20 julio",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -1067,10 +1072,10 @@
       "concreto_total": 10,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-07-09",
       "programa": null,
       "fecha_arranque": "2026-09-08",
-      "comentario": "Prórroga para entrega de propuesta al 15 de Julio"
+      "comentario": "Se amplia catalogo, se incluyen  dos rodajes de asfalto y uno en concreto, se delimita el LEED boundary,  nueva fecha 20 julio"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -5969,8 +5974,8 @@
     ]
   },
   "_metadata": {
-    "version": 682,
-    "last_updated": "2026-07-09T03:58:37.012Z",
+    "version": 683,
+    "last_updated": "2026-07-09T04:00:32.427Z",
     "last_updated_by": "LCDC"
   }
 }
