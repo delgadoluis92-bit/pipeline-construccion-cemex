@@ -1400,6 +1400,11 @@
           "ts": "2026-05-28",
           "text": "Propuesta paramétrica y conceptual compartida el 27 de Mayo. \nSe propone fase 1 y fase 2. Pendiente por enviar presupuesto paramétrico total.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-09",
+          "text": "Reunuón de presentación final conceptual para cliente. Se presento presupueto de proyecto y costos paramétricos de las 5 fases",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1416,10 +1421,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-07-09",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Propuesta paramétrica y conceptual compartida el 27 de Mayo. \nSe propone fase 1 y fase 2. Pendiente por enviar presupuesto paramétrico total."
+      "comentario": "Reunuón de presentación final conceptual para cliente. Se presento presupueto de proyecto y costos paramétricos de las 5 fases"
     },
     {
       "id": "p_mpn8qu09mr7n",
@@ -5989,8 +5994,8 @@
     ]
   },
   "_metadata": {
-    "version": 687,
-    "last_updated": "2026-07-09T17:43:11.523Z",
+    "version": 688,
+    "last_updated": "2026-07-09T17:43:42.449Z",
     "last_updated_by": "YATG"
   }
 }
