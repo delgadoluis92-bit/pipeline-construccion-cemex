@@ -74,11 +74,11 @@
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "MLR",
-      "proyecto": "Ampliación de TEC III APM",
+      "proyecto": "Ampliación de TEC III HUTCHINSON PORTS LC.",
       "estatus": "01 - Prospección",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
-      "cliente": "APM TERMINALS",
+      "cliente": "HUTCHINSON PORTS LC.",
       "region": "Pacífico",
       "estado": "Michoacan",
       "concreto_total": null,
@@ -5979,8 +5979,8 @@
     ]
   },
   "_metadata": {
-    "version": 684,
-    "last_updated": "2026-07-09T16:26:21.564Z",
+    "version": 685,
+    "last_updated": "2026-07-09T16:36:46.968Z",
     "last_updated_by": "MLR"
   }
 }
