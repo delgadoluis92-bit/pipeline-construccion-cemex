@@ -3901,9 +3901,9 @@
       "region": "Pacífico",
       "estado": "Colima",
       "concreto_total": 550,
-      "fecha_update": "2026-07-02",
+      "fecha_update": "2026-07-09",
       "anio": 2027,
-      "comentario": "Se manda correo para dar de alta a CEMEX como proveedor. Ellos contestan con un correo de bienvenida y emitiendo el correo al área de proveedores correspondientes\n ogonzalez@cmsa.ictsi.com",
+      "comentario": "Se consigue contacto de personal CEMEX que probablemente tenga contacto con la ASIPONA y operadores portuarios, para buscar entrar antes de que se liberen las obras",
       "programa": "proyecto de la expansión a la laguna Cuyutlán",
       "prioridad": 1,
       "ccr": null,
@@ -3940,6 +3940,11 @@
         {
           "ts": "2026-07-02",
           "text": "Se manda correo para dar de alta a CEMEX como proveedor. Ellos contestan con un correo de bienvenida y emitiendo el correo al área de proveedores correspondientes\n ogonzalez@cmsa.ictsi.com",
+          "author": "MLR"
+        },
+        {
+          "ts": "2026-07-09",
+          "text": "Se consigue contacto de personal CEMEX que probablemente tenga contacto con la ASIPONA y operadores portuarios, para buscar entrar antes de que se liberen las obras",
           "author": "MLR"
         }
       ],
@@ -5974,8 +5979,8 @@
     ]
   },
   "_metadata": {
-    "version": 683,
-    "last_updated": "2026-07-09T04:00:32.427Z",
-    "last_updated_by": "LCDC"
+    "version": 684,
+    "last_updated": "2026-07-09T16:26:21.564Z",
+    "last_updated_by": "MLR"
   }
 }
