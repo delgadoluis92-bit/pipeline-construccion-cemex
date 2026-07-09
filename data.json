@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_mrdsqega75zf",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Universidad UP",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-07-09",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mrdsq4ki8lq8",
       "history": [],
       "importante_vale": "No",
@@ -6015,8 +6036,8 @@
     ]
   },
   "_metadata": {
-    "version": 689,
-    "last_updated": "2026-07-09T17:44:01.698Z",
+    "version": 690,
+    "last_updated": "2026-07-09T17:44:14.506Z",
     "last_updated_by": "YATG"
   }
 }
