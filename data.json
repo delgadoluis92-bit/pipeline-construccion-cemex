@@ -216,6 +216,11 @@
           "ts": "2026-06-29",
           "text": "Presentar oferta también a GIA",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-07-09",
+          "text": "Precious liberado a VISE, GIA, LA PENINSULAR, URALES, ASFGDL Y PRODEMEX \n3 propuestas LT 26, LT27 y LA27",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -232,10 +237,10 @@
       "concreto_total": 15,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-07-09",
       "programa": null,
-      "fecha_arranque": null,
-      "comentario": "Presentar oferta también a GIA"
+      "fecha_arranque": "2026-10-01",
+      "comentario": "Precious liberado a VISE, GIA, LA PENINSULAR, URALES, ASFGDL Y PRODEMEX \n3 propuestas LT 26, LT27 y LA27"
     },
     {
       "id": "p_mqrbcbu7qq9x",
@@ -5964,8 +5969,8 @@
     ]
   },
   "_metadata": {
-    "version": 681,
-    "last_updated": "2026-07-06T23:52:11.814Z",
-    "last_updated_by": "YATG"
+    "version": 682,
+    "last_updated": "2026-07-09T03:58:37.012Z",
+    "last_updated_by": "LCDC"
   }
 }
