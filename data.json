@@ -254,6 +254,11 @@
           "ts": "2026-07-02",
           "text": "Se compartió propuesta con venta $8.5 MDP. considerando 3 meses de trabajo.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-09",
+          "text": "comenta david mazzoco \"para comentarte que ya está en rvisión del cliente, esperams únicamente autorización de la dependencia del proyecto para formalizar el proyecto\"",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -270,10 +275,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-02",
+      "fecha_update": "2026-07-09",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se compartió propuesta con venta $8.5 MDP. considerando 3 meses de trabajo."
+      "comentario": "comenta david mazzoco \"para comentarte que ya está en rvisión del cliente, esperams únicamente autorización de la dependencia del proyecto para formalizar el proyecto\""
     },
     {
       "id": "p_mqpfeedbiz6f",
@@ -5984,8 +5989,8 @@
     ]
   },
   "_metadata": {
-    "version": 686,
-    "last_updated": "2026-07-09T16:38:44.183Z",
-    "last_updated_by": "MLR"
+    "version": 687,
+    "last_updated": "2026-07-09T17:43:11.523Z",
+    "last_updated_by": "YATG"
   }
 }
