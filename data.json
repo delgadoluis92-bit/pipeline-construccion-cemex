@@ -383,6 +383,11 @@
           "ts": "2026-06-08",
           "text": "Por parte de Florencio, se transmite el detalle próximo de proyecto y se pide hacer la conversión a fin de licitar en CNC",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-07-10",
+          "text": "Se inicia aa validar con Edgar Williams la información técnica, info pendiente, adoro, mecanica de suelos",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "No",
@@ -399,10 +404,10 @@
       "concreto_total": 24,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-08",
+      "fecha_update": "2026-07-10",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Por parte de Florencio, se transmite el detalle próximo de proyecto y se pide hacer la conversión a fin de licitar en CNC"
+      "comentario": "Se inicia aa validar con Edgar Williams la información técnica, info pendiente, adoro, mecanica de suelos"
     },
     {
       "id": "p_mq5d1w0ne01k",
@@ -6036,8 +6041,8 @@
     ]
   },
   "_metadata": {
-    "version": 692,
-    "last_updated": "2026-07-09T21:59:44.908Z",
-    "last_updated_by": "MLR"
+    "version": 693,
+    "last_updated": "2026-07-10T17:36:50.665Z",
+    "last_updated_by": "LCDC"
   }
 }
