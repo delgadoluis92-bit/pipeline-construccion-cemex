@@ -1277,6 +1277,11 @@
           "ts": "2026-07-01",
           "text": "Presentación V2 a Hector y Miguel, director de operaciones, Ya se estan revisando estos comentarios junto a Cal y Mayor",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-13",
+          "text": "Compartirmos el faseo constructivo con el equipo de costos para iniciar con el presupuesto paramétrico de lo propuesto en el conceptual",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1293,10 +1298,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-01",
+      "fecha_update": "2026-07-13",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Presentación V2 a Hector y Miguel, director de operaciones, Ya se estan revisando estos comentarios junto a Cal y Mayor"
+      "comentario": "Compartirmos el faseo constructivo con el equipo de costos para iniciar con el presupuesto paramétrico de lo propuesto en el conceptual"
     },
     {
       "id": "p_mpn8s6nljvta",
@@ -6079,8 +6084,8 @@
     ]
   },
   "_metadata": {
-    "version": 699,
-    "last_updated": "2026-07-13T15:34:25.116Z",
+    "version": 700,
+    "last_updated": "2026-07-13T15:35:00.929Z",
     "last_updated_by": "YATG"
   }
 }
