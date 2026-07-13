@@ -5020,7 +5020,7 @@
           "author": "YATG"
         }
       ],
-      "highlight": true,
+      "highlight": false,
       "fecha_arranque": null
     },
     {
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 710,
-    "last_updated": "2026-07-13T15:43:34.305Z",
+    "version": 711,
+    "last_updated": "2026-07-13T15:43:52.088Z",
     "last_updated_by": "YATG"
   }
 }
