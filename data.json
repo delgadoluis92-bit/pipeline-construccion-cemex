@@ -4809,7 +4809,7 @@
       "proyecto": "Aut. Córdoba - Veracruz",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
-      "cliente": "SICT / BANOBRAS",
+      "cliente": "GAYPE (Demoliendo Mex)",
       "region": "Centro - Sureste",
       "estado": "Veracruz",
       "concreto_total": 36,
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 718,
-    "last_updated": "2026-07-13T16:10:32.601Z",
-    "last_updated_by": "YATG"
+    "version": 719,
+    "last_updated": "2026-07-13T16:11:05.882Z",
+    "last_updated_by": "JMSS"
   }
 }
