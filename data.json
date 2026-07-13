@@ -4830,7 +4830,7 @@
           "author": "JMSS"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 715,
-    "last_updated": "2026-07-13T16:09:19.815Z",
+    "version": 716,
+    "last_updated": "2026-07-13T16:09:39.704Z",
     "last_updated_by": "JMSS"
   }
 }
