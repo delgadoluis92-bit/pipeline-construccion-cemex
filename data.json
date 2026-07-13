@@ -458,7 +458,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Barda RUBA",
       "estatus": "01 - Prospección",
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 701,
-    "last_updated": "2026-07-13T15:36:08.265Z",
+    "version": 702,
+    "last_updated": "2026-07-13T15:40:14.281Z",
     "last_updated_by": "YATG"
   }
 }
