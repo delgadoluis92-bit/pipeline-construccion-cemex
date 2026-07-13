@@ -1618,7 +1618,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Auditorio y Estacionamiento IPADE",
       "estatus": "01 - Prospección",
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 705,
-    "last_updated": "2026-07-13T15:40:38.632Z",
+    "version": 706,
+    "last_updated": "2026-07-13T15:41:29.128Z",
     "last_updated_by": "YATG"
   }
 }
