@@ -449,6 +449,11 @@
           "ts": "2026-06-29",
           "text": "Visita a sitio con cliente. Se trabajará en propuesta aterrizada y a la par una propuesta de diseño en prefabricado con PREFAMOVIL",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-13",
+          "text": "Se tuvo reunión con cliente para presentar propuesta de construcción tradicional y prefabricado, parece interesarles construcción tradicional entonces se verá con soluciones si ellos pueden ejecutar la obra.",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -464,11 +469,11 @@
       "estado": "Estado de Mexico",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 3,
-      "fecha_update": "2026-06-29",
+      "prioridad": 2,
+      "fecha_update": "2026-07-13",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Visita a sitio con cliente. Se trabajará en propuesta aterrizada y a la par una propuesta de diseño en prefabricado con PREFAMOVIL"
+      "comentario": "Se tuvo reunión con cliente para presentar propuesta de construcción tradicional y prefabricado, parece interesarles construcción tradicional entonces se verá con soluciones si ellos pueden ejecutar la obra."
     },
     {
       "id": "p_mq59tqq0cqf2",
@@ -6084,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 700,
-    "last_updated": "2026-07-13T15:35:00.929Z",
+    "version": 701,
+    "last_updated": "2026-07-13T15:36:08.265Z",
     "last_updated_by": "YATG"
   }
 }
