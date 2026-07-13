@@ -4799,7 +4799,7 @@
       "id": "proj_98",
       "conversion_tecnica": false,
       "history": [],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 716,
-    "last_updated": "2026-07-13T16:09:39.704Z",
+    "version": 717,
+    "last_updated": "2026-07-13T16:09:46.581Z",
     "last_updated_by": "JMSS"
   }
 }
