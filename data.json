@@ -1566,6 +1566,11 @@
           "ts": "2026-07-06",
           "text": "Se comparte con cliente proyecto ejecutivo. De igual manera se envió proyecto a abastos para licitación de obra",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-13",
+          "text": "El equipo de costos se encuentran revisando el catálogo para tener techo presupuestal cuando nos entreguen costo los contratistas licitados por abastos",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1582,10 +1587,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-06",
+      "fecha_update": "2026-07-13",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se comparte con cliente proyecto ejecutivo. De igual manera se envió proyecto a abastos para licitación de obra"
+      "comentario": "El equipo de costos se encuentran revisando el catálogo para tener techo presupuestal cuando nos entreguen costo los contratistas licitados por abastos"
     },
     {
       "id": "p_mpn8q6q14jkf",
@@ -6069,8 +6074,8 @@
     ]
   },
   "_metadata": {
-    "version": 695,
-    "last_updated": "2026-07-13T15:28:48.914Z",
+    "version": 696,
+    "last_updated": "2026-07-13T15:30:05.164Z",
     "last_updated_by": "YATG"
   }
 }
