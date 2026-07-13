@@ -4932,7 +4932,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "YATG",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "100+ Acceso",
@@ -6074,8 +6074,8 @@
     ]
   },
   "_metadata": {
-    "version": 697,
-    "last_updated": "2026-07-13T15:30:08.697Z",
+    "version": 698,
+    "last_updated": "2026-07-13T15:30:18.169Z",
     "last_updated_by": "YATG"
   }
 }
