@@ -4978,9 +4978,9 @@
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": "2026-07-06",
+      "fecha_update": "2026-07-13",
       "anio": 2026,
-      "comentario": "Nos comenta equipo de operaciones que se encuentra en revisión protocolo de seguridad y será prioridad",
+      "comentario": "comenta Omar \"Hola @Mario Jesus Morales Sevilla, buenas tardes.\n\n \n\n               En principio comentamos de irnos con el presupuesto incluyendo la reja, a reserva de revisar el costo eléctrico con nuestra área de ingeniería y dejando la reja para el final, por el lado de los permisos estamos buscando a través de una gestora el permiso de ocupación de banqueta para la demolición de la zona 2.\n\n \n\nSaludos,\"",
       "programa": null,
       "prioridad": 1,
       "ccr": null,
@@ -5002,6 +5002,11 @@
         {
           "ts": "2026-07-06",
           "text": "Nos comenta equipo de operaciones que se encuentra en revisión protocolo de seguridad y será prioridad",
+          "author": "YATG"
+        },
+        {
+          "ts": "2026-07-13",
+          "text": "comenta Omar \"Hola @Mario Jesus Morales Sevilla, buenas tardes.\n\n \n\n               En principio comentamos de irnos con el presupuesto incluyendo la reja, a reserva de revisar el costo eléctrico con nuestra área de ingeniería y dejando la reja para el final, por el lado de los permisos estamos buscando a través de una gestora el permiso de ocupación de banqueta para la demolición de la zona 2.\n\n \n\nSaludos,\"",
           "author": "YATG"
         }
       ],
@@ -6074,8 +6079,8 @@
     ]
   },
   "_metadata": {
-    "version": 698,
-    "last_updated": "2026-07-13T15:30:18.169Z",
+    "version": 699,
+    "last_updated": "2026-07-13T15:34:25.116Z",
     "last_updated_by": "YATG"
   }
 }
