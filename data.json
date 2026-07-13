@@ -4803,7 +4803,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "No",
+      "importante_vale": "Sí",
       "responsable": "JMSS",
       "estatus": "04 - Negociación",
       "proyecto": "Aut. Córdoba - Veracruz",
@@ -6089,8 +6089,8 @@
     ]
   },
   "_metadata": {
-    "version": 714,
-    "last_updated": "2026-07-13T16:09:15.432Z",
+    "version": 715,
+    "last_updated": "2026-07-13T16:09:19.815Z",
     "last_updated_by": "JMSS"
   }
 }
