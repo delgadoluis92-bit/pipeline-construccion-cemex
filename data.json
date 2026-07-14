@@ -3878,7 +3878,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
+      "estatus": "08 - Descartado / Inviable",
       "proyecto": "Presupuesto \"Reconstrucción Riviera\"",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Secos",
@@ -3902,7 +3902,9 @@
           "author": "LCDC",
           "text": "Envio de carta de permanencia al Gral y Jefes de frente"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -6029,8 +6031,8 @@
     ]
   },
   "_metadata": {
-    "version": 726,
-    "last_updated": "2026-07-14T05:16:54.290Z",
+    "version": 727,
+    "last_updated": "2026-07-14T05:17:11.706Z",
     "last_updated_by": "LCDC"
   }
 }
