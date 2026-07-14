@@ -2506,37 +2506,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "PVR - Plataforma de Handling",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Pistas y rodajes",
-      "cliente": "GAP",
-      "region": "Pacífico",
-      "estado": "Jalisco",
-      "concreto_total": 15,
-      "fecha_update": "2026-05-18",
-      "anio": 2027,
-      "comentario": "Presupuesto base $350M",
-      "programa": null,
-      "prioridad": 1,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_18",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-18",
-          "author": "LCDC",
-          "text": "Presupuesto base $350M"
-        }
-      ],
-      "highlight": true,
-      "fecha_arranque": null
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "06 - TBD (Corto Plazo)",
       "proyecto": "PVR - Viaducto Elevado Terminal 2",
       "subsegmento": "Aeropuertos y Puertos",
@@ -6053,8 +6022,8 @@
     ]
   },
   "_metadata": {
-    "version": 723,
-    "last_updated": "2026-07-14T05:14:05.038Z",
+    "version": 724,
+    "last_updated": "2026-07-14T05:15:03.681Z",
     "last_updated_by": "LCDC"
   }
 }
