@@ -4096,7 +4096,7 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
+      "estatus": "08 - Descartado / Inviable",
       "proyecto": "Puerto Progreso - Construcción de Plataforma",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
@@ -4125,7 +4125,9 @@
           "author": "LCDC",
           "text": "Reunión con el Almirante a cargo, desean un esquema de financiamiento a pagarse con tarifa de uso de suelo del puerto. Dirección de Cadena de suministro ve inviable la expansión \"ya tenemos lo que necesitamos en progreso\""
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -6022,8 +6024,8 @@
     ]
   },
   "_metadata": {
-    "version": 724,
-    "last_updated": "2026-07-14T05:15:03.681Z",
+    "version": 725,
+    "last_updated": "2026-07-14T05:16:10.010Z",
     "last_updated_by": "LCDC"
   }
 }
