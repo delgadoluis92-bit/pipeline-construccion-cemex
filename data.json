@@ -7,6 +7,11 @@
           "ts": "2026-07-10",
           "text": "Se elabora propuesta economica de estudio de nivelación para Nave Industrial de Mercado Libre.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-14",
+          "text": "Se envia propuesta economica a DEWA para su revisión y VoBo",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -14,19 +19,19 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "HPC Floor Technical Requirements Checklist",
-      "estatus": "01 - Prospección",
+      "estatus": "04 - Negociación",
       "subsegmento": "Otros",
       "tipo": "Otros",
       "cliente": "DEWA",
       "region": "Centro - Sureste",
       "estado": "Hidalgo",
-      "concreto_total": 0,
+      "concreto_total": null,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-10",
+      "fecha_update": "2026-07-14",
       "programa": "Mercadolibre Floor",
       "fecha_arranque": "2026-07-20",
-      "comentario": "Se elabora propuesta economica de estudio de nivelación para Nave Industrial de Mercado Libre."
+      "comentario": "Se envia propuesta economica a DEWA para su revisión y VoBo"
     },
     {
       "id": "p_mrdsqega75zf",
@@ -6002,8 +6007,8 @@
     ]
   },
   "_metadata": {
-    "version": 728,
-    "last_updated": "2026-07-14T05:17:24.022Z",
-    "last_updated_by": "LCDC"
+    "version": 729,
+    "last_updated": "2026-07-14T23:33:02.377Z",
+    "last_updated_by": "JDDO"
   }
 }
