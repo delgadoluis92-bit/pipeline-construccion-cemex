@@ -2504,42 +2504,6 @@
       "fecha_arranque": "2026-11-28"
     },
     {
-      "importante_vale": "Sí",
-      "responsable": "LCDC",
-      "estatus": "02 - Desarrollo Ingenierías",
-      "proyecto": "PVR - Nuevos Rodajes T2",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Pistas y rodajes",
-      "cliente": "GAP",
-      "region": "Pacífico",
-      "estado": "Jalisco",
-      "concreto_total": 6,
-      "fecha_update": "2026-05-29",
-      "anio": 2026,
-      "comentario": "Desierta por quedar solo 2 propuestas, se relicitará",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_17",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2026-05-18",
-          "author": "LCDC",
-          "text": "Presupuesto base $130M"
-        },
-        {
-          "ts": "2026-05-29",
-          "text": "Desierta por quedar solo 2 propuestas, se relicitará",
-          "author": "LCDC"
-        }
-      ],
-      "highlight": false,
-      "fecha_arranque": null
-    },
-    {
       "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -6089,8 +6053,8 @@
     ]
   },
   "_metadata": {
-    "version": 722,
-    "last_updated": "2026-07-13T16:19:59.203Z",
-    "last_updated_by": "JMSS"
+    "version": 723,
+    "last_updated": "2026-07-14T05:14:05.038Z",
+    "last_updated_by": "LCDC"
   }
 }
