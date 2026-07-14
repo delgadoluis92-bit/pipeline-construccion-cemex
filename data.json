@@ -3999,35 +3999,6 @@
     {
       "importante_vale": "No",
       "responsable": "LCDC",
-      "estatus": "07 - TBD (Largo Plazo)",
-      "proyecto": "Puerto Altamira - Construcción Bloques 7&8",
-      "subsegmento": "Aeropuertos y Puertos",
-      "tipo": "Puertos Marinos",
-      "cliente": "PINFRA",
-      "region": "Norte - Bajío",
-      "estado": "Tamaulipas",
-      "concreto_total": 58,
-      "fecha_update": "2024-09-04",
-      "anio": 2025,
-      "comentario": "Etapas subsecuentes",
-      "programa": null,
-      "prioridad": null,
-      "ccr": null,
-      "base_estab": null,
-      "pavimento": null,
-      "id": "proj_68",
-      "conversion_tecnica": false,
-      "history": [
-        {
-          "ts": "2024-09-04",
-          "author": "LCDC",
-          "text": "Etapas subsecuentes"
-        }
-      ]
-    },
-    {
-      "importante_vale": "No",
-      "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Puerto Altamira - Construcción Bloques 5&6",
       "subsegmento": "Aeropuertos y Puertos",
@@ -6031,8 +6002,8 @@
     ]
   },
   "_metadata": {
-    "version": 727,
-    "last_updated": "2026-07-14T05:17:11.706Z",
+    "version": 728,
+    "last_updated": "2026-07-14T05:17:24.022Z",
     "last_updated_by": "LCDC"
   }
 }
