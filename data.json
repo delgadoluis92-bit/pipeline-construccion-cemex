@@ -459,6 +459,11 @@
           "ts": "2026-07-13",
           "text": "Se tuvo reunión con cliente para presentar propuesta de construcción tradicional y prefabricado, parece interesarles construcción tradicional entonces se verá con soluciones si ellos pueden ejecutar la obra.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Revisaremos condiciones comerciales con Soluciones Integrales para que pueda ejecutarlo",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -475,10 +480,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-13",
+      "fecha_update": "2026-07-16",
       "programa": null,
-      "fecha_arranque": null,
-      "comentario": "Se tuvo reunión con cliente para presentar propuesta de construcción tradicional y prefabricado, parece interesarles construcción tradicional entonces se verá con soluciones si ellos pueden ejecutar la obra."
+      "fecha_arranque": "2026-07-13",
+      "comentario": "Revisaremos condiciones comerciales con Soluciones Integrales para que pueda ejecutarlo"
     },
     {
       "id": "p_mq59tqq0cqf2",
@@ -6032,8 +6037,8 @@
     ]
   },
   "_metadata": {
-    "version": 736,
-    "last_updated": "2026-07-16T21:19:02.541Z",
+    "version": 737,
+    "last_updated": "2026-07-16T21:20:05.562Z",
     "last_updated_by": "YATG"
   }
 }
