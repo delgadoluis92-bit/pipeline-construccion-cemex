@@ -1006,6 +1006,11 @@
           "ts": "2026-06-29",
           "text": "Rodrigo comenta que posiblemente se reactivará en septiembre el proyecto",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Se trabajará en ajuste de monto pendiente para proyecto para persentarlo con cliente.",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1022,10 +1027,10 @@
       "concreto_total": 12,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-07-16",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Rodrigo comenta que posiblemente se reactivará en septiembre el proyecto"
+      "comentario": "Se trabajará en ajuste de monto pendiente para proyecto para persentarlo con cliente."
     },
     {
       "id": "p_mpvejq9a84xl",
@@ -6012,8 +6017,8 @@
     ]
   },
   "_metadata": {
-    "version": 730,
-    "last_updated": "2026-07-16T20:32:52.243Z",
+    "version": 731,
+    "last_updated": "2026-07-16T20:36:08.430Z",
     "last_updated_by": "YATG"
   }
 }
