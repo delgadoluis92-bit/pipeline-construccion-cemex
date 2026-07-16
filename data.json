@@ -4870,9 +4870,9 @@
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": "2026-07-06",
+      "fecha_update": "2026-07-16",
       "anio": 2025,
-      "comentario": "Presentación final de proyecto conceptual. Se presenta a equipo Operaciones monto de proyecto ejecutivo para arranque de proyecto.",
+      "comentario": "Se envió la propuesta de proyecto ejecutivo. Estamos en espera de OC para arrancar trabajos de proyecto.",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -4889,6 +4889,11 @@
         {
           "ts": "2026-07-06",
           "text": "Presentación final de proyecto conceptual. Se presenta a equipo Operaciones monto de proyecto ejecutivo para arranque de proyecto.",
+          "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Se envió la propuesta de proyecto ejecutivo. Estamos en espera de OC para arrancar trabajos de proyecto.",
           "author": "YATG"
         }
       ],
@@ -6007,8 +6012,8 @@
     ]
   },
   "_metadata": {
-    "version": 729,
-    "last_updated": "2026-07-14T23:33:02.377Z",
-    "last_updated_by": "JDDO"
+    "version": 730,
+    "last_updated": "2026-07-16T20:32:52.243Z",
+    "last_updated_by": "YATG"
   }
 }
