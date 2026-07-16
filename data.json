@@ -1434,6 +1434,11 @@
           "ts": "2026-06-29",
           "text": "Se tuvo reunión de presentación con cliente. Mencionan que ellos les cotizaron 100 millones con concreto y construcción por los 40,000 m2. Entonces este precio de referencia está muy abajo del precio mercado. De igual forma vamos a revisar la cotización",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Cliente busca un contratista que haga todo como \"destajo\"; dicho esto nuestra propuesta económica esta 3 veces más alta de lo que ellos buscan",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1441,7 +1446,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Fifty Doctors",
-      "estatus": "03 - Licitación",
+      "estatus": "08 - Descartado / Inviable",
       "subsegmento": "Edificación Pública",
       "tipo": "Salud",
       "cliente": "GRUPO ÁGUILA / SOLUCIONES",
@@ -1450,10 +1455,10 @@
       "concreto_total": 13.773,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-07-16",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se tuvo reunión de presentación con cliente. Mencionan que ellos les cotizaron 100 millones con concreto y construcción por los 40,000 m2. Entonces este precio de referencia está muy abajo del precio mercado. De igual forma vamos a revisar la cotización"
+      "comentario": "Cliente busca un contratista que haga todo como \"destajo\"; dicho esto nuestra propuesta económica esta 3 veces más alta de lo que ellos buscan"
     },
     {
       "id": "p_mpn8ra3td6qm",
@@ -6017,8 +6022,8 @@
     ]
   },
   "_metadata": {
-    "version": 731,
-    "last_updated": "2026-07-16T20:36:08.430Z",
+    "version": 732,
+    "last_updated": "2026-07-16T20:48:16.685Z",
     "last_updated_by": "YATG"
   }
 }
