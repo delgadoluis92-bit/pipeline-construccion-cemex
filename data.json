@@ -1651,6 +1651,11 @@
           "ts": "2026-06-24",
           "text": "Volumen de concreto:\nAuditorio- 2.7\nEstacionamiento- 2.99",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Propuesta de apoyo compartida con cliente. En espera de comentarios",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1667,10 +1672,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-24",
+      "fecha_update": "2026-07-16",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Volumen de concreto:\nAuditorio- 2.7\nEstacionamiento- 2.99"
+      "comentario": "Propuesta de apoyo compartida con cliente. En espera de comentarios"
     },
     {
       "id": "p_mpn8pyi1cmpp",
@@ -6049,8 +6054,8 @@
     ]
   },
   "_metadata": {
-    "version": 741,
-    "last_updated": "2026-07-16T21:25:17.115Z",
+    "version": 742,
+    "last_updated": "2026-07-16T21:25:32.843Z",
     "last_updated_by": "YATG"
   }
 }
