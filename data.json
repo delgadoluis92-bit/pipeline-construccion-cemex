@@ -56,24 +56,31 @@
     },
     {
       "id": "p_mrdsq4ki8lq8",
-      "history": [],
+      "history": [
+        {
+          "ts": "2026-07-16",
+          "text": "Se compartió 2 opciones de propuestas paramétricas sobre la solicitud. En espera de comentarios de cliente para detallar la propuesta de más interés",
+          "author": "YATG"
+        }
+      ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": true,
       "responsable": "YATG",
       "proyecto": "Estacionamiento Superficial NET",
       "estatus": "01 - Prospección",
-      "subsegmento": null,
-      "tipo": null,
-      "cliente": null,
-      "region": null,
-      "estado": null,
+      "subsegmento": "Otros",
+      "tipo": "Deportivos",
+      "cliente": "CEMEX NET",
+      "region": "Norte - Bajío",
+      "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": null,
-      "fecha_update": "2026-07-09",
+      "prioridad": 2,
+      "fecha_update": "2026-07-16",
       "programa": null,
-      "fecha_arranque": null
+      "fecha_arranque": null,
+      "comentario": "Se compartió 2 opciones de propuestas paramétricas sobre la solicitud. En espera de comentarios de cliente para detallar la propuesta de más interés"
     },
     {
       "id": "p_mr48p7g5ugzv",
@@ -6037,8 +6044,8 @@
     ]
   },
   "_metadata": {
-    "version": 737,
-    "last_updated": "2026-07-16T21:20:05.562Z",
+    "version": 738,
+    "last_updated": "2026-07-16T21:24:49.239Z",
     "last_updated_by": "YATG"
   }
 }
