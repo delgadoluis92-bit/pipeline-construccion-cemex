@@ -1472,6 +1472,11 @@
           "ts": "2026-07-06",
           "text": "Reunión de seguimiento/ presentación de propuesta con cliente. \nComenta- Proyecto en etapas finales de asignación. Comenta los primeros 6 meses en obras inducidas. La estructura del edificio se iniciará hasta enero 2027. Estructura Enero- terminar en Junio 2026. Fachada Junio-Agosto 2027. \nPresupuesto actual proyectado al triple. Tenemos que ver la forma de evaluar un sistema hibrido para lograr más eficiencias.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Se compartió nuevo cronograma de forma de trabajo. Dar seguimiento si ellos ya recibieron asignación de obra pero más importante, si nos pueden compartir su techo presupuestal cotizado en estructura para ver si entramos o no",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1488,10 +1493,10 @@
       "concreto_total": 2.07,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-07-06",
+      "fecha_update": "2026-07-16",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Reunión de seguimiento/ presentación de propuesta con cliente. \nComenta- Proyecto en etapas finales de asignación. Comenta los primeros 6 meses en obras inducidas. La estructura del edificio se iniciará hasta enero 2027. Estructura Enero- terminar en Junio 2026. Fachada Junio-Agosto 2027. \nPresupuesto actual proyectado al triple. Tenemos que ver la forma de evaluar un sistema hibrido para lograr más eficiencias."
+      "comentario": "Se compartió nuevo cronograma de forma de trabajo. Dar seguimiento si ellos ya recibieron asignación de obra pero más importante, si nos pueden compartir su techo presupuestal cotizado en estructura para ver si entramos o no"
     },
     {
       "id": "p_mpn8r12x4kwt",
@@ -6022,8 +6027,8 @@
     ]
   },
   "_metadata": {
-    "version": 733,
-    "last_updated": "2026-07-16T20:55:36.933Z",
+    "version": 734,
+    "last_updated": "2026-07-16T20:56:19.815Z",
     "last_updated_by": "YATG"
   }
 }
