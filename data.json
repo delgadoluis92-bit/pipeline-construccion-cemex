@@ -1735,6 +1735,11 @@
           "ts": "2026-07-06",
           "text": "Se revisaron fijos con Alex Treviño",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-07-16",
+          "text": "Se ajustaron FIJOS de acuerdo a nuevos m2 del edificio",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1751,10 +1756,10 @@
       "concreto_total": 12.45,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-06",
+      "fecha_update": "2026-07-16",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se revisaron fijos con Alex Treviño"
+      "comentario": "Se ajustaron FIJOS de acuerdo a nuevos m2 del edificio"
     },
     {
       "id": "p_mpn8ogdltx09",
@@ -6044,8 +6049,8 @@
     ]
   },
   "_metadata": {
-    "version": 739,
-    "last_updated": "2026-07-16T21:24:54.092Z",
+    "version": 740,
+    "last_updated": "2026-07-16T21:25:11.368Z",
     "last_updated_by": "YATG"
   }
 }
