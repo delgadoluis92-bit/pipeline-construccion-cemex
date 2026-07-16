@@ -390,12 +390,12 @@
           "author": "YATG"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "GDL - Estacionamiento empleados",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "10 - Ejecución",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Urbanización",
       "cliente": "GAP",
@@ -403,7 +403,7 @@
       "estado": "Jalisco",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 2,
+      "prioridad": 1,
       "fecha_update": "2026-07-01",
       "programa": null,
       "fecha_arranque": null,
@@ -6027,8 +6027,8 @@
     ]
   },
   "_metadata": {
-    "version": 734,
-    "last_updated": "2026-07-16T20:56:19.815Z",
+    "version": 735,
+    "last_updated": "2026-07-16T21:14:49.229Z",
     "last_updated_by": "YATG"
   }
 }
