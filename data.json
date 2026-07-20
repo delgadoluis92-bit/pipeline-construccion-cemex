@@ -4026,9 +4026,9 @@
       "region": "Pacífico",
       "estado": "Colima",
       "concreto_total": 550,
-      "fecha_update": "2026-07-09",
+      "fecha_update": "2026-07-20",
       "anio": 2027,
-      "comentario": "Se consigue contacto de personal CEMEX que probablemente tenga contacto con la ASIPONA y operadores portuarios, para buscar entrar antes de que se liberen las obras",
+      "comentario": "Se tiene contacto con el equipo de Soluciones Integrales Pacifico - los cuales ya tenian por medio de Carlos Vargas parte del proyecto del Puerto, se trabajará en equipo",
       "programa": "proyecto de la expansión a la laguna Cuyutlán",
       "prioridad": 1,
       "ccr": null,
@@ -4070,6 +4070,11 @@
         {
           "ts": "2026-07-09",
           "text": "Se consigue contacto de personal CEMEX que probablemente tenga contacto con la ASIPONA y operadores portuarios, para buscar entrar antes de que se liberen las obras",
+          "author": "MLR"
+        },
+        {
+          "ts": "2026-07-20",
+          "text": "Se tiene contacto con el equipo de Soluciones Integrales Pacifico - los cuales ya tenian por medio de Carlos Vargas parte del proyecto del Puerto, se trabajará en equipo",
           "author": "MLR"
         }
       ],
@@ -6087,8 +6092,8 @@
     ]
   },
   "_metadata": {
-    "version": 759,
-    "last_updated": "2026-07-20T15:29:10.611Z",
+    "version": 760,
+    "last_updated": "2026-07-20T15:32:57.042Z",
     "last_updated_by": "MLR"
   }
 }
