@@ -221,6 +221,11 @@
           "ts": "2026-07-20",
           "text": "Se está cotizando los concretos en sitio \n(la licitación solicita 2 plantas), asi mismo se generará la cotización de colocación de MR",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-07-20",
+          "text": "Compromiso de entrga para propuesta de colocación al 23julio",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -240,7 +245,7 @@
       "fecha_update": "2026-07-20",
       "programa": "Patios y muelle TEC III",
       "fecha_arranque": "2026-07-01",
-      "comentario": "Se está cotizando los concretos en sitio \n(la licitación solicita 2 plantas), asi mismo se generará la cotización de colocación de MR"
+      "comentario": "Compromiso de entrga para propuesta de colocación al 23julio"
     },
     {
       "id": "p_mr2di28e7i64",
@@ -6092,8 +6097,8 @@
     ]
   },
   "_metadata": {
-    "version": 761,
-    "last_updated": "2026-07-20T15:33:29.468Z",
-    "last_updated_by": "MLR"
+    "version": 762,
+    "last_updated": "2026-07-20T15:54:38.715Z",
+    "last_updated_by": "LCDC"
   }
 }
