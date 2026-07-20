@@ -2150,7 +2150,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "Marina Costa Baja",
@@ -6107,8 +6107,8 @@
     ]
   },
   "_metadata": {
-    "version": 768,
-    "last_updated": "2026-07-20T15:58:01.603Z",
+    "version": 769,
+    "last_updated": "2026-07-20T15:58:04.261Z",
     "last_updated_by": "LCDC"
   }
 }
