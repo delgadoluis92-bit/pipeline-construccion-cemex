@@ -91,9 +91,9 @@
           "author": "YATG"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "YATG",
       "proyecto": "Estacionamiento Superficial NET",
       "estatus": "01 - Prospección",
@@ -6082,8 +6082,8 @@
     ]
   },
   "_metadata": {
-    "version": 749,
-    "last_updated": "2026-07-18T07:14:03.567Z",
-    "last_updated_by": "JDDO"
+    "version": 751,
+    "last_updated": "2026-07-20T15:11:09.120Z",
+    "last_updated_by": "YATG"
   }
 }
