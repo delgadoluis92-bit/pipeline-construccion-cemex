@@ -225,7 +225,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "MLR",
       "proyecto": "Ampliación de TEC III APM / OHLA-Chinos",
       "estatus": "03 - Licitación",
@@ -6087,8 +6087,8 @@
     ]
   },
   "_metadata": {
-    "version": 758,
-    "last_updated": "2026-07-20T15:29:05.682Z",
+    "version": 759,
+    "last_updated": "2026-07-20T15:29:10.611Z",
     "last_updated_by": "MLR"
   }
 }
