@@ -216,14 +216,19 @@
           "ts": "2026-07-01",
           "text": "Se envía correo de presentacion para darnos de alta como proveedor directo",
           "author": "MLR"
+        },
+        {
+          "ts": "2026-07-20",
+          "text": "Se está cotizando los concretos en sitio \n(la licitación solicita 2 plantas), asi mismo se generará la cotización de colocación de MR",
+          "author": "MLR"
         }
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "MLR",
-      "proyecto": "Ampliación de TEC III APM",
-      "estatus": "01 - Prospección",
+      "proyecto": "Ampliación de TEC III APM / OHLA-Chinos",
+      "estatus": "03 - Licitación",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
       "cliente": "APM TERMINALS",
@@ -232,10 +237,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-01",
-      "programa": "Patios y muelle TEC I",
+      "fecha_update": "2026-07-20",
+      "programa": "Patios y muelle TEC III",
       "fecha_arranque": "2026-07-01",
-      "comentario": "Se envía correo de presentacion para darnos de alta como proveedor directo"
+      "comentario": "Se está cotizando los concretos en sitio \n(la licitación solicita 2 plantas), asi mismo se generará la cotización de colocación de MR"
     },
     {
       "id": "p_mr2di28e7i64",
@@ -6082,8 +6087,8 @@
     ]
   },
   "_metadata": {
-    "version": 757,
-    "last_updated": "2026-07-20T15:12:53.869Z",
-    "last_updated_by": "YATG"
+    "version": 758,
+    "last_updated": "2026-07-20T15:29:05.682Z",
+    "last_updated_by": "MLR"
   }
 }
