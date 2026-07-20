@@ -2939,7 +2939,7 @@
           "author": "SAAH"
         }
       ],
-      "highlight": false,
+      "highlight": true,
       "fecha_arranque": null
     },
     {
@@ -6107,8 +6107,8 @@
     ]
   },
   "_metadata": {
-    "version": 766,
-    "last_updated": "2026-07-20T15:56:29.997Z",
+    "version": 767,
+    "last_updated": "2026-07-20T15:56:46.865Z",
     "last_updated_by": "LCDC"
   }
 }
