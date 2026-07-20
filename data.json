@@ -64,7 +64,7 @@
     {
       "id": "p_mrdsqega75zf",
       "history": [],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "YATG",
@@ -6082,8 +6082,8 @@
     ]
   },
   "_metadata": {
-    "version": 754,
-    "last_updated": "2026-07-20T15:12:08.295Z",
+    "version": 755,
+    "last_updated": "2026-07-20T15:12:13.236Z",
     "last_updated_by": "YATG"
   }
 }
