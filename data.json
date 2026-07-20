@@ -1206,6 +1206,11 @@
           "ts": "2026-07-09",
           "text": "Se amplia catalogo, se incluyen  dos rodajes de asfalto y uno en concreto, se delimita el LEED boundary,  nueva fecha 20 julio",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-07-20",
+          "text": "Nueva fecha de presentación al juves 23 julio",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -1222,10 +1227,10 @@
       "concreto_total": 10,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-09",
+      "fecha_update": "2026-07-20",
       "programa": null,
       "fecha_arranque": "2026-09-08",
-      "comentario": "Se amplia catalogo, se incluyen  dos rodajes de asfalto y uno en concreto, se delimita el LEED boundary,  nueva fecha 20 julio"
+      "comentario": "Nueva fecha de presentación al juves 23 julio"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -6097,8 +6102,8 @@
     ]
   },
   "_metadata": {
-    "version": 762,
-    "last_updated": "2026-07-20T15:54:38.715Z",
+    "version": 763,
+    "last_updated": "2026-07-20T15:55:43.367Z",
     "last_updated_by": "LCDC"
   }
 }
