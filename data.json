@@ -308,6 +308,11 @@
           "ts": "2026-06-29",
           "text": "Monto por asignarse de manera directa por la diferencia entre contrato de Adolf Horn.",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-07-20",
+          "text": "Extraordinario en revisión por parte de GAP",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "No",
@@ -324,10 +329,10 @@
       "concreto_total": 1,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-07-20",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Monto por asignarse de manera directa por la diferencia entre contrato de Adolf Horn."
+      "comentario": "Extraordinario en revisión por parte de GAP"
     },
     {
       "id": "p_mqzfddzfzxzb",
@@ -6102,8 +6107,8 @@
     ]
   },
   "_metadata": {
-    "version": 765,
-    "last_updated": "2026-07-20T15:56:03.618Z",
+    "version": 766,
+    "last_updated": "2026-07-20T15:56:29.997Z",
     "last_updated_by": "LCDC"
   }
 }
