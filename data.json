@@ -1275,7 +1275,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Barda y Parque Santo Domingo",
       "estatus": "01 - Prospección",
@@ -6082,8 +6082,8 @@
     ]
   },
   "_metadata": {
-    "version": 751,
-    "last_updated": "2026-07-20T15:11:09.120Z",
+    "version": 752,
+    "last_updated": "2026-07-20T15:11:20.191Z",
     "last_updated_by": "YATG"
   }
 }
