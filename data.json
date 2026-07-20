@@ -427,7 +427,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "YATG",
       "proyecto": "GDL - Estacionamiento empleados",
       "estatus": "10 - Ejecución",
@@ -6082,8 +6082,8 @@
     ]
   },
   "_metadata": {
-    "version": 755,
-    "last_updated": "2026-07-20T15:12:13.236Z",
+    "version": 756,
+    "last_updated": "2026-07-20T15:12:22.116Z",
     "last_updated_by": "YATG"
   }
 }
