@@ -2073,7 +2073,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "LCDC",
       "estatus": "05 - Cerrado",
       "proyecto": "Lib. Sur Colima",
@@ -6107,8 +6107,8 @@
     ]
   },
   "_metadata": {
-    "version": 767,
-    "last_updated": "2026-07-20T15:56:46.865Z",
+    "version": 768,
+    "last_updated": "2026-07-20T15:58:01.603Z",
     "last_updated_by": "LCDC"
   }
 }
