@@ -470,7 +470,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": true,
-      "highlight": false,
+      "highlight": true,
       "responsable": "LCDC",
       "proyecto": "SJD - Conversión vialidad ingreso apto",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -6102,8 +6102,8 @@
     ]
   },
   "_metadata": {
-    "version": 763,
-    "last_updated": "2026-07-20T15:55:43.367Z",
+    "version": 764,
+    "last_updated": "2026-07-20T15:55:57.487Z",
     "last_updated_by": "LCDC"
   }
 }
