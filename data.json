@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mrvdi9w5caog",
+      "history": [
+        {
+          "ts": "2026-07-22",
+          "text": "Se presentará una propuesta de ensanche y sello a los agrietamientos longitudinales del Km 6+000 al km 6+500 sobre carril confinado DRT. Aunque no es la solución adecuado, el cliente lo silicitó para dar tranquilad a su cliente.",
+          "author": "JDDO"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "JDDO",
+      "proyecto": "Sello de agrietamientos longiotudinales",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Carreteras",
+      "cliente": "Mota Engil México (MEM)",
+      "region": "Centro - Sureste",
+      "estado": "Campeche",
+      "concreto_total": 0,
+      "anio": 2026,
+      "prioridad": 1,
+      "fecha_update": "2026-07-22",
+      "programa": "Mantenimiento agrietmaientos",
+      "fecha_arranque": "2026-09-01",
+      "comentario": "Se presentará una propuesta de ensanche y sello a los agrietamientos longitudinales del Km 6+000 al km 6+500 sobre carril confinado DRT. Aunque no es la solución adecuado, el cliente lo silicitó para dar tranquilad a su cliente."
+    },
+    {
       "id": "p_mro0v0lybvdg",
       "history": [
         {
@@ -6107,8 +6135,8 @@
     ]
   },
   "_metadata": {
-    "version": 769,
-    "last_updated": "2026-07-20T15:58:04.261Z",
-    "last_updated_by": "LCDC"
+    "version": 770,
+    "last_updated": "2026-07-22T00:57:52.278Z",
+    "last_updated_by": "JDDO"
   }
 }
