@@ -7,6 +7,11 @@
           "ts": "2026-07-22",
           "text": "Se presentará una propuesta de ensanche y sello a los agrietamientos longitudinales del Km 6+000 al km 6+500 sobre carril confinado DRT. Aunque no es la solución adecuado, el cliente lo silicitó para dar tranquilad a su cliente.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-07-22",
+          "text": "El proyecto en caso de cerrarse, lo estará ejecutando Soluciones Integrales Centro Sur",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -20,13 +25,13 @@
       "cliente": "Mota Engil México (MEM)",
       "region": "Centro - Sureste",
       "estado": "Campeche",
-      "concreto_total": 0,
+      "concreto_total": null,
       "anio": 2026,
       "prioridad": 1,
       "fecha_update": "2026-07-22",
       "programa": "Mantenimiento agrietmaientos",
       "fecha_arranque": "2026-09-01",
-      "comentario": "Se presentará una propuesta de ensanche y sello a los agrietamientos longitudinales del Km 6+000 al km 6+500 sobre carril confinado DRT. Aunque no es la solución adecuado, el cliente lo silicitó para dar tranquilad a su cliente."
+      "comentario": "El proyecto en caso de cerrarse, lo estará ejecutando Soluciones Integrales Centro Sur"
     },
     {
       "id": "p_mro0v0lybvdg",
@@ -6135,8 +6140,8 @@
     ]
   },
   "_metadata": {
-    "version": 770,
-    "last_updated": "2026-07-22T00:57:52.278Z",
+    "version": 771,
+    "last_updated": "2026-07-22T00:58:24.924Z",
     "last_updated_by": "JDDO"
   }
 }
