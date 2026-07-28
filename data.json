@@ -259,6 +259,11 @@
           "ts": "2026-07-20",
           "text": "Compromiso de entrga para propuesta de colocación al 23julio",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-07-28",
+          "text": "Se entrega informacion por parte de cliente para cotizacion de MR (colocación). CEMEX se compromete la entrega el 10 de agosto. OHLA entrega licitación 21 de Agosto",
+          "author": "MLR"
         }
       ],
       "importante_vale": "Sí",
@@ -275,10 +280,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-20",
+      "fecha_update": "2026-07-28",
       "programa": "Patios y muelle TEC III",
-      "fecha_arranque": "2026-07-01",
-      "comentario": "Compromiso de entrga para propuesta de colocación al 23julio"
+      "fecha_arranque": "2027-01-01",
+      "comentario": "Se entrega informacion por parte de cliente para cotizacion de MR (colocación). CEMEX se compromete la entrega el 10 de agosto. OHLA entrega licitación 21 de Agosto"
     },
     {
       "id": "p_mr2di28e7i64",
@@ -6140,8 +6145,8 @@
     ]
   },
   "_metadata": {
-    "version": 771,
-    "last_updated": "2026-07-22T00:58:24.924Z",
-    "last_updated_by": "JDDO"
+    "version": 772,
+    "last_updated": "2026-07-28T16:08:39.632Z",
+    "last_updated_by": "MLR"
   }
 }
