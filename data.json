@@ -277,7 +277,7 @@
       "cliente": "APM TERMINALS",
       "region": "Pacífico",
       "estado": "Michoacan",
-      "concreto_total": null,
+      "concreto_total": 6.6,
       "anio": 2026,
       "prioridad": 2,
       "fecha_update": "2026-07-28",
@@ -6145,8 +6145,8 @@
     ]
   },
   "_metadata": {
-    "version": 772,
-    "last_updated": "2026-07-28T16:08:39.632Z",
+    "version": 773,
+    "last_updated": "2026-07-28T16:09:17.439Z",
     "last_updated_by": "MLR"
   }
 }
