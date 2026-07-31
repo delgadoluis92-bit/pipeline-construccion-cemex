@@ -278,7 +278,7 @@
       "region": "Pacífico",
       "estado": "Michoacan",
       "concreto_total": 6.6,
-      "anio": 2026,
+      "anio": 2027,
       "prioridad": 2,
       "fecha_update": "2026-07-28",
       "programa": "Patios y muelle TEC III",
@@ -6145,8 +6145,8 @@
     ]
   },
   "_metadata": {
-    "version": 774,
-    "last_updated": "2026-07-31T15:48:20.559Z",
+    "version": 775,
+    "last_updated": "2026-07-31T15:49:08.285Z",
     "last_updated_by": "MLR"
   }
 }
