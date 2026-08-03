@@ -2068,6 +2068,11 @@
           "ts": "2026-06-29",
           "text": "Estamos en espera de VoBo de Joao (MEM)",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-08-03",
+          "text": "Actualización de PE con Soluciones de acuerdo con los cambios que solicita MEM",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "Sí",
@@ -2084,10 +2089,10 @@
       "concreto_total": 0.405,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-06-29",
+      "fecha_update": "2026-08-03",
       "programa": "DRT Campeche",
       "fecha_arranque": "2026-06-15",
-      "comentario": "Estamos en espera de VoBo de Joao (MEM)"
+      "comentario": "Actualización de PE con Soluciones de acuerdo con los cambios que solicita MEM"
     },
     {
       "importante_vale": "No",
@@ -6155,8 +6160,8 @@
     ]
   },
   "_metadata": {
-    "version": 780,
-    "last_updated": "2026-08-03T16:05:57.322Z",
-    "last_updated_by": "YATG"
+    "version": 781,
+    "last_updated": "2026-08-03T16:09:11.328Z",
+    "last_updated_by": "JDDO"
   }
 }
