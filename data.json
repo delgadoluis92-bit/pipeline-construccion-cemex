@@ -1329,6 +1329,11 @@
           "ts": "2026-07-16",
           "text": "Nos compartiran OC para arrancar proyecto.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-03",
+          "text": "Se recibió OC de parte de cliente, se gestionará arranque de proyecto",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1345,10 +1350,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-16",
+      "fecha_update": "2026-08-03",
       "programa": null,
       "fecha_arranque": "2026-06-15",
-      "comentario": "Nos compartiran OC para arrancar proyecto."
+      "comentario": "Se recibió OC de parte de cliente, se gestionará arranque de proyecto"
     },
     {
       "id": "p_mpn8sn5lw4o1",
@@ -6145,8 +6150,8 @@
     ]
   },
   "_metadata": {
-    "version": 778,
-    "last_updated": "2026-08-03T15:47:28.657Z",
+    "version": 779,
+    "last_updated": "2026-08-03T15:48:28.964Z",
     "last_updated_by": "YATG"
   }
 }
