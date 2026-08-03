@@ -884,6 +884,11 @@
           "ts": "2026-07-02",
           "text": "Se presentará el proyecto a un DRO de Tijuana para que presente el estudio a la autoridad. Continuamos con la cotización del llave en mano en asfalto por parte de industriales.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-08-03",
+          "text": "Se entrega presupuesto parametrico. Sigue pendiente cotización de estudios y reunión con clientes de asfalto para cotizar (Ricardo Meza)",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -900,10 +905,10 @@
       "concreto_total": null,
       "anio": 2027,
       "prioridad": 2,
-      "fecha_update": "2026-07-02",
+      "fecha_update": "2026-08-03",
       "programa": "Proyecto Interno",
       "fecha_arranque": null,
-      "comentario": "Se presentará el proyecto a un DRO de Tijuana para que presente el estudio a la autoridad. Continuamos con la cotización del llave en mano en asfalto por parte de industriales."
+      "comentario": "Se entrega presupuesto parametrico. Sigue pendiente cotización de estudios y reunión con clientes de asfalto para cotizar (Ricardo Meza)"
     },
     {
       "id": "p_mpvjaeqtmw7b",
@@ -6165,8 +6170,8 @@
     ]
   },
   "_metadata": {
-    "version": 784,
-    "last_updated": "2026-08-03T16:13:09.904Z",
+    "version": 785,
+    "last_updated": "2026-08-03T16:18:29.328Z",
     "last_updated_by": "JDDO"
   }
 }
