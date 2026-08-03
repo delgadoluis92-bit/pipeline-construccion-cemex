@@ -422,6 +422,11 @@
           "ts": "2026-07-09",
           "text": "comenta david mazzoco \"para comentarte que ya está en rvisión del cliente, esperams únicamente autorización de la dependencia del proyecto para formalizar el proyecto\"",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-03",
+          "text": "comenta David: Yaressi buen día…\n\n \n\nSaludándote y para comentarte, el proyecto se encuentra en la etapa de gestión para que el cliente puede adquirir el recurso para la construcción, seguimos atentos para los comentarios del cliente.\n\n \n\nQuedamos atentos cualquier duda o comentario.\n\n \n\nSaludos.",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -438,10 +443,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-09",
+      "fecha_update": "2026-08-03",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "comenta david mazzoco \"para comentarte que ya está en rvisión del cliente, esperams únicamente autorización de la dependencia del proyecto para formalizar el proyecto\""
+      "comentario": "comenta David: Yaressi buen día…\n\n \n\nSaludándote y para comentarte, el proyecto se encuentra en la etapa de gestión para que el cliente puede adquirir el recurso para la construcción, seguimos atentos para los comentarios del cliente.\n\n \n\nQuedamos atentos cualquier duda o comentario.\n\n \n\nSaludos."
     },
     {
       "id": "p_mqpfeedbiz6f",
@@ -6150,8 +6155,8 @@
     ]
   },
   "_metadata": {
-    "version": 779,
-    "last_updated": "2026-08-03T15:48:28.964Z",
+    "version": 780,
+    "last_updated": "2026-08-03T16:05:57.322Z",
     "last_updated_by": "YATG"
   }
 }
