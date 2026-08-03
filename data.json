@@ -846,6 +846,11 @@
           "ts": "2026-07-02",
           "text": "Se hizo entrega de presupuesto de asfalto y concreto. La Gerente de Riesgos de Manufactura y Crisis, presentará al Municipip y evaluar las alternativas. CEMEX Consrucción Infraestructura, manifesto el interes de participar en la licitación, sin embargo, no hay mucho interés por parte de la operación de hacer la vialidad.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-08-03",
+          "text": "Actualización de presupuesto a 1.4 km de los 3 originales.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -862,10 +867,10 @@
       "concreto_total": 7,
       "anio": 2027,
       "prioridad": 3,
-      "fecha_update": "2026-07-02",
+      "fecha_update": "2026-08-03",
       "programa": "Proyecto Interno",
       "fecha_arranque": "2027-03-03",
-      "comentario": "Se hizo entrega de presupuesto de asfalto y concreto. La Gerente de Riesgos de Manufactura y Crisis, presentará al Municipip y evaluar las alternativas. CEMEX Consrucción Infraestructura, manifesto el interes de participar en la licitación, sin embargo, no hay mucho interés por parte de la operación de hacer la vialidad."
+      "comentario": "Actualización de presupuesto a 1.4 km de los 3 originales."
     },
     {
       "id": "p_mpvlzf8l9bc5",
@@ -6160,8 +6165,8 @@
     ]
   },
   "_metadata": {
-    "version": 781,
-    "last_updated": "2026-08-03T16:09:11.328Z",
+    "version": 782,
+    "last_updated": "2026-08-03T16:09:53.147Z",
     "last_updated_by": "JDDO"
   }
 }
