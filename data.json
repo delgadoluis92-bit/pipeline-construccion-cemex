@@ -557,6 +557,11 @@
           "ts": "2026-07-16",
           "text": "Revisaremos condiciones comerciales con Soluciones Integrales para que pueda ejecutarlo",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-03",
+          "text": "comenta fer arce: \n\"Buen día Yare,\n\n \n\nSi, le he estado dando seguimiento, pero parece que la persona que lo revisa de parte de RUBA está de vacaciones, parece que regresa apenas este viernes, apenas sepamos algo les informamos, pero no quitamos el dedo del renglón.\n\n \n\nPendientes,\"",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -573,10 +578,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-16",
+      "fecha_update": "2026-08-03",
       "programa": null,
       "fecha_arranque": "2026-07-13",
-      "comentario": "Revisaremos condiciones comerciales con Soluciones Integrales para que pueda ejecutarlo"
+      "comentario": "comenta fer arce: \n\"Buen día Yare,\n\n \n\nSi, le he estado dando seguimiento, pero parece que la persona que lo revisa de parte de RUBA está de vacaciones, parece que regresa apenas este viernes, apenas sepamos algo les informamos, pero no quitamos el dedo del renglón.\n\n \n\nPendientes,\""
     },
     {
       "id": "p_mq59tqq0cqf2",
@@ -6170,8 +6175,8 @@
     ]
   },
   "_metadata": {
-    "version": 785,
-    "last_updated": "2026-08-03T16:18:29.328Z",
-    "last_updated_by": "JDDO"
+    "version": 786,
+    "last_updated": "2026-08-03T16:35:32.534Z",
+    "last_updated_by": "YATG"
   }
 }
