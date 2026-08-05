@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_msgbi1vxqqpb",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "JDDO",
+      "proyecto": "Agregado Reciclado - Proyecto COSMOPOL",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Carreteras y Vialidades",
+      "tipo": "Urbanización",
+      "cliente": "MIGDAL Arquitectos",
+      "region": "Centro - Sureste",
+      "estado": "Estado de Mexico",
+      "concreto_total": 0.5,
+      "anio": 2026,
+      "prioridad": 2,
+      "fecha_update": "2026-08-05",
+      "programa": "Se apoyo a la venta de Agregado Reciclado como subrasante para vialidades en el proyecto de vivienda horizontal en COSMOPOL. Se valido calidades y elaboración de documento para la justificación técnica.",
+      "fecha_arranque": null
+    },
+    {
       "id": "p_mrvdi9w5caog",
       "history": [
         {
@@ -6175,8 +6196,8 @@
     ]
   },
   "_metadata": {
-    "version": 786,
-    "last_updated": "2026-08-03T16:35:32.534Z",
-    "last_updated_by": "YATG"
+    "version": 787,
+    "last_updated": "2026-08-05T16:44:52.366Z",
+    "last_updated_by": "JDDO"
   }
 }
