@@ -353,7 +353,7 @@
       "highlight": true,
       "responsable": "MLR",
       "proyecto": "Desarrollo de la Isla de la Palma",
-      "estatus": "01 - Prospección",
+      "estatus": "07 - TBD (Largo Plazo)",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
       "cliente": "ASIPONA LC",
@@ -6224,8 +6224,8 @@
     ]
   },
   "_metadata": {
-    "version": 795,
-    "last_updated": "2026-08-10T19:48:42.049Z",
+    "version": 796,
+    "last_updated": "2026-08-10T19:48:54.676Z",
     "last_updated_by": "JMSS"
   }
 }
