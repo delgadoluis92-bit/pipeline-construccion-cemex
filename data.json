@@ -234,7 +234,7 @@
       "highlight": false,
       "responsable": "MLR",
       "proyecto": "Ampliación de TEA SSA",
-      "estatus": "01 - Prospección",
+      "estatus": "07 - TBD (Largo Plazo)",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
       "cliente": "SSA Marine México",
@@ -6224,8 +6224,8 @@
     ]
   },
   "_metadata": {
-    "version": 794,
-    "last_updated": "2026-08-10T19:48:32.231Z",
+    "version": 795,
+    "last_updated": "2026-08-10T19:48:42.049Z",
     "last_updated_by": "JMSS"
   }
 }
