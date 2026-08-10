@@ -4150,7 +4150,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "MLR",
-      "estatus": "01 - Prospección",
+      "estatus": "07 - TBD (Largo Plazo)",
       "proyecto": "Nuevo Puerto de Manzanillo (Cuyutlan)",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Puertos Marinos",
@@ -6224,8 +6224,8 @@
     ]
   },
   "_metadata": {
-    "version": 792,
-    "last_updated": "2026-08-10T16:08:37.582Z",
-    "last_updated_by": "YATG"
+    "version": 793,
+    "last_updated": "2026-08-10T19:48:26.912Z",
+    "last_updated_by": "JMSS"
   }
 }
