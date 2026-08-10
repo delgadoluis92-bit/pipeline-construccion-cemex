@@ -5113,7 +5113,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "YATG",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "100+ Bosque Conchello",
@@ -6224,8 +6224,8 @@
     ]
   },
   "_metadata": {
-    "version": 790,
-    "last_updated": "2026-08-10T16:08:05.039Z",
+    "version": 791,
+    "last_updated": "2026-08-10T16:08:26.998Z",
     "last_updated_by": "YATG"
   }
 }
