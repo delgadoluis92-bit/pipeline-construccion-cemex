@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_msnr0y7tktdr",
+      "history": [
+        {
+          "ts": "2026-08-10",
+          "text": "Se compartió la propuesta de calle con un costo paramétrico de 110 millones.",
+          "author": "YATG"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Vialidad Hospital Tula",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Urbanización",
+      "cliente": "IMSS",
+      "region": "Centro - Sureste",
+      "estado": "Hidalgo",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 2,
+      "fecha_update": "2026-08-10",
+      "programa": null,
+      "fecha_arranque": null,
+      "comentario": "Se compartió la propuesta de calle con un costo paramétrico de 110 millones."
+    },
+    {
       "id": "p_msnf7r7sfiq9",
       "history": [
         {
@@ -6224,8 +6252,8 @@
     ]
   },
   "_metadata": {
-    "version": 796,
-    "last_updated": "2026-08-10T19:48:54.676Z",
-    "last_updated_by": "JMSS"
+    "version": 797,
+    "last_updated": "2026-08-10T21:33:51.545Z",
+    "last_updated_by": "YATG"
   }
 }
