@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_msqdy0d8jk45",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Nave nestle- IDOM",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-08-12",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_msnr0y7tktdr",
       "history": [
         {
@@ -6252,8 +6273,8 @@
     ]
   },
   "_metadata": {
-    "version": 797,
-    "last_updated": "2026-08-10T21:33:51.545Z",
+    "version": 798,
+    "last_updated": "2026-08-12T17:50:57.884Z",
     "last_updated_by": "YATG"
   }
 }
