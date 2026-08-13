@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "id": "p_msrt2p50druq",
+      "history": [],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": "YATG",
+      "proyecto": "Estaciones seguras- nuevas ubicaciones",
+      "estatus": "01 - Prospección",
+      "subsegmento": null,
+      "tipo": null,
+      "cliente": null,
+      "region": null,
+      "estado": null,
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": null,
+      "fecha_update": "2026-08-13",
+      "programa": null,
+      "fecha_arranque": null
+    },
+    {
       "id": "p_msqdy0d8jk45",
       "history": [],
       "importante_vale": "No",
@@ -6273,8 +6294,8 @@
     ]
   },
   "_metadata": {
-    "version": 798,
-    "last_updated": "2026-08-12T17:50:57.884Z",
+    "version": 799,
+    "last_updated": "2026-08-13T17:42:17.029Z",
     "last_updated_by": "YATG"
   }
 }
