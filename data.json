@@ -470,6 +470,11 @@
           "ts": "2026-07-20",
           "text": "Extraordinario en revisión por parte de GAP",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-08-17",
+          "text": "Pensaban usar el remanente de contrato de Vialidades para contratar este alcance, priorizaron muchos Extraordinaros chicos y parece que se uso ese recurso. GAP valida nuevas formas de si hacerlo",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "No",
@@ -486,10 +491,10 @@
       "concreto_total": 1,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-20",
+      "fecha_update": "2026-08-17",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Extraordinario en revisión por parte de GAP"
+      "comentario": "Pensaban usar el remanente de contrato de Vialidades para contratar este alcance, priorizaron muchos Extraordinaros chicos y parece que se uso ese recurso. GAP valida nuevas formas de si hacerlo"
     },
     {
       "id": "p_mqzfddzfzxzb",
@@ -6294,8 +6299,8 @@
     ]
   },
   "_metadata": {
-    "version": 799,
-    "last_updated": "2026-08-13T17:42:17.029Z",
-    "last_updated_by": "YATG"
+    "version": 800,
+    "last_updated": "2026-08-17T16:20:01.543Z",
+    "last_updated_by": "LCDC"
   }
 }
