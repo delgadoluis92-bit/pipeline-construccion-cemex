@@ -1398,6 +1398,11 @@
           "ts": "2026-07-20",
           "text": "Nueva fecha de presentación al juves 23 julio",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-08-17",
+          "text": "1er puesto Tecnico, ultima oferta con 40% de anticipo se fue con $419M.\nGAMI presentó $390, será asignada a ellos",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "Sí",
@@ -1414,10 +1419,10 @@
       "concreto_total": 10,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-20",
+      "fecha_update": "2026-08-17",
       "programa": null,
       "fecha_arranque": "2026-09-08",
-      "comentario": "Nueva fecha de presentación al juves 23 julio"
+      "comentario": "1er puesto Tecnico, ultima oferta con 40% de anticipo se fue con $419M.\nGAMI presentó $390, será asignada a ellos"
     },
     {
       "id": "p_mpn8uu6lx30d",
@@ -6299,8 +6304,8 @@
     ]
   },
   "_metadata": {
-    "version": 800,
-    "last_updated": "2026-08-17T16:20:01.543Z",
+    "version": 801,
+    "last_updated": "2026-08-17T16:21:32.286Z",
     "last_updated_by": "LCDC"
   }
 }
