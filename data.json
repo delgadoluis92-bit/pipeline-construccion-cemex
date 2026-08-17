@@ -638,6 +638,11 @@
           "ts": "2026-07-10",
           "text": "Se inicia aa validar con Edgar Williams la información técnica, info pendiente, adoro, mecanica de suelos",
           "author": "LCDC"
+        },
+        {
+          "ts": "2026-08-17",
+          "text": "Reunión con florencio a inicio de agosto menciona que se licitará este año (Noviembre)",
+          "author": "LCDC"
         }
       ],
       "importante_vale": "No",
@@ -654,10 +659,10 @@
       "concreto_total": 24,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-10",
+      "fecha_update": "2026-08-17",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se inicia aa validar con Edgar Williams la información técnica, info pendiente, adoro, mecanica de suelos"
+      "comentario": "Reunión con florencio a inicio de agosto menciona que se licitará este año (Noviembre)"
     },
     {
       "id": "p_mq5d1w0ne01k",
@@ -6304,8 +6309,8 @@
     ]
   },
   "_metadata": {
-    "version": 801,
-    "last_updated": "2026-08-17T16:21:32.286Z",
+    "version": 802,
+    "last_updated": "2026-08-17T16:21:58.700Z",
     "last_updated_by": "LCDC"
   }
 }
