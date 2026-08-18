@@ -1901,6 +1901,11 @@
           "ts": "2026-07-16",
           "text": "Propuesta de apoyo compartida con cliente. En espera de comentarios",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-18",
+          "text": "Hoy se tuvo reunión con ARQUIPLAN. Nos comentan que en octubre nos podemos incluir en el patrón de proveedores. Por lo pronto harems un paramétrico de estructura (prefabricado vs casetonado) y un cronograma de obra de ambas opciones",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1917,10 +1922,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-07-16",
+      "fecha_update": "2026-08-18",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Propuesta de apoyo compartida con cliente. En espera de comentarios"
+      "comentario": "Hoy se tuvo reunión con ARQUIPLAN. Nos comentan que en octubre nos podemos incluir en el patrón de proveedores. Por lo pronto harems un paramétrico de estructura (prefabricado vs casetonado) y un cronograma de obra de ambas opciones"
     },
     {
       "id": "p_mpn8pyi1cmpp",
@@ -6309,8 +6314,8 @@
     ]
   },
   "_metadata": {
-    "version": 802,
-    "last_updated": "2026-08-17T16:21:58.700Z",
-    "last_updated_by": "LCDC"
+    "version": 803,
+    "last_updated": "2026-08-18T19:52:47.014Z",
+    "last_updated_by": "YATG"
   }
 }
