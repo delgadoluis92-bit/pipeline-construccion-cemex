@@ -2010,7 +2010,7 @@
       "estado": "Tamaulipas",
       "concreto_total": 12.45,
       "anio": 2026,
-      "prioridad": 1,
+      "prioridad": 2,
       "fecha_update": "2026-07-16",
       "programa": null,
       "fecha_arranque": null,
@@ -6314,8 +6314,8 @@
     ]
   },
   "_metadata": {
-    "version": 803,
-    "last_updated": "2026-08-18T19:52:47.014Z",
+    "version": 804,
+    "last_updated": "2026-08-19T23:06:27.138Z",
     "last_updated_by": "YATG"
   }
 }
