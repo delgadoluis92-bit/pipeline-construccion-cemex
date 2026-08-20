@@ -2027,7 +2027,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "API: Edificio(s) aduana(s)",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "01 - Prospección",
       "subsegmento": "Aeropuertos y Puertos",
       "tipo": "Oficinas",
       "cliente": "API",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 822,
-    "last_updated": "2026-08-20T20:03:33.717Z",
+    "version": 823,
+    "last_updated": "2026-08-20T20:03:57.647Z",
     "last_updated_by": "YATG"
   }
 }
