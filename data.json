@@ -5225,7 +5225,7 @@
     {
       "importante_vale": "No",
       "responsable": "YATG",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "10 - Ejecución",
       "proyecto": "100+ Bosque Conchello",
       "subsegmento": "Edificación Pública",
       "tipo": "Urbanización",
@@ -6334,8 +6334,8 @@
     ]
   },
   "_metadata": {
-    "version": 812,
-    "last_updated": "2026-08-20T20:00:13.331Z",
+    "version": 813,
+    "last_updated": "2026-08-20T20:00:27.012Z",
     "last_updated_by": "YATG"
   }
 }
