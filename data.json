@@ -1586,7 +1586,7 @@
       "highlight": true,
       "responsable": "YATG",
       "proyecto": "Distrito CEMEX",
-      "estatus": "01 - Prospección",
+      "estatus": "04 - Negociación",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
       "cliente": "OPERACIONES CEMEX",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 819,
-    "last_updated": "2026-08-20T20:03:23.220Z",
+    "version": 820,
+    "last_updated": "2026-08-20T20:03:26.765Z",
     "last_updated_by": "YATG"
   }
 }
