@@ -571,7 +571,7 @@
       "estado": "Guanajuato",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 2,
+      "prioridad": 1,
       "fecha_update": "2026-08-03",
       "programa": null,
       "fecha_arranque": null,
@@ -6319,8 +6319,8 @@
     ]
   },
   "_metadata": {
-    "version": 806,
-    "last_updated": "2026-08-20T19:56:28.938Z",
+    "version": 807,
+    "last_updated": "2026-08-20T19:56:36.397Z",
     "last_updated_by": "YATG"
   }
 }
