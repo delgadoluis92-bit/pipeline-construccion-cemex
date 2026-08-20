@@ -2123,6 +2123,11 @@
           "ts": "2026-05-28",
           "text": "Mayo 2026- David nos menciona que se autorizo capex para iniciar proyecto ejecutivo de nave. Pendiente seguimiento para arranque",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-20",
+          "text": "Se realizó reunión de arranque de proyecto por 200,000 USD de CAPEX. En reunión de arranque david comentó que ya se cuenta con CAPEX autorizado para nave próximo año. \nSe trabajará en proyecto ejecutivo con cierre en diciembre y se buscará la venta de la nave",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -2139,10 +2144,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-05-28",
+      "fecha_update": "2026-08-20",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Mayo 2026- David nos menciona que se autorizo capex para iniciar proyecto ejecutivo de nave. Pendiente seguimiento para arranque"
+      "comentario": "Se realizó reunión de arranque de proyecto por 200,000 USD de CAPEX. En reunión de arranque david comentó que ya se cuenta con CAPEX autorizado para nave próximo año. \nSe trabajará en proyecto ejecutivo con cierre en diciembre y se buscará la venta de la nave"
     },
     {
       "id": "p_mpmza6am33b8",
@@ -6339,8 +6344,8 @@
     ]
   },
   "_metadata": {
-    "version": 815,
-    "last_updated": "2026-08-20T20:01:10.995Z",
+    "version": 816,
+    "last_updated": "2026-08-20T20:02:14.236Z",
     "last_updated_by": "YATG"
   }
 }
