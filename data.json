@@ -1895,7 +1895,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Remodelación oficinas PLANTA MTY",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "01 - Prospección",
       "subsegmento": "Edificación Pública",
       "tipo": "Oficinas",
       "cliente": "PLANTA MTY",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 824,
-    "last_updated": "2026-08-20T20:04:02.116Z",
+    "version": 825,
+    "last_updated": "2026-08-20T20:04:06.204Z",
     "last_updated_by": "YATG"
   }
 }
