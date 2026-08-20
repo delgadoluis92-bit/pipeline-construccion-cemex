@@ -1804,7 +1804,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Centro comunitario y vivero",
-      "estatus": "01 - Prospección",
+      "estatus": "04 - Negociación",
       "subsegmento": "Edificación Pública",
       "tipo": "Edificio de Usos mixtos",
       "cliente": "PLANTA MTY",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 820,
-    "last_updated": "2026-08-20T20:03:26.765Z",
+    "version": 821,
+    "last_updated": "2026-08-20T20:03:30.268Z",
     "last_updated_by": "YATG"
   }
 }
