@@ -1498,6 +1498,11 @@
           "ts": "2026-08-03",
           "text": "Se recibió OC de parte de cliente, se gestionará arranque de proyecto",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-20",
+          "text": "Se  tuvo reunión con equipo de Alberto para presentarles propuestas de diseño. Se buscará OC pendiente por 65 mil pesos.",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1514,10 +1519,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-08-03",
+      "fecha_update": "2026-08-20",
       "programa": null,
       "fecha_arranque": "2026-06-15",
-      "comentario": "Se recibió OC de parte de cliente, se gestionará arranque de proyecto"
+      "comentario": "Se  tuvo reunión con equipo de Alberto para presentarles propuestas de diseño. Se buscará OC pendiente por 65 mil pesos."
     },
     {
       "id": "p_mpn8sn5lw4o1",
@@ -6324,8 +6329,8 @@
     ]
   },
   "_metadata": {
-    "version": 808,
-    "last_updated": "2026-08-20T19:57:47.906Z",
+    "version": 809,
+    "last_updated": "2026-08-20T19:58:22.644Z",
     "last_updated_by": "YATG"
   }
 }
