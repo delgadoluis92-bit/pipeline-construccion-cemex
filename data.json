@@ -5351,12 +5351,12 @@
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "CET II",
       "subsegmento": "Edificación Pública",
-      "tipo": null,
+      "tipo": "Deportivos",
       "cliente": "SINERGIA",
       "region": "Norte - Bajío",
       "estado": "Nuevo Leon",
       "concreto_total": null,
-      "fecha_update": null,
+      "fecha_update": "2026-08-20",
       "anio": 2025,
       "comentario": "Proyecto ejecutivo de CET II. El arranque de la onstrucción esta por definirse",
       "programa": null,
@@ -5372,7 +5372,9 @@
           "author": "YATG",
           "text": "Proyecto ejecutivo de CET II. El arranque de la onstrucción esta por definirse"
         }
-      ]
+      ],
+      "highlight": false,
+      "fecha_arranque": null
     },
     {
       "importante_vale": "No",
@@ -6344,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 816,
-    "last_updated": "2026-08-20T20:02:14.236Z",
+    "version": 817,
+    "last_updated": "2026-08-20T20:03:05.596Z",
     "last_updated_by": "YATG"
   }
 }
