@@ -5191,7 +5191,7 @@
       "anio": 2025,
       "comentario": "Se envió la propuesta de proyecto ejecutivo. Estamos en espera de OC para arrancar trabajos de proyecto.",
       "programa": null,
-      "prioridad": null,
+      "prioridad": 1,
       "ccr": null,
       "base_estab": null,
       "pavimento": null,
@@ -6329,8 +6329,8 @@
     ]
   },
   "_metadata": {
-    "version": 809,
-    "last_updated": "2026-08-20T19:58:22.644Z",
+    "version": 810,
+    "last_updated": "2026-08-20T19:59:17.572Z",
     "last_updated_by": "YATG"
   }
 }
