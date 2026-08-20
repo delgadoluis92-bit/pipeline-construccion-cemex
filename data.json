@@ -696,6 +696,11 @@
           "ts": "2026-08-03",
           "text": "comenta fer arce: \n\"Buen día Yare,\n\n \n\nSi, le he estado dando seguimiento, pero parece que la persona que lo revisa de parte de RUBA está de vacaciones, parece que regresa apenas este viernes, apenas sepamos algo les informamos, pero no quitamos el dedo del renglón.\n\n \n\nPendientes,\"",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-20",
+          "text": "Solicitaron nueva propuesta con nuevo plano",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -712,10 +717,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-08-03",
+      "fecha_update": "2026-08-20",
       "programa": null,
       "fecha_arranque": "2026-07-13",
-      "comentario": "comenta fer arce: \n\"Buen día Yare,\n\n \n\nSi, le he estado dando seguimiento, pero parece que la persona que lo revisa de parte de RUBA está de vacaciones, parece que regresa apenas este viernes, apenas sepamos algo les informamos, pero no quitamos el dedo del renglón.\n\n \n\nPendientes,\""
+      "comentario": "Solicitaron nueva propuesta con nuevo plano"
     },
     {
       "id": "p_mq59tqq0cqf2",
@@ -6319,8 +6324,8 @@
     ]
   },
   "_metadata": {
-    "version": 807,
-    "last_updated": "2026-08-20T19:56:36.397Z",
+    "version": 808,
+    "last_updated": "2026-08-20T19:57:47.906Z",
     "last_updated_by": "YATG"
   }
 }
