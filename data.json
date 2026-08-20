@@ -1792,6 +1792,11 @@
           "ts": "2026-07-09",
           "text": "Reunuón de presentación final conceptual para cliente. Se presento presupueto de proyecto y costos paramétricos de las 5 fases",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-20",
+          "text": "Se tuvo reunión de presentación con cliente. Se dará seguimiento sobre popuesta. Se busca la aprobación de proyecto ejecutivo",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1808,10 +1813,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-07-09",
+      "fecha_update": "2026-08-20",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Reunuón de presentación final conceptual para cliente. Se presento presupueto de proyecto y costos paramétricos de las 5 fases"
+      "comentario": "Se tuvo reunión de presentación con cliente. Se dará seguimiento sobre popuesta. Se busca la aprobación de proyecto ejecutivo"
     },
     {
       "id": "p_mpn8qu09mr7n",
@@ -6334,8 +6339,8 @@
     ]
   },
   "_metadata": {
-    "version": 813,
-    "last_updated": "2026-08-20T20:00:27.012Z",
+    "version": 814,
+    "last_updated": "2026-08-20T20:01:02.076Z",
     "last_updated_by": "YATG"
   }
 }
