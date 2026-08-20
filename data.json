@@ -1574,6 +1574,11 @@
           "ts": "2026-07-13",
           "text": "Compartirmos el faseo constructivo con el equipo de costos para iniciar con el presupuesto paramétrico de lo propuesto en el conceptual",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-20",
+          "text": "Se tuvo reunión con cliente de propuesta conceptual. Se evaluará un business case de la propuesta para ver beneficios cuantitativos y cualitativos. Se busca que el cliente nos contraté el proyecto ejecutivo por 30 Millones",
+          "author": "YATG"
         }
       ],
       "importante_vale": "Sí",
@@ -1589,11 +1594,11 @@
       "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 2,
-      "fecha_update": "2026-07-13",
+      "prioridad": 1,
+      "fecha_update": "2026-08-20",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Compartirmos el faseo constructivo con el equipo de costos para iniciar con el presupuesto paramétrico de lo propuesto en el conceptual"
+      "comentario": "Se tuvo reunión con cliente de propuesta conceptual. Se evaluará un business case de la propuesta para ver beneficios cuantitativos y cualitativos. Se busca que el cliente nos contraté el proyecto ejecutivo por 30 Millones"
     },
     {
       "id": "p_mpn8s6nljvta",
@@ -6329,8 +6334,8 @@
     ]
   },
   "_metadata": {
-    "version": 810,
-    "last_updated": "2026-08-20T19:59:17.572Z",
+    "version": 811,
+    "last_updated": "2026-08-20T20:00:03.452Z",
     "last_updated_by": "YATG"
   }
 }
