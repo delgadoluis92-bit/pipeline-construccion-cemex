@@ -49,6 +49,11 @@
           "ts": "2026-08-10",
           "text": "Se compartió la propuesta de calle con un costo paramétrico de 110 millones.",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-08-20",
+          "text": "Se busca propuesta de 85 millones. Confirmar con Treviño si este monto es autorizado, para afinar presupuesto",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -65,10 +70,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 2,
-      "fecha_update": "2026-08-10",
+      "fecha_update": "2026-08-20",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se compartió la propuesta de calle con un costo paramétrico de 110 millones."
+      "comentario": "Se busca propuesta de 85 millones. Confirmar con Treviño si este monto es autorizado, para afinar presupuesto"
     },
     {
       "id": "p_msnf7r7sfiq9",
@@ -6314,8 +6319,8 @@
     ]
   },
   "_metadata": {
-    "version": 804,
-    "last_updated": "2026-08-19T23:06:27.138Z",
+    "version": 805,
+    "last_updated": "2026-08-20T19:54:32.017Z",
     "last_updated_by": "YATG"
   }
 }
