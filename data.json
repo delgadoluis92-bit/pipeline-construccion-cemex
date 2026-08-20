@@ -708,7 +708,7 @@
       "highlight": true,
       "responsable": "YATG",
       "proyecto": "Barda RUBA",
-      "estatus": "01 - Prospección",
+      "estatus": "04 - Negociación",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
       "cliente": "RUBA",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 817,
-    "last_updated": "2026-08-20T20:03:05.596Z",
+    "version": 818,
+    "last_updated": "2026-08-20T20:03:18.248Z",
     "last_updated_by": "YATG"
   }
 }
