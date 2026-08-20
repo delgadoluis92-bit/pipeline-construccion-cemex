@@ -1510,7 +1510,7 @@
       "highlight": true,
       "responsable": "YATG",
       "proyecto": "Barda y Parque Santo Domingo",
-      "estatus": "01 - Prospección",
+      "estatus": "04 - Negociación",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
       "cliente": "PLANTA MTY",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 818,
-    "last_updated": "2026-08-20T20:03:18.248Z",
+    "version": 819,
+    "last_updated": "2026-08-20T20:03:23.220Z",
     "last_updated_by": "YATG"
   }
 }
