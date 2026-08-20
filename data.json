@@ -1898,7 +1898,7 @@
       "estado": "Nuevo Leon",
       "concreto_total": null,
       "anio": 2026,
-      "prioridad": 2,
+      "prioridad": 1,
       "fecha_update": "2026-07-13",
       "programa": null,
       "fecha_arranque": null,
@@ -6334,8 +6334,8 @@
     ]
   },
   "_metadata": {
-    "version": 811,
-    "last_updated": "2026-08-20T20:00:03.452Z",
+    "version": 812,
+    "last_updated": "2026-08-20T20:00:13.331Z",
     "last_updated_by": "YATG"
   }
 }
