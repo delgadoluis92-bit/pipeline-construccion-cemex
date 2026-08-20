@@ -2135,7 +2135,7 @@
       "highlight": true,
       "responsable": "YATG",
       "proyecto": "Planta Ruiz Cortines",
-      "estatus": "01 - Prospección",
+      "estatus": "02 - Desarrollo Ingenierías",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
       "cliente": "PLANTA MTY",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 821,
-    "last_updated": "2026-08-20T20:03:30.268Z",
+    "version": 822,
+    "last_updated": "2026-08-20T20:03:33.717Z",
     "last_updated_by": "YATG"
   }
 }
