@@ -5194,7 +5194,7 @@
     {
       "importante_vale": "Sí",
       "responsable": "YATG",
-      "estatus": "02 - Desarrollo Ingenierías",
+      "estatus": "04 - Negociación",
       "proyecto": "100+ Acceso",
       "subsegmento": "Edificación Pública",
       "tipo": "Otros",
@@ -6346,8 +6346,8 @@
     ]
   },
   "_metadata": {
-    "version": 823,
-    "last_updated": "2026-08-20T20:03:57.647Z",
+    "version": 824,
+    "last_updated": "2026-08-20T20:04:02.116Z",
     "last_updated_by": "YATG"
   }
 }
