@@ -2709,9 +2709,9 @@
       "region": "Pacífico",
       "estado": "Sinaloa",
       "concreto_total": 20,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-08-24",
       "anio": 2026,
-      "comentario": "Licitación salió únicamente para empresas que hacen servicios de auscultación, eliminado del brochure comercial por alcance del proyecto general",
+      "comentario": "Proyecto asignado a PROYEXTRA bajo esquema EPC - Se busca acercamiento con contratista para conocer alcances ( se estima la construccion de 1-2 posiciones de aviacion comercial) y ofrecer soluciones de tipo suministro-colocación.",
       "programa": null,
       "prioridad": 3,
       "ccr": null,
@@ -2729,6 +2729,11 @@
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "Licitación salió únicamente para empresas que hacen servicios de auscultación, eliminado del brochure comercial por alcance del proyecto general"
+        },
+        {
+          "ts": "2026-08-24",
+          "text": "Proyecto asignado a PROYEXTRA bajo esquema EPC - Se busca acercamiento con contratista para conocer alcances ( se estima la construccion de 1-2 posiciones de aviacion comercial) y ofrecer soluciones de tipo suministro-colocación.",
+          "author": "ESRA"
         }
       ],
       "highlight": false,
@@ -6346,8 +6351,8 @@
     ]
   },
   "_metadata": {
-    "version": 825,
-    "last_updated": "2026-08-20T20:04:06.204Z",
-    "last_updated_by": "YATG"
+    "version": 826,
+    "last_updated": "2026-08-24T23:27:59.170Z",
+    "last_updated_by": "ESRA"
   }
 }
