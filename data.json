@@ -4089,9 +4089,9 @@
       "region": "Pacífico",
       "estado": "Sinaloa",
       "concreto_total": 17,
-      "fecha_update": "2026-05-18",
+      "fecha_update": "2026-08-24",
       "anio": 2026,
-      "comentario": "$293M",
+      "comentario": "OMA cuenta con proyecto ejecutivo, posible licitación de obra en ultimo trimestre del año.",
       "programa": null,
       "prioridad": null,
       "ccr": null,
@@ -4109,6 +4109,11 @@
           "ts": "2026-05-18",
           "author": "LCDC",
           "text": "$293M"
+        },
+        {
+          "ts": "2026-08-24",
+          "text": "OMA cuenta con proyecto ejecutivo, posible licitación de obra en ultimo trimestre del año.",
+          "author": "ESRA"
         }
       ],
       "highlight": false,
@@ -6351,8 +6356,8 @@
     ]
   },
   "_metadata": {
-    "version": 826,
-    "last_updated": "2026-08-24T23:27:59.170Z",
+    "version": 827,
+    "last_updated": "2026-08-24T23:30:10.310Z",
     "last_updated_by": "ESRA"
   }
 }
