@@ -1056,6 +1056,11 @@
           "ts": "2026-08-03",
           "text": "Actualización de presupuesto a 1.4 km de los 3 originales.",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-09-03",
+          "text": "Se actualiza y se presenta prespuesto con los nuevos alcaces.Asuntos corporativos necesita estar consciente del monto que tienen autorizado para la donación.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -1072,10 +1077,10 @@
       "concreto_total": 7,
       "anio": 2027,
       "prioridad": 3,
-      "fecha_update": "2026-08-03",
+      "fecha_update": "2026-09-03",
       "programa": "Proyecto Interno",
       "fecha_arranque": "2027-03-03",
-      "comentario": "Actualización de presupuesto a 1.4 km de los 3 originales."
+      "comentario": "Se actualiza y se presenta prespuesto con los nuevos alcaces.Asuntos corporativos necesita estar consciente del monto que tienen autorizado para la donación."
     },
     {
       "id": "p_mpvlzf8l9bc5",
@@ -6422,8 +6427,8 @@
     ]
   },
   "_metadata": {
-    "version": 839,
-    "last_updated": "2026-09-03T18:16:45.653Z",
-    "last_updated_by": "YATG"
+    "version": 840,
+    "last_updated": "2026-09-03T21:25:04.189Z",
+    "last_updated_by": "JDDO"
   }
 }
