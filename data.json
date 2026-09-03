@@ -5422,7 +5422,7 @@
       "fecha_arranque": null
     },
     {
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "responsable": "YATG",
       "estatus": "02 - Desarrollo Ingenierías",
       "proyecto": "CET II",
@@ -6422,8 +6422,8 @@
     ]
   },
   "_metadata": {
-    "version": 835,
-    "last_updated": "2026-09-03T18:16:30.618Z",
+    "version": 836,
+    "last_updated": "2026-09-03T18:16:32.801Z",
     "last_updated_by": "YATG"
   }
 }
