@@ -1820,6 +1820,11 @@
           "ts": "2026-07-16",
           "text": "Se compartió nuevo cronograma de forma de trabajo. Dar seguimiento si ellos ya recibieron asignación de obra pero más importante, si nos pueden compartir su techo presupuestal cotizado en estructura para ver si entramos o no",
           "author": "YATG"
+        },
+        {
+          "ts": "2026-09-03",
+          "text": "Cliente no decidió realizar cambio a prefabricado",
+          "author": "YATG"
         }
       ],
       "importante_vale": "No",
@@ -1827,7 +1832,7 @@
       "highlight": false,
       "responsable": "YATG",
       "proyecto": "Prepa Tec Hermosillo Sonora",
-      "estatus": "03 - Licitación",
+      "estatus": "08 - Descartado / Inviable",
       "subsegmento": "Edificación Pública",
       "tipo": "Educación",
       "cliente": "HERMOSILLO/PREPA TEC",
@@ -1836,10 +1841,10 @@
       "concreto_total": 2.07,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-07-16",
+      "fecha_update": "2026-09-03",
       "programa": null,
       "fecha_arranque": null,
-      "comentario": "Se compartió nuevo cronograma de forma de trabajo. Dar seguimiento si ellos ya recibieron asignación de obra pero más importante, si nos pueden compartir su techo presupuestal cotizado en estructura para ver si entramos o no"
+      "comentario": "Cliente no decidió realizar cambio a prefabricado"
     },
     {
       "id": "p_mpn8r12x4kwt",
@@ -6417,8 +6422,8 @@
     ]
   },
   "_metadata": {
-    "version": 831,
-    "last_updated": "2026-09-03T17:41:12.363Z",
+    "version": 832,
+    "last_updated": "2026-09-03T18:11:05.732Z",
     "last_updated_by": "YATG"
   }
 }
