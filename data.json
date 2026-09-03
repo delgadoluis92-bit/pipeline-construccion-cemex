@@ -766,7 +766,7 @@
       ],
       "importante_vale": "No",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "YATG",
       "proyecto": "Barda RUBA",
       "estatus": "04 - Negociación",
@@ -6422,8 +6422,8 @@
     ]
   },
   "_metadata": {
-    "version": 832,
-    "last_updated": "2026-09-03T18:11:05.732Z",
+    "version": 833,
+    "last_updated": "2026-09-03T18:15:10.659Z",
     "last_updated_by": "YATG"
   }
 }
