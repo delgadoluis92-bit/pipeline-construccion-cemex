@@ -260,7 +260,7 @@
           "author": "JDDO"
         }
       ],
-      "importante_vale": "Sí",
+      "importante_vale": "No",
       "conversion_tecnica": false,
       "highlight": false,
       "responsable": "JDDO",
@@ -6432,8 +6432,8 @@
     ]
   },
   "_metadata": {
-    "version": 842,
-    "last_updated": "2026-09-03T21:26:25.091Z",
+    "version": 843,
+    "last_updated": "2026-09-03T21:26:41.045Z",
     "last_updated_by": "JDDO"
   }
 }
