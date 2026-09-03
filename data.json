@@ -147,7 +147,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "CET PTAR ETAPA II",
       "estatus": "04 - Negociación",
@@ -6422,8 +6422,8 @@
     ]
   },
   "_metadata": {
-    "version": 837,
-    "last_updated": "2026-09-03T18:16:35.871Z",
+    "version": 838,
+    "last_updated": "2026-09-03T18:16:39.591Z",
     "last_updated_by": "YATG"
   }
 }
