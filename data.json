@@ -258,6 +258,11 @@
           "ts": "2026-07-14",
           "text": "Se envia propuesta economica a DEWA para su revisión y VoBo",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-09-03",
+          "text": "Mercado Libre no tiene recurso para el pago de los estudios.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "No",
@@ -265,7 +270,7 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "HPC Floor Technical Requirements Checklist",
-      "estatus": "04 - Negociación",
+      "estatus": "08 - Descartado / Inviable",
       "subsegmento": "Otros",
       "tipo": "Otros",
       "cliente": "DEWA",
@@ -274,10 +279,10 @@
       "concreto_total": null,
       "anio": 2026,
       "prioridad": 1,
-      "fecha_update": "2026-07-14",
+      "fecha_update": "2026-09-03",
       "programa": "Mercadolibre Floor",
       "fecha_arranque": "2026-07-20",
-      "comentario": "Se envia propuesta economica a DEWA para su revisión y VoBo"
+      "comentario": "Mercado Libre no tiene recurso para el pago de los estudios."
     },
     {
       "id": "p_mrdsqega75zf",
@@ -6432,8 +6437,8 @@
     ]
   },
   "_metadata": {
-    "version": 843,
-    "last_updated": "2026-09-03T21:26:41.045Z",
+    "version": 844,
+    "last_updated": "2026-09-03T21:27:17.068Z",
     "last_updated_by": "JDDO"
   }
 }
