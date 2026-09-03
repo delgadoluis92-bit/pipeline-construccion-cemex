@@ -2328,6 +2328,11 @@
           "ts": "2026-08-03",
           "text": "Actualización de PE con Soluciones de acuerdo con los cambios que solicita MEM",
           "author": "JDDO"
+        },
+        {
+          "ts": "2026-09-03",
+          "text": "Arranque de trabajos el proximo miercoles de 9 de septiembre. Soluciones integrales Centro Sur ejecuta el proyecto.",
+          "author": "JDDO"
         }
       ],
       "importante_vale": "Sí",
@@ -2335,7 +2340,7 @@
       "highlight": false,
       "responsable": "JDDO",
       "proyecto": "Roderas - DRT Campeche",
-      "estatus": "06 - TBD (Corto Plazo)",
+      "estatus": "05 - Cerrado",
       "subsegmento": "Carreteras y Vialidades",
       "tipo": "Carreteras",
       "cliente": "Mota Engil México (MEM)",
@@ -2344,10 +2349,10 @@
       "concreto_total": 0.405,
       "anio": 2026,
       "prioridad": 3,
-      "fecha_update": "2026-08-03",
+      "fecha_update": "2026-09-03",
       "programa": "DRT Campeche",
       "fecha_arranque": "2026-06-15",
-      "comentario": "Actualización de PE con Soluciones de acuerdo con los cambios que solicita MEM"
+      "comentario": "Arranque de trabajos el proximo miercoles de 9 de septiembre. Soluciones integrales Centro Sur ejecuta el proyecto."
     },
     {
       "importante_vale": "No",
@@ -6427,8 +6432,8 @@
     ]
   },
   "_metadata": {
-    "version": 841,
-    "last_updated": "2026-09-03T21:25:40.620Z",
+    "version": 842,
+    "last_updated": "2026-09-03T21:26:25.091Z",
     "last_updated_by": "JDDO"
   }
 }
