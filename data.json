@@ -1,6 +1,34 @@
 {
   "projects": [
     {
+      "id": "p_mtlta78rden2",
+      "history": [
+        {
+          "ts": "2026-09-03",
+          "text": "Se compartió propuesta conceptual de 3 opciones de reja.",
+          "author": "YATG"
+        }
+      ],
+      "importante_vale": "No",
+      "conversion_tecnica": false,
+      "highlight": false,
+      "responsable": null,
+      "proyecto": "Reja Hospital Tula",
+      "estatus": "01 - Prospección",
+      "subsegmento": "Edificación Pública",
+      "tipo": "Salud",
+      "cliente": "IMSS",
+      "region": "Norte - Bajío",
+      "estado": "Hidalgo",
+      "concreto_total": null,
+      "anio": 2026,
+      "prioridad": 1,
+      "fecha_update": "2026-09-03",
+      "programa": "6.5 MDP",
+      "fecha_arranque": null,
+      "comentario": "Se compartió propuesta conceptual de 3 opciones de reja."
+    },
+    {
       "id": "p_mtiyea61fmnz",
       "history": [
         {
@@ -6389,8 +6417,8 @@
     ]
   },
   "_metadata": {
-    "version": 830,
-    "last_updated": "2026-09-03T17:27:05.649Z",
+    "version": 831,
+    "last_updated": "2026-09-03T17:41:12.363Z",
     "last_updated_by": "YATG"
   }
 }
