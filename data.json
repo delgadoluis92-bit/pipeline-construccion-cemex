@@ -1328,7 +1328,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": false,
+      "highlight": true,
       "responsable": "YATG",
       "proyecto": "Estacionamiento NET",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -6422,8 +6422,8 @@
     ]
   },
   "_metadata": {
-    "version": 838,
-    "last_updated": "2026-09-03T18:16:39.591Z",
+    "version": 839,
+    "last_updated": "2026-09-03T18:16:45.653Z",
     "last_updated_by": "YATG"
   }
 }
