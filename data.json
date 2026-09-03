@@ -2198,7 +2198,7 @@
       ],
       "importante_vale": "Sí",
       "conversion_tecnica": false,
-      "highlight": true,
+      "highlight": false,
       "responsable": "YATG",
       "proyecto": "Planta Ruiz Cortines",
       "estatus": "02 - Desarrollo Ingenierías",
@@ -6422,8 +6422,8 @@
     ]
   },
   "_metadata": {
-    "version": 834,
-    "last_updated": "2026-09-03T18:16:26.152Z",
+    "version": 835,
+    "last_updated": "2026-09-03T18:16:30.618Z",
     "last_updated_by": "YATG"
   }
 }
